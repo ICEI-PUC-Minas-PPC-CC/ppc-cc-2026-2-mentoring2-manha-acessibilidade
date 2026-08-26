@@ -1,19 +1,22 @@
-# TÍTULO DO PROJETO
+# Acessibilidade em Aplicações 
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`Disciplina: MENTORING SOCIEDADE DIGITAL`
+
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Júlia Corrêa 
+- Luisa Leal 
+- Brenda Batagini
+- Mateus Henrique
+- Daniel Ferreira
+- Giovanna Zangiacomi
+- Rayane Dourado 
 
 ## Professor
 
-- Mestre Yoda
+- Luciana de Nardin e Udo Fritzke Junior 
 
 # Documentação
 
