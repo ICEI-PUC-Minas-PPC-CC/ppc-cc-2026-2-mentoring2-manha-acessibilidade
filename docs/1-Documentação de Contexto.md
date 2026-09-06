@@ -62,8 +62,10 @@ Contexto: Sentem-se constantemente angustiados e exaustos pela necessidade de lu
 Necessidade no projeto: Buscam a garantia de que as instituições disponham de métodos claros de acolhimento e suporte especializado, assegurando que seus filhos tenham autonomia, segurança e aprendizado em igualdade de condições.
 
 3. O Estudante:
+
 Perfil: Lucas, 11 anos, aluno matriculado no ensino fundamental que é cego.
 
 Contexto: É o indivíduo diretamente negligenciado quando a escola falha em prover acessibilidade sensorial. Sofre com a ausência de sinalização tátil nos pisos, falta de livros em Braille, ausência de softwares de leitura de tela nos computadores da escola e materiais didáticos impressos comuns, o que limita severamente sua participação nas atividades e sua autonomia no ambiente escolar.
+
 Necessidade no projeto: É o beneficiário final de todas as soluções propostas. Representa a urgência de transformar o ambiente escolar em um espaço universalmente acessível, onde ele possa transitar com segurança, aprender por meio de recursos táteis e tecnológicos, e interagir plenamente com os colegas.
 
