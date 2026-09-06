@@ -6,8 +6,6 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 ## Personas
 
-Exemplo:
-
 |**Marta Morais**|           |                             | 
 |-------------------|-----------|-----------------------------|
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Perfil:** Marta, 48 anos, diretora de uma escola de médio porte. 
