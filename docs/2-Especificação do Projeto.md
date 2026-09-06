@@ -14,7 +14,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 |**Roberto e Ana**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Perfil:** Marta, 48 anos, diretora de uma escola de médio porte. 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|
 **Perfil:** Roberto e Ana, 39 e 41 anos, pais de um aluno com deficiência visual.
 
 **Contexto:** Sentem-se constantemente angustiados e exaustos pela necessidade de lutar diariamente para que o filho tenha acesso a materiais adaptados, como livros em Braille e leitores de tela nas aulas. Enfrentam barreiras tanto em escolas públicas quanto em privadas, que muitas vezes aceitam a matrícula, mas terceirizam a responsabilidade pelo suporte pedagógico adequado.
@@ -23,7 +23,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 |**Lucas Silva**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Perfil:** Marta, 48 anos, diretora de uma escola de médio porte. 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|
 **Perfil:** Lucas, 11 anos, aluno matriculado no ensino fundamental que é cego.
 
 **Contexto:** É o indivíduo diretamente negligenciado quando a escola falha em prover acessibilidade sensorial. Sofre com a ausência de sinalização tátil nos pisos, falta de livros em Braille, ausência de softwares de leitura de tela nos computadores da escola e materiais didáticos impressos comuns, o que limita severamente sua participação nas atividades e sua autonomia no ambiente escolar.
