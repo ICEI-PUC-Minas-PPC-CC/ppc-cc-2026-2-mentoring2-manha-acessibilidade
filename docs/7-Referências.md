@@ -1,4 +1,4 @@
-# Referências
+# Referências 
 
 [1] WORLD BANK GROUP. Inclusive Education: Overview and Global Statistics. 2023. Disponível em: https://www.worldbank.org/en/brief/2025/03/31/inclusive-education. Acesso em: 2 set. 2026.
 
