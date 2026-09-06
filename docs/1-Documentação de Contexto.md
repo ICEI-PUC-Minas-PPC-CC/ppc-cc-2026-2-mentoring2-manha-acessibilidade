@@ -1,6 +1,8 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A tecnologia está cada vez mais presente nas escolas, contribuindo para o aprendizado e o acesso à informação. Porém, nem todos os estudantes conseguem utilizar os recursos digitais de forma adequada, principalmente pessoas com deficiência visual e neurodivergentes. A falta de acessibilidade em plataformas, materiais e ferramentas digitais pode criar barreiras que dificultam a participação e a aprendizagem desses alunos.
+
+Diante disso, este projeto aborda a importância de acessibilidade digital no ambiente escolar, buscando destacar a necessidade de recursos mais inclusivos e adaptados às diferentes necessidades dos estudantes. A proposta é voltada para escolas públicas e privadas, com o intuito de incentivar instituições de ensino a reconhecerem essas barreiras e buscarem forma de tornar a tecnologia mais acessível para todos.
 
 ## Problema
 Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
