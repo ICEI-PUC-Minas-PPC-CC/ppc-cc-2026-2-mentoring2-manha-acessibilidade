@@ -14,7 +14,7 @@ Nesse cenário, constitui ponto fundamental de análise ponderar como tais diret
 
 ## Objetivos
 
-###Objetivo Geral
+### Objetivo Geral
 
 Investigar e propor diretrizes, soluções práticas e ações que contribuam para melhorar a acessibilidade e a equidade educacional, identificando formas de reduzir barreiras físicas, digitais e pedagógicas nas instituições de ensino, com base em artigos científicos, relatórios nacionais e internacionais e dados coletados junto às escolas.
 
