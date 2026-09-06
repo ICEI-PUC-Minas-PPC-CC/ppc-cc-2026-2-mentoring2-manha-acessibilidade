@@ -8,7 +8,7 @@ Diante disso, este projeto aborda a importância de acessibilidade digital no am
 
 O problema central que buscamos abordar é a defasagem de diretrizes práticas e de mecanismos de intervenção aplicáveis para a melhoria da acessibilidade educacional como um todo, diante da grande massa de alunos matriculados com deficiências ou neurodivergências.
 
-Relatórios educacionais evidenciam que, embora milhões de estudantes com necessidades físicas, sensoriais e neurodivergentes ocupem diariamente as carteiras das escolas, como demonstram tanto a estimativa global de 240 milhões de crianças com deficiência da UNICEF (2021) [^5], quanto o contingente de mais de 1,7 milhão de matrículas na Educação Especial registrado pelo Censo Escolar brasileiro de 2023 (INEP, 2024) [^2], a ausência de um plano de ação claro e padronizado sobre o que fazer para superar os obstáculos cotidianos mantém esses alunos submetidos a condições precárias de permanência e aprendizado. O próprio painel de indicadores da Educação Especial mantido pelo Instituto Rodrigo Mendes, com base nos dados do INEP, aponta que, apesar do avanço da inclusão em classes comuns, persistem desafios relevantes como a insuficiência de recursos de acessibilidade nas escolas e a limitada formação continuada dos professores para atuar com esse público (INSTITUTO RODRIGO MENDES, 2024) [^3]. 
+Relatórios educacionais evidenciam que, embora milhões de estudantes com necessidades físicas, sensoriais e neurodivergentes ocupem diariamente as carteiras das escolas, como demonstram tanto a estimativa global de 240 milhões de crianças com deficiência da UNICEF (2021) [[5]](7-Referências.md), quanto o contingente de mais de 1,7 milhão de matrículas na Educação Especial registrado pelo Censo Escolar brasileiro de 2023 (INEP, 2024) [[2]](7-Referências.md), a ausência de um plano de ação claro e padronizado sobre o que fazer para superar os obstáculos cotidianos mantém esses alunos submetidos a condições precárias de permanência e aprendizado. O próprio painel de indicadores da Educação Especial mantido pelo Instituto Rodrigo Mendes, com base nos dados do INEP, aponta que, apesar do avanço da inclusão em classes comuns, persistem desafios relevantes como a insuficiência de recursos de acessibilidade nas escolas e a limitada formação continuada dos professores para atuar com esse público (INSTITUTO RODRIGO MENDES, 2024) [[3]](7-Referências.md). 
 
 Nesse cenário, constitui ponto fundamental de análise ponderar como tais diretrizes se aplicam e se adaptam às realidades operacionais distintas encontradas tanto nas escolas públicas quanto nas instituições privadas, cujos fluxos de recursos, gestão e estruturas físicas variam consideravelmente.
 
@@ -41,7 +41,3 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
 > - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
-
-[^2]: 7-Referências.md
-[^3]: 7-Referências.md
-[^5]: 7-Referências.md
