@@ -40,32 +40,8 @@ Investigar essa realidade permite analisar os desafios enfrentados pelas redes p
 
 Diante disso, o projeto busca identificar as principais barreiras de acessibilidade nas escolas e propor alternativas para minimizar essas dificuldades. Dessa forma, espera-se que estudantes com diferentes necessidades usufruam do espaço educacional com equidade, favorecendo diretamente sua participação, autonomia e aprendizagem.
 
-## Público-Alvo e Personas
-O público-alvo deste projeto engloba o ecossistema educacional diretamente envolvido na melhoria da acessibilidade e da equidade, abrangendo desde os formuladores de diretrizes e gestores até as famílias e os próprios estudantes que vivenciam a rotina escolar em instituições públicas e privadas.
+## Público-Alvo
 
-Para compreender de forma humanizada e detalhada as reais necessidades desse público, a investigação adota a construção de três personas distintas, representando diferentes frentes impactadas pela ausência de soluções de acessibilidade:
+O público-alvo deste projeto engloba o ecossistema educacional diretamente envolvido na melhoria da acessibilidade e da equidade, abrangendo desde os formuladores de diretrizes e gestores até as famílias e os próprios estudantes que vivenciam a rotina escolar em instituições públicas e privadas. Trata-se de um público heterogêneo, que atua em diferentes níveis do sistema educacional desde a formulação de políticas e a gestão institucional até a vivência cotidiana dentro da sala de aula, mas que compartilha um mesmo interesse comum: a construção de ambientes escolares mais acessíveis, seguros e equitativos. Esse ecossistema não se limita a um único tipo de instituição, contemplando tanto escolas da rede pública, que costumam depender de repasses governamentais e de reformas estruturais custeadas pelo Estado, quanto escolas da rede privada, que operam sob lógicas próprias de investimento, gestão financeira e regulamentação.
 
-1. A Gestora Escolar:
-
-Perfil: Marta, 48 anos, diretora de uma escola de médio porte.
-
-Contexto: Ela reconhece a importância da inclusão, mas enfrenta o desafio prático de não saber exatamente o que fazer ou por onde começar para adequar a infraestrutura física e os recursos pedagógicos da instituição, equilibrando essa demanda com as limitações orçamentárias.
-
-Necessidade no projeto: Busca diretrizes claras, viáveis e um passo a passo estruturado sobre quais melhorias priorizar para tornar o ambiente escolar acessível sem incorrer em falhas legais ou operacionais.
-
-2. Os Pais ou Responsáveis
-
-Perfil: Roberto e Ana, 39 e 41 anos, pais de um aluno com deficiência visual.
-
-Contexto: Sentem-se constantemente angustiados e exaustos pela necessidade de lutar diariamente para que o filho tenha acesso a materiais adaptados, como livros em Braille e leitores de tela nas aulas. Enfrentam barreiras tanto em escolas públicas quanto em privadas, que muitas vezes aceitam a matrícula, mas terceirizam a responsabilidade pelo suporte pedagógico adequado.
-
-Necessidade no projeto: Buscam a garantia de que as instituições disponham de métodos claros de acolhimento e suporte especializado, assegurando que seus filhos tenham autonomia, segurança e aprendizado em igualdade de condições.
-
-3. O Estudante:
-
-Perfil: Lucas, 11 anos, aluno matriculado no ensino fundamental que é cego.
-
-Contexto: É o indivíduo diretamente negligenciado quando a escola falha em prover acessibilidade sensorial. Sofre com a ausência de sinalização tátil nos pisos, falta de livros em Braille, ausência de softwares de leitura de tela nos computadores da escola e materiais didáticos impressos comuns, o que limita severamente sua participação nas atividades e sua autonomia no ambiente escolar.
-
-Necessidade no projeto: É o beneficiário final de todas as soluções propostas. Representa a urgência de transformar o ambiente escolar em um espaço universalmente acessível, onde ele possa transitar com segurança, aprender por meio de recursos táteis e tecnológicos, e interagir plenamente com os colegas.
-
+Além disso, esse público-alvo é diretamente impactado pela forma como as políticas de inclusão são traduzidas em ações práticas no dia a dia escolar o que reforça a necessidade de que as diretrizes propostas por esta pesquisa sejam claras, aplicáveis e sensíveis às diferentes realidades encontradas dentro do sistema educacional brasileiro.
