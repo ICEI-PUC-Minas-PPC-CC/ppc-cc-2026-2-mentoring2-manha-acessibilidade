@@ -5,7 +5,6 @@
 
 ## Personas
 
-## Personas
 
 **1. A Gestora Escolar**
 
