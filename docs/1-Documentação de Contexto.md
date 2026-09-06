@@ -5,14 +5,12 @@ A tecnologia está cada vez mais presente nas escolas, contribuindo para o apren
 Diante disso, este projeto aborda a importância de acessibilidade digital no ambiente escolar, buscando destacar a necessidade de recursos mais inclusivos e adaptados às diferentes necessidades dos estudantes. A proposta é voltada para escolas públicas e privadas, com o intuito de incentivar instituições de ensino a reconhecerem essas barreiras e buscarem forma de tornar a tecnologia mais acessível para todos.
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
 
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+O problema central que buscamos abordar é a defasagem de diretrizes práticas e de mecanismos de intervenção aplicáveis para a melhoria da acessibilidade educacional como um todo, diante da grande massa de alunos matriculados com deficiências ou neurodivergências.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Relatórios educacionais evidenciam que, embora milhões de estudantes com necessidades físicas, sensoriais e neurodivergentes ocupem diariamente as carteiras das escolas, como demonstram tanto a estimativa global de 240 milhões de crianças com deficiência da UNICEF (2021) [^5], quanto o contingente de mais de 1,7 milhão de matrículas na Educação Especial registrado pelo Censo Escolar brasileiro de 2023 (INEP, 2024) [^2], a ausência de um plano de ação claro e padronizado sobre o que fazer para superar os obstáculos cotidianos mantém esses alunos submetidos a condições precárias de permanência e aprendizado. O próprio painel de indicadores da Educação Especial mantido pelo Instituto Rodrigo Mendes, com base nos dados do INEP, aponta que, apesar do avanço da inclusão em classes comuns, persistem desafios relevantes como a insuficiência de recursos de acessibilidade nas escolas e a limitada formação continuada dos professores para atuar com esse público (INSTITUTO RODRIGO MENDES, 2024) [^3]. 
+
+Nesse cenário, constitui ponto fundamental de análise ponderar como tais diretrizes se aplicam e se adaptam às realidades operacionais distintas encontradas tanto nas escolas públicas quanto nas instituições privadas, cujos fluxos de recursos, gestão e estruturas físicas variam consideravelmente.
 
 ## Objetivos
 
@@ -43,3 +41,7 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
 > - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+
+[^2]: 7-Referências.md
+[^3]: 7-Referências.md
+[^5]: 7-Referências.md
