@@ -1,8 +1,8 @@
 # Introdução
 
-A tecnologia está cada vez mais presente nas escolas, contribuindo para o aprendizado e o acesso à informação. Porém, nem todos os estudantes conseguem utilizar os recursos digitais de forma adequada, principalmente pessoas com deficiência visual e neurodivergentes. A falta de acessibilidade em plataformas, materiais e ferramentas digitais pode criar barreiras que dificultam a participação e a aprendizagem desses alunos.
+A tecnologia está cada vez mais presente nas escolas, contribuindo para o aprendizado e o acesso à informação. Porém, nem todos os estudantes conseguem utilizar os recursos digitais e os espaços escolares de forma adequada, principalmente pessoas com deficiência visual e neurodivergentes. A falta de acessibilidade em plataformas, materiais e ferramentas digitais, assim como a ausência de adaptações adequadas nos ambientes físicos das instituições de ensino, pode criar barreiras que dificultam a participação e a aprendizagem desses alunos.
 
-Diante disso, este projeto aborda a importância de acessibilidade digital no ambiente escolar, buscando destacar a necessidade de recursos mais inclusivos e adaptados às diferentes necessidades dos estudantes. A proposta é voltada para escolas públicas e privadas, com o intuito de incentivar instituições de ensino a reconhecerem essas barreiras e buscarem forma de tornar a tecnologia mais acessível para todos.
+Diante disso, este projeto aborda a importância de acessibilidade digital e física no ambiente escolar, buscando destacar a necessidade de recursos, tecnologias, materiais e espaços mais inclusivos e adaptados às diferentes necessidades dos estudantes. A proposta é voltada para escolas públicas e privadas, com o intuito de incentivar instituições de ensino a reconhecerem essas barreiras e buscarem formas de tornar tanto a tecnologia quanto os espaços escolares mais acessíveis, garantindo melhores condições de participação, aprendizagem e inclusão para todos.
 
 ## Problema
 
