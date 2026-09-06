@@ -48,14 +48,17 @@ Para selecionar as imagens de suas personas, utilize o site: https://this-person
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
-Exemplo:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+| EU COMO... `PERSONA` | QUERO/PRECISO... `FUNCIONALIDADE` | PARA... `MOTIVO/VALOR` |
+|---|---|---|
+| Marta (Gestora Escolar) | ter um roteiro claro e priorizado de adaptações arquitetônicas e pedagógicas | saber por onde começar sem cometer falhas legais ou operacionais |
+| Marta (Gestora Escolar) | um guia que diferencie soluções viáveis para escolas públicas e privadas | adequar as melhorias à realidade orçamentária e de gestão da minha instituição |
+| Marta (Gestora Escolar) | orientações sobre capacitação continuada da equipe pedagógica | garantir que os professores saibam atender adequadamente os alunos com deficiência |
+| Roberto e Ana (Pais/Responsáveis) | ter a garantia de que a escola oferece materiais adaptados, como livros em Braille e leitores de tela | assegurar que meu filho acompanhe as aulas em igualdade de condições com os colegas |
+| Roberto e Ana (Pais/Responsáveis) | um canal claro de comunicação com a escola sobre o suporte pedagógico oferecido | não precisar cobrar ou negociar diariamente pelos direitos do meu filho |
+| Roberto e Ana (Pais/Responsáveis) | saber que a escola não terceiriza a responsabilidade pelo suporte especializado | ter confiança de que meu filho está seguro e amparado dentro da instituição |
+| Lucas (Estudante) | contar com sinalização tátil nos pisos e ambientes da escola | me deslocar com autonomia e segurança pelo espaço escolar |
+| Lucas (Estudante) | ter acesso a livros em Braille e softwares de leitura de tela nos computadores | acompanhar o conteúdo das aulas no mesmo ritmo que meus colegas |
+| Lucas (Estudante) | participar das atividades escolares com os mesmos recursos que os demais alunos | interagir plenamente com meus colegas e não me sentir excluído |
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
