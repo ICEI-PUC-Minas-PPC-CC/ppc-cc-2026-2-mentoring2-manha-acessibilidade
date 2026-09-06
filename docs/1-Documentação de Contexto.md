@@ -14,12 +14,23 @@ Nesse cenário, constitui ponto fundamental de análise ponderar como tais diret
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
+###Objetivo Geral
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Investigar e propor diretrizes, soluções práticas e ações que contribuam para melhorar a acessibilidade e a equidade educacional, identificando formas de reduzir barreiras físicas, digitais e pedagógicas nas instituições de ensino, com base em artigos científicos, relatórios nacionais e internacionais e dados coletados junto às escolas.
+
+### Objetivos Específicos
+
+* Identificar e reunir boas práticas internacionais relacionadas à adequação dos espaços físicos, ao uso de tecnologias e às estratégias pedagógicas voltadas à inclusão, com base em estudofas acadêmicos.
+
+* Realizar um levantamento junto às escolas públicas e privadas para identificar os recursos de acessibilidade já disponíveis, as principais dificuldades encontradas e as possibilidades de implementação de novas soluções.
+
+* Analisar de que maneira as soluções propostas podem ser aplicadas, considerando as diferentes condições de gestão, infraestrutura e recursos encontradas em escolas públicas e privadas.
+
+* Analisar como as melhorias na acessibilidade física, digital e pedagógica podem contribuir para a inclusão, a autonomia e a participação dos alunos nas atividades escolares.
+
+* Desenvolver um roteiro de soluções práticas que possa orientar gestores e educadores na busca por um ambiente escolar mais acessível e adequado às necessidades de todos os alunos.
+
+* Propor formas de facilitar o acesso de pais e responsáveis a informações sobre as condições de acessibilidade e inclusão das escolas, auxiliando na escolha de uma instituição que atenda às necessidades de seus filhos.
 
 ## Justificativa
 
