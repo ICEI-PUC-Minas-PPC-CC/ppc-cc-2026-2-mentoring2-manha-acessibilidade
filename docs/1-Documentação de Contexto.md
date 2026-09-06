@@ -23,12 +23,11 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
+A escolha do tema acessibilidade digital no ambiente escolar justifica-se pela necessidade de garantir que todos os estudantes tenham condições de participar das atividades educacionais e utilizar os recursos tecnológicos de maneira adequada. Com a crescente digitalização do ensino, a falta de ferramentas inclusivas pode criar barreiras significativas para estudantes com deficiência visual e neurodivergências, dificultando seu aprendizado e sua participação no ambiente escolar. Assim, a eliminação de barreiras em ambientes virtuais e materiais pedagógicos digitais torna-se cada vez mais necessária, sendo respaldada pela Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei nº 13.146/2015) [7] e por normas técnicas, como a ABNT NBR 17225:2025 [8], relacionadas à acessibilidade digital.
 
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
+Investigar essa realidade em Poços de Caldas permite analisar de perto os desafios relacionados à acessibilidade nas diferentes redes de ensino. Enquanto a rede pública municipal busca se modernizar por meio de iniciativas como o projeto “Circuito CrIAtivo” [9], ainda existem desafios relacionados à infraestrutura e à utilização de tecnologias no ambiente educacional. Além disso, o Ofício nº 0606/2026-SMEPC-GAB.SEC, elaborado pela Secretaria Municipal de Educação em resposta ao Requerimento nº 2571/2026, apresenta informações relacionadas às políticas públicas de educação inclusiva destinadas aos alunos com necessidades educacionais especiais na Rede Municipal de Ensino [10]. Esses fatores reforçam a importância de investigar como a acessibilidade vem sendo trabalhada no contexto educacional do município.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Diante disso, o projeto busca contribuir para a identificação das principais barreiras de acessibilidade digital encontradas no ambiente escolar local e para a busca de alternativas que possam minimizar essas dificuldades. Dessa forma, espera-se que estudantes com diferentes necessidades possam utilizar os recursos tecnológicos de maneira mais acessível, favorecendo sua participação, autonomia e aprendizagem.
 
 ## Público-Alvo
 
