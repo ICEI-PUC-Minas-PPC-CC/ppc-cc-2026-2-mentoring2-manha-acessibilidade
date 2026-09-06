@@ -40,7 +40,7 @@ Investigar essa realidade em Poços de Caldas permite analisar de perto os desaf
 
 Diante disso, o projeto busca contribuir para a identificação das principais barreiras de acessibilidade digital encontradas no ambiente escolar local e para a busca de alternativas que possam minimizar essas dificuldades. Dessa forma, espera-se que estudantes com diferentes necessidades possam utilizar os recursos tecnológicos de maneira mais acessível, favorecendo sua participação, autonomia e aprendizagem.
 
-Público-Alvo e Personas
+## Público-Alvo e Personas
 O público-alvo deste projeto engloba o ecossistema educacional diretamente envolvido na melhoria da acessibilidade e da equidade, abrangendo desde os formuladores de diretrizes e gestores até as famílias e os próprios estudantes que vivenciam a rotina escolar em instituições públicas e privadas.
 
 Para compreender de forma humanizada e detalhada as reais necessidades desse público, a investigação adota a construção de três personas distintas, representando diferentes frentes impactadas pela ausência de soluções de acessibilidade:
