@@ -46,6 +46,7 @@ O público-alvo deste projeto engloba o ecossistema educacional diretamente envo
 Para compreender de forma humanizada e detalhada as reais necessidades desse público, a investigação adota a construção de três personas distintas, representando diferentes frentes impactadas pela ausência de soluções de acessibilidade:
 
 1. A Gestora Escolar:
+
 Perfil: Marta, 48 anos, diretora de uma escola de médio porte.
 
 Contexto: Ela reconhece a importância da inclusão, mas enfrenta o desafio prático de não saber exatamente o que fazer ou por onde começar para adequar a infraestrutura física e os recursos pedagógicos da instituição, equilibrando essa demanda com as limitações orçamentárias.
@@ -53,6 +54,7 @@ Contexto: Ela reconhece a importância da inclusão, mas enfrenta o desafio prá
 Necessidade no projeto: Busca diretrizes claras, viáveis e um passo a passo estruturado sobre quais melhorias priorizar para tornar o ambiente escolar acessível sem incorrer em falhas legais ou operacionais.
 
 2. Os Pais ou Responsáveis
+
 Perfil: Roberto e Ana, 39 e 41 anos, pais de um aluno com deficiência visual.
 
 Contexto: Sentem-se constantemente angustiados e exaustos pela necessidade de lutar diariamente para que o filho tenha acesso a materiais adaptados, como livros em Braille e leitores de tela nas aulas. Enfrentam barreiras tanto em escolas públicas quanto em privadas, que muitas vezes aceitam a matrícula, mas terceirizam a responsabilidade pelo suporte pedagógico adequado.
