@@ -16,21 +16,21 @@ Nesse cenário, constitui ponto fundamental de análise ponderar como tais diret
 
 ### Objetivo Geral
 
-Investigar e propor diretrizes, soluções práticas e ações que contribuam para melhorar a acessibilidade e a equidade educacional, identificando formas de reduzir barreiras físicas, digitais e pedagógicas nas instituições de ensino, com base em artigos científicos, relatórios nacionais e internacionais e dados coletados junto às escolas.
+Investigar as condições de acessibilidade arquitetônica e tecnológica das escolas participantes, identificando as principais barreiras existentes e os recursos disponíveis, a fim de compreender os desafios relacionados à acessibilidade no ambiente escolar.
 
 ### Objetivos Específicos
 
-* Identificar e reunir boas práticas internacionais relacionadas à adequação dos espaços físicos, ao uso de tecnologias e às estratégias pedagógicas voltadas à inclusão, com base em estudofas acadêmicos.
+*Definir critérios e indicadores para avaliar a acessibilidade arquitetônica e tecnológica no ambiente escolar, com base em normas, legislações e referências relacionadas à acessibilidade.
 
-* Realizar um levantamento junto às escolas públicas e privadas para identificar os recursos de acessibilidade já disponíveis, as principais dificuldades encontradas e as possibilidades de implementação de novas soluções.
+*Identificar as condições de acessibilidade arquitetônica das escolas participantes, considerando aspectos como acesso aos espaços, circulação, utilização dos ambientes e disponibilidade de recursos de acessibilidade.
 
-* Analisar de que maneira as soluções propostas podem ser aplicadas, considerando as diferentes condições de gestão, infraestrutura e recursos encontradas em escolas públicas e privadas.
+*Identificar os recursos tecnológicos de acessibilidade disponíveis nas escolas, considerando ferramentas, equipamentos e tecnologias utilizadas para facilitar o acesso dos alunos ao ambiente e às atividades escolares.
 
-* Analisar como as melhorias na acessibilidade física, digital e pedagógica podem contribuir para a inclusão, a autonomia e a participação dos alunos nas atividades escolares.
+*Verificar as principais barreiras arquitetônicas e tecnológicas encontradas nas escolas participantes, considerando as condições observadas e as informações obtidas por meio da pesquisa realizada.
 
-* Desenvolver um roteiro de soluções práticas que possa orientar gestores e educadores na busca por um ambiente escolar mais acessível e adequado às necessidades de todos os alunos.
+*Comparar as condições de acessibilidade arquitetônica e tecnológica identificadas nas escolas participantes, considerando as diferenças entre as instituições públicas e privadas.
 
-* Propor formas de facilitar o acesso de pais e responsáveis a informações sobre as condições de acessibilidade e inclusão das escolas, auxiliando na escolha de uma instituição que atenda às necessidades de seus filhos.
+*Organizar os resultados do diagnóstico, destacando os principais problemas e recursos de acessibilidade encontrados nas escolas investigadas.
 
 ## Justificativa
 
