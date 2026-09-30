@@ -20,17 +20,18 @@ Investigar as condições de acessibilidade arquitetônica e tecnológica das es
 
 ### Objetivos Específicos
 
-*Definir critérios e indicadores para avaliar a acessibilidade arquitetônica e tecnológica no ambiente escolar, com base em normas, legislações e referências relacionadas à acessibilidade.
+• Definir critérios e indicadores para avaliar a acessibilidade arquitetônica e tecnológica no ambiente escolar, com base em normas, legislações e referências relacionadas à acessibilidade.
 
-*Identificar as condições de acessibilidade arquitetônica das escolas participantes, considerando aspectos como acesso aos espaços, circulação, utilização dos ambientes e disponibilidade de recursos de acessibilidade.
+• Identificar as condições de acessibilidade arquitetônica das escolas participantes, considerando aspectos como acesso aos espaços, circulação, utilização dos ambientes e disponibilidade de recursos de acessibilidade.
 
-*Identificar os recursos tecnológicos de acessibilidade disponíveis nas escolas, considerando ferramentas, equipamentos e tecnologias utilizadas para facilitar o acesso dos alunos ao ambiente e às atividades escolares.
+• Identificar os recursos tecnológicos de acessibilidade disponíveis nas escolas, considerando ferramentas, equipamentos e tecnologias utilizadas para facilitar o acesso dos alunos ao ambiente e às atividades escolares.
 
-*Verificar as principais barreiras arquitetônicas e tecnológicas encontradas nas escolas participantes, considerando as condições observadas e as informações obtidas por meio da pesquisa realizada.
+• Verificar as principais barreiras arquitetônicas e tecnológicas encontradas nas escolas participantes, considerando as condições observadas e as informações obtidas por meio da pesquisa realizada.
 
-*Comparar as condições de acessibilidade arquitetônica e tecnológica identificadas nas escolas participantes, considerando as diferenças entre as instituições públicas e privadas.
+• Comparar as condições de acessibilidade arquitetônica e tecnológica identificadas nas escolas participantes, considerando as diferenças entre as instituições públicas e privadas, quando houver dados suficientes para essa comparação.
 
-*Organizar os resultados do diagnóstico, destacando os principais problemas e recursos de acessibilidade encontrados nas escolas investigadas.
+• Organizar os resultados do diagnóstico, destacando os principais problemas e recursos de acessibilidade encontrados nas escolas investigadas.
+
 
 ## Justificativa
 
