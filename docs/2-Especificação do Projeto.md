@@ -11,7 +11,7 @@
 |**Marta**|
 |:---:|
 |<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2026-2-mentoring2-manha-acessibilidade/blob/main/docs/img/persona-1.jpeg" width="200" height="200"/>|
-|
+
 **Perfil:**
 Marta, 48 anos, diretora de uma escola de médio porte em Poços de Caldas.
 
