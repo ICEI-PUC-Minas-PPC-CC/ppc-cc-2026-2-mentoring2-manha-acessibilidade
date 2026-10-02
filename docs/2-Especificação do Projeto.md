@@ -30,6 +30,8 @@
 |**Perfil:** Lucas, 11 anos, aluno matriculado no ensino fundamental. <br><br>**Contexto:** É o indivíduo diretamente negligenciado quando a escola falha em prover acessibilidade sensorial. Sofre com a ausência de sinalização tátil nos pisos, falta de livros em Braille, ausência de softwares de leitura de tela nos computadores da escola e materiais didáticos impressos comuns, o que limita severamente sua participação nas atividades e sua autonomia no ambiente escolar. <br><br>**Necessidade no projeto:** É o beneficiário final de todas as soluções propostas. Representa a urgência de transformar o ambiente escolar em um espaço universalmente acessível, onde ele possa transitar com segurança, aprender por meio de recursos táteis e tecnológicos, e interagir plenamente com os colegas. <br><br>**Aspectos que sua necessidade orienta no diagnóstico:** Verificar a presença de obstáculos que dificultem seu deslocamento entre os ambientes escolares, a existência e a continuidade da sinalização tátil nos percursos e a identificação acessível de salas, banheiros e outros espaços utilizados na rotina escolar. Observar a disponibilidade de computadores com leitores de tela funcionando e a possibilidade de acessar e navegar pelos materiais digitais com esses recursos. Identificar barreiras que o façam depender de outras pessoas para circular ou utilizar os recursos tecnológicos.|
 
 
+
+
 ## Histórias de Usuários
 
 Com base nas personas, as histórias de usuários orientam o diagnóstico da acessibilidade arquitetônica e tecnológica das escolas, considerando as necessidades de Marta, de Roberto e Ana e a autonomia e segurança de Lucas.
