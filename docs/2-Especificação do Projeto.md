@@ -30,17 +30,21 @@
 |**Perfil:** Lucas, 11 anos, aluno matriculado no ensino fundamental. <br><br>**Contexto:** É o indivíduo diretamente negligenciado quando a escola falha em prover acessibilidade sensorial. Sofre com a ausência de sinalização tátil nos pisos, falta de livros em Braille, ausência de softwares de leitura de tela nos computadores da escola e materiais didáticos impressos comuns, o que limita severamente sua participação nas atividades e sua autonomia no ambiente escolar. <br><br>**Necessidade no projeto:** É o beneficiário final de todas as soluções propostas. Representa a urgência de transformar o ambiente escolar em um espaço universalmente acessível, onde ele possa transitar com segurança, aprender por meio de recursos táteis e tecnológicos, e interagir plenamente com os colegas. <br><br>**Aspectos que sua necessidade orienta no diagnóstico:** Verificar a presença de obstáculos que dificultem seu deslocamento entre os ambientes escolares, a existência e a continuidade da sinalização tátil nos percursos e a identificação acessível de salas, banheiros e outros espaços utilizados na rotina escolar. Observar a disponibilidade de computadores com leitores de tela funcionando e a possibilidade de acessar e navegar pelos materiais digitais com esses recursos. Identificar barreiras que o façam depender de outras pessoas para circular ou utilizar os recursos tecnológicos.|
 ## Histórias de Usuários
 
-Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
+Com base nas personas, as histórias de usuários orientam o diagnóstico da acessibilidade arquitetônica e tecnológica das escolas, considerando as necessidades de Marta, de Roberto e Ana e a autonomia e segurança de Lucas.
 
-| EU COMO... `PERSONA` | QUERO/PRECISO... `FUNCIONALIDADE` | PARA... `MOTIVO/VALOR` |
-|---|---|---|
-| Marta (Gestora Escolar) | ter um roteiro claro e priorizado de adaptações arquitetônicas e pedagógicas | saber por onde começar sem cometer falhas legais ou operacionais |
-| Marta (Gestora Escolar) | um guia que diferencie soluções viáveis para escolas públicas e privadas | adequar as melhorias à realidade orçamentária e de gestão da minha instituição |
-| Marta (Gestora Escolar) | orientações sobre capacitação continuada da equipe pedagógica | garantir que os professores saibam atender adequadamente os alunos com deficiência |
-| Roberto e Ana (Pais/Responsáveis) | ter a garantia de que a escola oferece materiais adaptados, como livros em Braille e leitores de tela | assegurar que meu filho acompanhe as aulas em igualdade de condições com os colegas |
-| Roberto e Ana (Pais/Responsáveis) | um canal claro de comunicação com a escola sobre o suporte pedagógico oferecido | não precisar cobrar ou negociar diariamente pelos direitos do meu filho |
-| Roberto e Ana (Pais/Responsáveis) | saber que a escola não terceiriza a responsabilidade pelo suporte especializado | ter confiança de que meu filho está seguro e amparado dentro da instituição |
-| Lucas (Estudante) | contar com sinalização tátil nos pisos e ambientes da escola | me deslocar com autonomia e segurança pelo espaço escolar |
-| Lucas (Estudante) | ter acesso a livros em Braille e softwares de leitura de tela nos computadores | acompanhar o conteúdo das aulas no mesmo ritmo que meus colegas |
-| Lucas (Estudante) | participar das atividades escolares com os mesmos recursos que os demais alunos | interagir plenamente com meus colegas e não me sentir excluído |
-
+| **EU COMO... (PERSONA)** | **QUERO/PRECISO... (NECESSIDADE)** | **PARA... (MOTIVO/VALOR)** |
+| --- | --- | --- |
+| Marta (Gestora Escolar) | conhecer as condições de acessibilidade da entrada e dos percursos entre os ambientes da escola | identificar barreiras que dificultam o acesso e a circulação dos estudantes |
+| Marta (Gestora Escolar) | conhecer as condições de acessibilidade de rampas, escadas, portas, banheiros e mobiliário | identificar limitações no acesso e na utilização dos espaços escolares |
+| Marta (Gestora Escolar) | verificar a existência e as condições da sinalização acessível | compreender se a escola oferece recursos adequados de orientação nos ambientes |
+| Marta (Gestora Escolar) | conhecer a disponibilidade e o funcionamento dos recursos tecnológicos de acessibilidade | identificar dificuldades que impedem os estudantes de utilizar os equipamentos e acessar os conteúdos digitais |
+| Marta (Gestora Escolar) | receber um registro organizado das barreiras arquitetônicas e tecnológicas encontradas | apoiar o planejamento de futuras melhorias na instituição |
+| Roberto e Ana (Pais/Responsáveis) | saber se os percursos utilizados por meu filho apresentam obstáculos ou dificuldades de orientação | conhecer as condições oferecidas para seu deslocamento com autonomia e segurança |
+| Roberto e Ana (Pais/Responsáveis) | saber se a escola possui sinalização tátil e identificação acessível dos ambientes | compreender se meu filho dispõe de recursos para se orientar nos espaços escolares |
+| Roberto e Ana (Pais/Responsáveis) | saber se existem leitores de tela disponíveis e funcionando nos computadores da escola | conhecer os recursos que meu filho pode utilizar nas atividades com tecnologia |
+| Roberto e Ana (Pais/Responsáveis) | saber se os materiais digitais são compatíveis com os recursos de acessibilidade utilizados pelo meu filho | compreender se ele consegue acessar os conteúdos das atividades escolares |
+| Lucas (Estudante) | encontrar percursos livres de obstáculos entre os ambientes da escola | me deslocar com autonomia e segurança |
+| Lucas (Estudante) | contar com sinalização tátil nos percursos e identificação acessível dos ambientes | me orientar e reconhecer os locais que preciso utilizar |
+| Lucas (Estudante) | conseguir acessar e utilizar os ambientes e o mobiliário da escola | participar das atividades com maior autonomia |
+| Lucas (Estudante) | utilizar computadores com leitores de tela disponíveis e funcionando | realizar as atividades escolares que dependem desses equipamentos |
+| Lucas (Estudante) | acessar e navegar pelos materiais digitais com o leitor de tela | acompanhar os conteúdos e participar das atividades propostas |
