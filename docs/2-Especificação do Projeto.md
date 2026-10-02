@@ -11,16 +11,14 @@
 |**Marta**|
 |:---:|
 |<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2026-2-mentoring2-manha-acessibilidade/blob/main/docs/img/persona-1.jpeg" width="200" height="200"/>|
-|**Perfil:**
-
+|
+**Perfil:**
 Marta, 48 anos, diretora de uma escola de médio porte em Poços de Caldas.
 
 **Contexto:**
-
 Marta reconhece a importância da acessibilidade, mas não possui um levantamento organizado das condições arquitetônicas e tecnológicas da instituição. Embora perceba algumas dificuldades na rotina escolar, não sabe quais barreiras estão presentes nos ambientes e nos recursos disponíveis, nem como elas afetam a autonomia e a participação dos estudantes.
 
 **Necessidade no projeto:**
-
 Precisa conhecer as condições de acessibilidade da escola por meio de um diagnóstico que identifique as barreiras arquitetônicas e tecnológicas existentes. Busca informações claras sobre as dificuldades de acesso, circulação e utilização dos espaços e equipamentos, que possam apoiar o planejamento de futuras melhorias.
 
 **Aspectos que sua necessidade orienta no diagnóstico:**
