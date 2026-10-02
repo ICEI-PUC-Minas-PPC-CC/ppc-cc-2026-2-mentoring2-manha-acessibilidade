@@ -11,8 +11,26 @@
 |**Marta**|
 |:---:|
 |<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2026-2-mentoring2-manha-acessibilidade/blob/main/docs/img/persona-1.jpeg" width="200" height="200"/>|
-|**Perfil:** Marta, 48 anos, diretora de uma escola de médio porte. <br><br>**Contexto:** Ela reconhece a importância da inclusão, mas enfrenta o desafio prático de não saber exatamente o que fazer ou por onde começar para adequar a infraestrutura física e os recursos pedagógicos da instituição, equilibrando essa demanda com as limitações orçamentárias. <br><br>**Necessidade no projeto:** Busca diretrizes claras, viáveis e um passo a passo estruturado sobre quais melhorias priorizar para tornar o ambiente escolar acessível sem incorrer em falhas legais ou operacionais.|
+|**Perfil:**
 
+Marta, 48 anos, diretora de uma escola de médio porte em Poços de Caldas.
+
+**Contexto:**
+
+Marta reconhece a importância da acessibilidade, mas não possui um levantamento organizado das condições arquitetônicas e tecnológicas da instituição. Embora perceba algumas dificuldades na rotina escolar, não sabe quais barreiras estão presentes nos ambientes e nos recursos disponíveis, nem como elas afetam a autonomia e a participação dos estudantes.
+
+**Necessidade no projeto:**
+
+Precisa conhecer as condições de acessibilidade da escola por meio de um diagnóstico que identifique as barreiras arquitetônicas e tecnológicas existentes. Busca informações claras sobre as dificuldades de acesso, circulação e utilização dos espaços e equipamentos, que possam apoiar o planejamento de futuras melhorias.
+
+**Aspectos que sua necessidade orienta no diagnóstico:**
+
+- Condições de acesso à escola e aos ambientes, como salas de aula, biblioteca, banheiros e laboratório de informática.
+- Presença de obstáculos nos corredores e nos percursos entre os espaços.
+- Condições de acessibilidade de rampas, escadas, portas, banheiros e mobiliário.
+- Existência e condições de sinalização acessível para orientação nos ambientes.
+- Disponibilidade e funcionamento dos recursos tecnológicos de acessibilidade.
+- Identificação e registro das barreiras arquitetônicas e tecnológicas que demandam atenção.
 **2. Os Pais ou Responsáveis**
 
 |**Roberto e Ana**|
