@@ -24,17 +24,16 @@ O diagnóstico verificará tanto a disponibilidade dos recursos de acessibilidad
 
 ### Acessibilidade Pedagógica
 
-Esta dimensão compreenderá os materiais, os recursos e as formas de apresentação dos conteúdos que favorecem o acesso e a participação dos estudantes nas atividades escolares. A Lei Brasileira de Inclusão estabelece a importância de recursos de acessibilidade que contribuam para o acesso, a permanência, a participação e a aprendizagem.
+Esta dimensão compreenderá as condições de acesso aos conteúdos e de participação nas atividades de aprendizagem. O foco será identificar se os materiais e recursos utilizados nas aulas atendem às diferentes necessidades dos estudantes, permitindo que acompanhem os conteúdos e realizem as tarefas propostas.
 
-Poderão ser investigadas a disponibilidade de materiais em Braille, textos ampliados, recursos táteis, áudios, vídeos com legendas e conteúdos digitais acessíveis, conforme as necessidades dos estudantes. Também poderá ser verificado se esses materiais estão disponíveis nas atividades em que são necessários e se podem ser utilizados com os equipamentos e as tecnologias assistivas existentes.
+Poderão ser investigadas a disponibilidade de materiais em Braille, textos ampliados, recursos táteis, áudios, vídeos com legendas e conteúdos digitais acessíveis. Também serão consideradas formas alternativas de apresentação dos conteúdos e de realização das atividades, conforme as necessidades dos alunos.
 
-O diagnóstico buscará identificar barreiras no acesso aos materiais e recursos de aprendizagem, sem realizar uma avaliação geral do currículo ou da qualidade dos métodos de ensino.
+O diagnóstico buscará verificar se esses recursos estão disponíveis quando necessários e se podem ser utilizados pelos estudantes. Essa dimensão estará relacionada ao processo de aprendizagem, sem abranger uma avaliação geral do currículo ou da qualidade dos métodos de ensino.
 
 ### Comunicação e Acesso à Informação
 
-Esta dimensão compreenderá as condições de acesso e compreensão das informações necessárias à orientação e à participação na rotina escolar. Serão considerados a identificação dos ambientes, os avisos, as orientações, os comunicados e os canais de informação utilizados pela instituição.
+Esta dimensão compreenderá as condições de acesso às informações e orientações necessárias à rotina escolar. O foco será identificar se os estudantes e seus responsáveis conseguem receber e compreender avisos, comunicados, instruções e informações sobre os espaços e o funcionamento da instituição.
 
-Poderá ser observada a apresentação das informações em formatos acessíveis, como textos legíveis, Braille, áudios, legendas, Libras e recursos de comunicação aumentativa e alternativa, conforme as necessidades dos usuários. Também serão consideradas a clareza das mensagens e a possibilidade de obter informações sem depender exclusivamente de um único formato, como avisos apenas visuais ou apenas sonoros.
+Poderão ser observadas a identificação acessível dos ambientes, a clareza dos avisos e a acessibilidade dos canais utilizados para divulgar horários, reuniões, eventos e orientações de segurança. Será considerada a disponibilidade das informações em formatos adequados às necessidades dos usuários, como textos ampliados, Braille, áudios, Libras e recursos de comunicação aumentativa e alternativa.
 
-A análise buscará identificar barreiras que dificultem o reconhecimento dos espaços, a compreensão das orientações e o acesso às informações escolares. Os aspectos compartilhados com outras dimensões, como a sinalização e os comunicados digitais, serão organizados de forma integrada no instrumento.
-
+Enquanto a acessibilidade pedagógica se concentra nos conteúdos e nas atividades de aprendizagem, esta dimensão se concentra na comunicação necessária para se orientar e participar da vida escolar. O diagnóstico buscará identificar informações disponibilizadas apenas em formatos que parte dos usuários não consegue acessar ou compreender.
