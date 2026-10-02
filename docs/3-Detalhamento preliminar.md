@@ -8,7 +8,7 @@ Essa organização considera que a acessibilidade envolve tanto a utilização d
 
 ### Acessibilidade Física
 
-Esta dimensão compreenderá as condições de acesso, circulação, orientação e utilização dos ambientes escolares com autonomia e segurança. O diagnóstico considerará os percursos desde a entrada da escola até as salas de aula, os banheiros, a biblioteca, o laboratório e os demais espaços utilizados pelos estudantes.
+A análise da acessibilidade física contemplará as condições de acesso, circulação, orientação e utilização dos ambientes escolares com autonomia e segurança. O diagnóstico considerará os percursos desde a entrada da escola até as salas de aula, os banheiros, a biblioteca, o laboratório e os demais espaços utilizados pelos estudantes.
 
 Serão observadas as condições dos pisos, corredores, portas, rampas, escadas, corrimãos, banheiros e mobiliário, além da sinalização e da iluminação. A análise buscará identificar obstáculos, desníveis e outras limitações que dificultem o deslocamento e o uso dos ambientes. A existência de uma rampa ou de um banheiro identificado como acessível, por exemplo, será considerada juntamente com suas condições de acesso e utilização.
 
@@ -16,7 +16,7 @@ O Manual de Acessibilidade Espacial para Escolas, publicado pelo Ministério da 
 
 ### Acessibilidade Digital
 
-Esta dimensão compreenderá as condições de acesso e utilização dos equipamentos, plataformas, sistemas e materiais digitais disponibilizados pela escola. Serão consideradas as diferentes necessidades dos estudantes e a possibilidade de utilizar esses recursos com autonomia, compreendendo as informações e realizando as atividades propostas.
+Quanto à acessibilidade digital, serão examinadas as condições de acesso e utilização dos equipamentos, plataformas, sistemas e materiais digitais disponibilizados pela escola. Serão consideradas as diferentes necessidades dos estudantes e a possibilidade de utilizar esses recursos com autonomia, compreendendo as informações e realizando as atividades propostas.
 
 Poderão ser observados a navegação por teclado, a compatibilidade com leitores de tela, a descrição textual de imagens informativas, as legendas em vídeos, o contraste, a ampliação de textos e a clareza da organização dos conteúdos. Também será considerada a acessibilidade dos documentos e materiais digitais utilizados nas atividades escolares.
 
@@ -24,7 +24,7 @@ O diagnóstico verificará tanto a disponibilidade dos recursos de acessibilidad
 
 ### Acessibilidade Pedagógica
 
-Esta dimensão compreenderá as condições de acesso aos conteúdos e de participação nas atividades de aprendizagem. O foco será identificar se os materiais e recursos utilizados nas aulas atendem às diferentes necessidades dos estudantes, permitindo que acompanhem os conteúdos e realizem as tarefas propostas.
+A acessibilidade pedagógica envolverá as condições de acesso aos conteúdos e de participação nas atividades de aprendizagem. O foco será identificar se os materiais e recursos utilizados nas aulas atendem às diferentes necessidades dos estudantes, permitindo que acompanhem os conteúdos e realizem as tarefas propostas.
 
 Poderão ser investigadas a disponibilidade de materiais em Braille, textos ampliados, recursos táteis, áudios, vídeos com legendas e conteúdos digitais acessíveis. Também serão consideradas formas alternativas de apresentação dos conteúdos e de realização das atividades, conforme as necessidades dos alunos.
 
@@ -32,7 +32,7 @@ O diagnóstico buscará verificar se esses recursos estão disponíveis quando n
 
 ### Comunicação e Acesso à Informação
 
-Esta dimensão compreenderá as condições de acesso às informações e orientações necessárias à rotina escolar. O foco será identificar se os estudantes e seus responsáveis conseguem receber e compreender avisos, comunicados, instruções e informações sobre os espaços e o funcionamento da instituição.
+Em relação à comunicação e ao acesso à informação, serão analisadas as condições de acesso às informações e orientações necessárias à rotina escolar. O foco será identificar se os estudantes e seus responsáveis conseguem receber e compreender avisos, comunicados, instruções e informações sobre os espaços e o funcionamento da instituição.
 
 Poderão ser observadas a identificação acessível dos ambientes, a clareza dos avisos e a acessibilidade dos canais utilizados para divulgar horários, reuniões, eventos e orientações de segurança. Será considerada a disponibilidade das informações em formatos adequados às necessidades dos usuários, como textos ampliados, Braille, áudios, Libras e recursos de comunicação aumentativa e alternativa.
 
