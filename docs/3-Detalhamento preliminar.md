@@ -16,11 +16,11 @@ O Manual de Acessibilidade Espacial para Escolas, publicado pelo Ministério da 
 
 ### Acessibilidade Digital
 
-Esta dimensão compreenderá as condições de acesso e utilização dos equipamentos, plataformas, sistemas e materiais digitais disponibilizados pela escola. A análise será orientada pelas diretrizes do W3C, que organizam a acessibilidade digital em quatro princípios: conteúdo perceptível, operável, compreensível e robusto.
+Esta dimensão compreenderá as condições de acesso e utilização dos equipamentos, plataformas, sistemas e materiais digitais disponibilizados pela escola. Serão consideradas as diferentes necessidades dos estudantes e a possibilidade de utilizar esses recursos com autonomia, compreendendo as informações e realizando as atividades propostas.
 
-Poderão ser considerados a navegação por teclado, a compatibilidade com leitores de tela, a descrição textual de imagens informativas, as legendas em vídeos, o contraste, a ampliação de textos e a organização da navegação. Também será observada a acessibilidade dos documentos e materiais digitais utilizados nas atividades escolares.
+Poderão ser observados a navegação por teclado, a compatibilidade com leitores de tela, a descrição textual de imagens informativas, as legendas em vídeos, o contraste, a ampliação de textos e a clareza da organização dos conteúdos. Também será considerada a acessibilidade dos documentos e materiais digitais utilizados nas atividades escolares.
 
-O diagnóstico verificará tanto a disponibilidade das tecnologias assistivas quanto a possibilidade de utilizá-las com os conteúdos oferecidos. Assim, a presença de um leitor de tela no computador será analisada em conjunto com a acessibilidade dos sistemas e materiais que o estudante precisa acessar.
+O diagnóstico verificará tanto a disponibilidade dos recursos de acessibilidade quanto suas condições de funcionamento e utilização. A presença de um leitor de tela no computador, por exemplo, será analisada em conjunto com a possibilidade de acessar os sistemas e materiais oferecidos pela escola, buscando identificar barreiras que dificultem a participação dos estudantes.
 
 ### Acessibilidade Pedagógica
 
