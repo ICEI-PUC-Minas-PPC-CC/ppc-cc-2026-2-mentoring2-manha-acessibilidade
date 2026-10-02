@@ -2,7 +2,7 @@
 
 ## Dimensões Contempladas no Diagnóstico de Acessibilidade Escolar
 
-Com base nos objetivos definidos na Etapa 02, o diagnóstico terá como foco as condições de acessibilidade arquitetônica e tecnológica das escolas públicas e privadas participantes de Poços de Caldas. Para organizar os aspectos que poderão integrar o instrumento, serão consideradas quatro dimensões: acessibilidade física, digital, pedagógica e comunicação e acesso à informação. As dimensões pedagógica e comunicacional serão abordadas em sua relação com os espaços, as tecnologias e os recursos de acessibilidade disponíveis.
+Com base nos objetivos definidos, o diagnóstico terá como foco as condições de acessibilidade arquitetônica e tecnológica das escolas públicas e privadas participantes de Poços de Caldas. Para organizar os aspectos que poderão integrar o instrumento, serão consideradas quatro dimensões: acessibilidade física, digital, pedagógica e comunicação e acesso à informação. As dimensões pedagógica e comunicacional serão abordadas em sua relação com os espaços, as tecnologias e os recursos de acessibilidade disponíveis.
 
 ### Acessibilidade Física
 
