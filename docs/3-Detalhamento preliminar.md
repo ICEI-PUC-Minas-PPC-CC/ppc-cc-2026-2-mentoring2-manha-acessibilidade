@@ -38,11 +38,40 @@ Poderão ser observadas a identificação acessível dos ambientes, a clareza do
 
 Enquanto a acessibilidade pedagógica se concentra nos conteúdos e nas atividades de aprendizagem, esta dimensão se concentra na comunicação necessária para se orientar e participar da vida escolar. O diagnóstico buscará identificar informações disponibilizadas apenas em formatos que parte dos usuários não consegue acessar ou compreender.
 
-### Consulta a Especialistas para a Definição dos Critérios
+## Consulta a Especialistas para a Definição dos Critérios
 
 Considerando as dimensões apresentadas, o grupo realizou consultas com as professoras Juliana e Esther, da área de Arquitetura, para compreender quais aspectos da acessibilidade física devem integrar o diagnóstico escolar. As orientações recebidas contribuirão para a definição dos critérios e a elaboração do instrumento preliminar, considerando as condições de acesso, circulação, orientação e utilização dos ambientes com autonomia e segurança.
 
 ### Consulta sobre Acessibilidade Física com as Professoras de Arquitetura
-
 ### Registros das Reuniões e Dúvidas do Grupo
+
+
+## Critérios Preliminares de Acessibilidade Física
+
+Os critérios foram organizados com apoio do Manual de Acessibilidade Espacial para Escolas, publicado pelo Ministério da Educação. O material explica como os espaços escolares podem facilitar ou dificultar o deslocamento, a orientação e a participação dos estudantes, apresentando exemplos de barreiras em diferentes ambientes.
+
+Embora tenha sido publicado em 2009, o manual continua útil para compreender esses problemas e organizar a observação da escola. Entretanto, algumas medidas e recomendações técnicas podem ter sido atualizadas desde sua publicação. Por isso, ele será utilizado como referência de organização, enquanto as medidas exigidas serão conferidas nas normas atuais e com apoio das profissionais de Arquitetura.
+
+O diagnóstico considerará não apenas a presença de rampas, banheiros ou mobiliários identificados como acessíveis, mas também se os estudantes conseguem chegar até eles e utilizá-los.
+
+| **Aspecto** | **O que vai ser observado** | **O que vai ser registrado** |
+| --- | --- | --- |
+| **Chegada e entrada** | Continuidade do caminho até a escola, obstáculos, desníveis e condições de entrada. | Localização das barreiras e alternativas de acesso existentes. |
+| **Circulação interna** | Espaço para passar, mudar de direção e acessar os ambientes, inclusive nos locais com móveis ou equipamentos. | Larguras disponíveis e pontos em que a passagem fica reduzida. |
+| **Pisos** | Buracos, peças soltas, superfícies escorregadias, tapetes e mudanças de nível. | Tipo de problema, localização e condições de conservação. |
+| **Portas** | Espaço de aproximação, largura da passagem, soleiras e facilidade de abrir e fechar. | Vão livre, tipo de maçaneta e obstáculos ao movimento da porta. |
+| **Rampas** | Inclinação, largura, patamares para descanso e manobra, piso e proteção lateral. | Dimensões, desnível vencido e dificuldades observadas no percurso. |
+| **Escadas e corrimãos** | Regularidade dos degraus, sinalização, firmeza e continuidade dos corrimãos. | Dimensões e condições dos elementos, além da alternativa às escadas. |
+| **Acesso entre pavimentos** | Existência, funcionamento e disponibilidade de elevadores ou plataformas, quando necessários. | Ambientes atendidos, equipamentos indisponíveis e limitações de acesso. |
+| **Salas de aula e laboratórios** | Circulação entre móveis, aproximação às mesas e bancadas e alcance dos equipamentos. | Alturas, espaço livre sob as superfícies e barreiras ao uso. |
+| **Recepção, biblioteca e refeitório** | Aproximação aos balcões e mesas, passagem entre estantes e alcance de livros e alimentos. | Organização dos móveis e recursos que permanecem fora de alcance. |
+| **Bebedouros** | Altura, aproximação e facilidade de acionar e alcançar a água. | Espaço disponível e características que dificultem sua utilização. |
+| **Banheiros: entrada e circulação** | Acesso ao banheiro, abertura da porta e espaço para circular, manobrar e transferir-se da cadeira para o vaso. | Dimensões, obstáculos e disponibilidade efetiva do ambiente. |
+| **Banheiros: pia e torneira** | Altura da pia, espaço livre abaixo dela para aproximar a cadeira e alcance da torneira. Verificar acionamento por alavanca, sensor ou mecanismo equivalente. | Altura da superfície, espaço inferior, presença de coluna ou armário e distância até a torneira. |
+| **Banheiros: vaso e acessórios** | Altura do assento, posição e firmeza das barras, alcance da descarga, papel, sabonete e espelho. | Medidas, conservação e dificuldades de aproximação ou acionamento. |
+| **Auditório e espaços de lazer** | Acesso às atividades, ao palco e aos lugares destinados às pessoas em cadeira de rodas, integrados aos demais usuários. | Percursos interrompidos e condições de participação. |
+| **Sinalização e orientação** | Identificação dos ambientes, legibilidade, contrastes e recursos táteis de orientação. | Informações ausentes, danificadas ou difíceis de perceber. |
+| **Iluminação e segurança** | Pontos escuros, ofuscamento, obstáculos pouco perceptíveis e passagens de saída obstruídas. | Localização e descrição das condições encontradas. |
+
+
 
