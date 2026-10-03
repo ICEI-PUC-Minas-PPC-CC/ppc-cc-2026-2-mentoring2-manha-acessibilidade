@@ -38,7 +38,7 @@ Poderão ser observadas a identificação acessível dos ambientes, a clareza do
 
 Enquanto a acessibilidade pedagógica se concentra nos conteúdos e nas atividades de aprendizagem, esta dimensão se concentra na comunicação necessária para se orientar e participar da vida escolar. O diagnóstico buscará identificar informações disponibilizadas apenas em formatos que parte dos usuários não consegue acessar ou compreender.
 
-## Consulta a Especialistas para a Definição dos Critérios
+### Consulta a Especialistas para a Definição dos Critérios
 
 Considerando as dimensões apresentadas, o grupo realizou consultas com as professoras Juliana e Esther, da área de Arquitetura, para compreender quais aspectos da acessibilidade física devem integrar o diagnóstico escolar. As orientações recebidas contribuirão para a definição dos critérios e a elaboração do instrumento preliminar, considerando as condições de acesso, circulação, orientação e utilização dos ambientes com autonomia e segurança.
 
