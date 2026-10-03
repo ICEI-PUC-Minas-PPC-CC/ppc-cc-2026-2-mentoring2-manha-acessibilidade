@@ -54,14 +54,6 @@ Usamos como base o Manual de Acessibilidade Espacial para Escolas, publicado pel
 
 A tabela abaixo reúne os aspectos que pretendemos observar e as informações que precisamos registrar para discutir possíveis melhorias.
 
-## Critérios Preliminares de Acessibilidade Física
-
-Os critérios preliminares orientarão a identificação de barreiras que dificultam o acesso, a circulação e a utilização dos espaços escolares. O levantamento será realizado por meio da observação dos ambientes, do registro de evidências e de perguntas aos responsáveis pela instituição.
-
-O Manual de Acessibilidade Espacial para Escolas, publicado pelo Ministério da Educação em 2009, será utilizado para compreender os problemas e organizar os aspectos observados. Como o material foi publicado há alguns anos, suas recomendações técnicas serão conferidas com as normas atuais e com as profissionais de Arquitetura.
-
-A análise buscará relacionar cada condição encontrada à dificuldade que ela pode causar. Dessa forma, os resultados poderão apoiar a discussão de melhorias, enquanto os aspectos que exigem avaliação técnica serão encaminhados à especialista.
-
 | **Aspecto** | **O que podemos observar e analisar** | **O que registrar para apoiar melhorias** |
 | --- | --- | --- |
 | **Entrada da escola** | Se existe um caminho de entrada sem depender exclusivamente de escadas e se há obstáculos ou desníveis. | Barreiras encontradas, localização e alternativas disponíveis. |
