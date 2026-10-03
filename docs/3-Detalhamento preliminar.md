@@ -37,3 +37,11 @@ Em relação à comunicação e ao acesso à informação, serão analisadas as 
 Poderão ser observadas a identificação acessível dos ambientes, a clareza dos avisos e a acessibilidade dos canais utilizados para divulgar horários, reuniões, eventos e orientações de segurança. Será considerada a disponibilidade das informações em formatos adequados às necessidades dos usuários, como textos ampliados, Braille, áudios, Libras e recursos de comunicação aumentativa e alternativa.
 
 Enquanto a acessibilidade pedagógica se concentra nos conteúdos e nas atividades de aprendizagem, esta dimensão se concentra na comunicação necessária para se orientar e participar da vida escolar. O diagnóstico buscará identificar informações disponibilizadas apenas em formatos que parte dos usuários não consegue acessar ou compreender.
+
+
+## Consulta sobre Acessibilidade Física com as Professoras de Arquitetura
+
+
+
+
+## Registros das Reuniões e Dúvidas do Grupo
