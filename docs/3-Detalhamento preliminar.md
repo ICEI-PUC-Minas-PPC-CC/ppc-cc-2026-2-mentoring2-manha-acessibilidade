@@ -1,10 +1,14 @@
 # Etapa 3 — Detalhamento Preliminar
 
+# Etapa 3 — Detalhamento Preliminar
+
 ## Dimensões Contempladas no Diagnóstico de Acessibilidade Escolar
 
 Com base nos objetivos definidos, o diagnóstico investigará as condições de acessibilidade arquitetônica e tecnológica das escolas públicas e privadas participantes de Poços de Caldas. Os aspectos que poderão integrar o instrumento serão organizados em quatro dimensões: acessibilidade física, digital, pedagógica e comunicação e acesso à informação.
 
 Essa organização considera que a acessibilidade envolve tanto a utilização dos espaços quanto o acesso aos recursos e às informações necessários à participação dos estudantes. As dimensões pedagógica e comunicacional serão analisadas em sua relação com os ambientes, os materiais e as tecnologias disponíveis, mantendo o foco do projeto no levantamento das condições existentes e das barreiras identificadas.
+
+Nesta etapa, as quatro dimensões são apresentadas para organizar o diagnóstico geral do projeto. O instrumento preliminar desenvolvido a seguir se concentra na acessibilidade física/arquitetônica. O detalhamento dos critérios digitais, pedagógicos e comunicacionais e a consulta com a assistente social ficam para a Etapa 4, conforme o encaminhamento das atividades. A sinalização dos ambientes será observada agora por sua relação com a orientação e a circulação nos espaços escolares.
 
 ### Acessibilidade Física
 
@@ -16,7 +20,7 @@ O Manual de Acessibilidade Espacial para Escolas, publicado pelo Ministério da 
 
 ### Acessibilidade Digital
 
-A acessibilidade digital é um componente importante da inclusão social e digital, pois contribui para ampliar o acesso à informação, à educação, à comunicação, ao trabalho, aos serviços e a outros recursos disponibilizados por meio da tecnologia. Dessa forma, o diagnóstico terá como foco verificar de que maneira os recursos tecnológicos disponibilizados pela escola podem ser acessados e utilizados pelos estudantes.
+A acessibilidade digital será analisada a partir dos equipamentos, sistemas e materiais digitais disponibilizados pelas escolas participantes. O diagnóstico terá como foco verificar de que maneira esses recursos podem ser acessados e utilizados pelos estudantes nas atividades escolares.
 
 A análise buscará identificar as condições de acesso aos recursos digitais, considerando a disponibilidade de navegação por teclado, a compatibilidade com leitores de tela, a possibilidade de ampliar o tamanho dos textos, o uso adequado de cores e contrastes, a presença de textos alternativos para imagens, legendas, transcrições, audiodescrição e interpretação em Libras. Esses recursos podem contribuir para que diferentes pessoas consigam acessar e compreender os conteúdos digitais.
 
@@ -78,7 +82,9 @@ A tabela abaixo reúne os aspectos que pretendemos observar e as informações q
 
 Preparamos este instrumento para organizar as informações que serão levantadas nas visitas às escolas. Ele reúne um checklist, um roteiro de observação, perguntas para gestores e/ou professores e campos para registrar evidências, seguindo os critérios preliminares definidos pelo grupo.
 
-Nesta etapa, o levantamento se concentra na acessibilidade física. As respostas e os resultados permanecem em branco, pois o material será utilizado posteriormente e validado na Etapa 4.
+Nesta etapa, o instrumento se concentra na acessibilidade física. As respostas e os resultados permanecem em branco. A proposta será validada por especialista na Etapa 4 antes de sua aplicação nas escolas.
+
+Os mesmos critérios serão utilizados nas escolas públicas e privadas. A identificação da rede permitirá organizar os resultados e comparar as condições encontradas, quando houver dados suficientes, sem antecipar diferenças entre as instituições. O diagnóstico registrará barreiras e recursos existentes para apoiar o planejamento de futuras melhorias.
 
 ### Identificação da Visita
 
@@ -95,15 +101,17 @@ Nesta etapa, o levantamento se concentra na acessibilidade física. As respostas
 
 Para preencher o checklist, utilizar as seguintes respostas:
 
-- **Sim:** a condição descrita foi observada.
-- **Não:** a condição descrita não foi encontrada.
-- **Parcialmente:** a condição foi encontrada, mas apresenta limitações.
-- **Não se aplica:** o item não corresponde ao ambiente avaliado.
-- **Não verificado:** não foi possível avaliar o item durante a visita.
+- **Sim:** a condição descrita no item foi encontrada no ambiente avaliado.
+- **Não:** a condição descrita no item não foi encontrada.
+- **Parcialmente:** a condição foi encontrada apenas em parte do ambiente ou apresenta limitações que devem ser explicadas.
+- **Não se aplica:** o item não corresponde à situação avaliada, como o acesso entre pavimentos em uma escola com apenas um andar.
+- **Não verificado:** não foi possível avaliar o item durante a visita ou faltaram informações para responder.
 
-Nas observações, indicar o local e explicar o que foi encontrado. Se as condições forem diferentes entre os ambientes, registrar cada situação separadamente.
+As perguntas foram organizadas para que **Sim** indique a presença de uma condição favorável ao acesso ou ao uso do espaço. Nas observações, indicar o local e explicar o que fundamentou a resposta. Quando houver diferenças entre ambientes, registrar cada situação separadamente.
 
-Durante a visita, podem ser observadas possíveis dificuldades para alcançar e utilizar equipamentos ou circular pelos espaços. Por exemplo, será registrado se há objetos embaixo da pia que dificultem a aproximação de uma pessoa em cadeira de rodas. Quando não for possível avaliar uma condição, marcar **Não verificado** e explicar o motivo. A conferência das medidas e do atendimento às normas será realizada na validação do instrumento, prevista para a Etapa 4.
+Durante a visita, o grupo registrará as condições que conseguir observar, como caminhos bloqueados, objetos embaixo da pia ou ausência de barras de apoio. A existência de um recurso, por si só, não significa que ele atenda às normas ou possa ser utilizado por todos os estudantes.
+
+Nos itens sobre altura, alcance e espaço para circulação, registrar as características encontradas e as dificuldades relatadas pelo responsável da escola. Se não houver informações suficientes para responder, marcar **Não verificado** e explicar o motivo. Na validação da Etapa 4, o especialista ajudará a definir quais medidas e verificações técnicas deverão fazer parte da aplicação. O checklist não será utilizado como laudo de conformidade da escola.
 
 | **Aspecto** | **Item a verificar** | **Resposta** | **Observações / evidência** |
 | --- | --- | --- | --- |
@@ -117,7 +125,7 @@ Durante a visita, podem ser observadas possíveis dificuldades para alcançar e 
 | Rampas | Existem rampas ou outras alternativas nos acessos com escadas? | | |
 | Rampas | As rampas estão desobstruídas e sem danos aparentes? | | |
 | Escadas e corrimãos | Existem corrimãos nas rampas e escadas observadas? | | |
-| Escadas e corrimãos | Os corrimãos estão firmes e sem danos aparentes? | | |
+| Escadas e corrimãos | Os corrimãos estão sem danos aparentes ou relatos de instabilidade? | | |
 | Pavimentos | Existe alternativa às escadas para chegar aos ambientes dos outros pavimentos? | | |
 | Pavimentos | Os elevadores ou plataformas existentes estão disponíveis e funcionando? | | |
 | Salas | A disposição dos móveis deixa caminhos livres até as mesas e os espaços de atividade? | | |
@@ -135,7 +143,7 @@ Durante a visita, podem ser observadas possíveis dificuldades para alcançar e 
 | Pia | Há espaço abaixo da pia, sem armário ou coluna que impeça a aproximação de cadeira de rodas? | | |
 | Pia | A altura da pia e a posição da torneira permitem seu alcance e utilização pelos usuários? | | |
 | Vaso e apoios | Existem barras de apoio próximas ao vaso sanitário? | | |
-| Vaso e apoios | As barras estão firmes e sem danos aparentes? | | |
+| Vaso e apoios | As barras estão sem danos aparentes ou relatos de instabilidade? | | |
 | Vaso e apoios | Há espaço livre ao lado do vaso para transferência da cadeira de rodas? | | |
 | Acessórios | O papel, o sabonete, o espelho e os meios de secar as mãos estão posicionados ao alcance dos usuários? | | |
 | Áreas coletivas | Existem percursos sem obstáculos até pátios, quadras e auditório? | | |
@@ -182,7 +190,7 @@ Durante a visita, podem ser observadas possíveis dificuldades para alcançar e 
 
 ### Campos para Registro de Evidências
 
-Registrar recursos existentes e barreiras encontradas. Para relacionar uma evidência ao checklist, escrever o aspecto ou o texto do item correspondente. Identificar se a informação foi observada pelo grupo ou relatada por um profissional. Fotografias serão feitas somente com autorização, priorizando os espaços e evitando identificar estudantes. Medidas serão registradas quando previstas no roteiro validado.
+Registrar recursos existentes e barreiras encontradas. Para relacionar uma evidência ao checklist, escrever o aspecto ou o texto do item correspondente. Identificar se a informação foi observada pelo grupo ou relatada por um profissional. Fotografias serão feitas somente com autorização, priorizando os espaços e evitando identificar estudantes. Medidas serão registradas quando previstas no roteiro validado. Não serão realizados testes de resistência das barras e corrimãos nem testes de uso que exponham estudantes a dificuldades ou riscos.
 
 | **Local** | **Condição observada ou relatada** | **Possível dificuldade de uso** | **Fotografia / medida / documento** | **Item do checklist relacionado** |
 | --- | --- | --- | --- | --- |
@@ -196,3 +204,4 @@ Registrar recursos existentes e barreiras encontradas. Para relacionar uma evid�
 | | | | | |
 | | | | | |
 | | | | | |
+
