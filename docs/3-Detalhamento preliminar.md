@@ -150,7 +150,7 @@ Utilizar as respostas **Sim, Não, Parcialmente, Não se aplica ou Não verifica
 9. **Conversa com o responsável:** esclarecer dúvidas sobre uso, manutenção e dificuldades relatadas.
 10. **Conferência dos registros:** relacionar as evidências ao checklist e identificar ambientes não visitados e pontos que dependem de avaliação técnica.
 
-### Perguntas para Gestores e/ou Professores
+### Perguntas para Gestores/Professores
 
 
 | Pergunta | Resposta |
