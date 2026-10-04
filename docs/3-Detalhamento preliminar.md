@@ -16,11 +16,12 @@ O Manual de Acessibilidade Espacial para Escolas, publicado pelo Ministério da 
 
 ### Acessibilidade Digital
 
-Quanto à acessibilidade digital, serão examinadas as condições de acesso e utilização dos equipamentos, plataformas, sistemas e materiais digitais disponibilizados pela escola. Serão consideradas as diferentes necessidades dos estudantes e a possibilidade de utilizar esses recursos com autonomia, compreendendo as informações e realizando as atividades propostas.
+A acessibilidade digital é um componente importante da inclusão social e digital, pois contribui para ampliar o acesso à informação, à educação, à comunicação, ao trabalho, aos serviços e a outros recursos disponibilizados por meio da tecnologia. Dessa forma, o diagnóstico terá como foco verificar de que maneira os recursos tecnológicos disponibilizados pela escola podem ser acessados e utilizados pelos estudantes.
 
-Poderão ser observados a navegação por teclado, a compatibilidade com leitores de tela, a descrição textual de imagens informativas, as legendas em vídeos, o contraste, a ampliação de textos e a clareza da organização dos conteúdos. Também será considerada a acessibilidade dos documentos e materiais digitais utilizados nas atividades escolares.
+A análise buscará identificar as condições de acesso aos recursos digitais, considerando a disponibilidade de navegação por teclado, a compatibilidade com leitores de tela, a possibilidade de ampliar o tamanho dos textos, o uso adequado de cores e contrastes, a presença de textos alternativos para imagens, legendas, transcrições, audiodescrição e interpretação em Libras. Esses recursos podem contribuir para que diferentes pessoas consigam acessar e compreender os conteúdos digitais.
 
-O diagnóstico verificará tanto a disponibilidade dos recursos de acessibilidade quanto suas condições de funcionamento e utilização. A presença de um leitor de tela no computador, por exemplo, será analisada em conjunto com a possibilidade de acessar os sistemas e materiais oferecidos pela escola, buscando identificar barreiras que dificultem a participação dos estudantes.
+O diagnóstico não considerará apenas a existência desses recursos, mas também suas condições de funcionamento e utilização. É importante verificar se os recursos disponíveis realmente podem ser utilizados pelos estudantes e se permitem o acesso aos conteúdos e às atividades propostas pela escola.
+Dessa forma, o diagnóstico terá como objetivo identificar os recursos disponíveis, suas formas de utilização e possíveis barreiras presentes no ambiente digital escolar.
 
 ### Acessibilidade Pedagógica
 
