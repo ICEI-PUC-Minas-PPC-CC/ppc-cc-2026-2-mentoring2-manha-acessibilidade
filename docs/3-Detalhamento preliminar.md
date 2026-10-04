@@ -93,7 +93,7 @@ Nesta etapa, o levantamento se concentra na acessibilidade física. As respostas
 
 ### Checklist de Acessibilidade Física
 
-Utilizar as respostas **Sim, Não, Parcialmente, Não se aplica ou Não verificado**. Nas observações, indicar o local e explicar as limitações encontradas. Quando houver diferenças entre ambientes, registrar cada situação separadamente.
+Utilizar as respostas **Sim, Não, Parcialmente, Não se aplica ou Não verificado**. Nas observações, indicar o local e explicar as limitações encontradas. 
 
 
 | Aspecto | Item a verificar | Resposta | Observações / evidência |
