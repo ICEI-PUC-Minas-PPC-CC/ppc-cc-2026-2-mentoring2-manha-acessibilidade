@@ -93,9 +93,17 @@ Nesta etapa, o levantamento se concentra na acessibilidade física. As respostas
 
 ### Checklist de Acessibilidade Física
 
-Utilizar as respostas **Sim, Não, Parcialmente, Não se aplica ou Não verificado**. Nas observações, indicar o local e explicar as limitações encontradas. Quando houver diferenças entre ambientes, registrar cada situação separadamente.
+Para preencher o checklist, utilizar as seguintes respostas:
 
-Os itens sobre altura, alcance e espaço disponível representam uma observação preliminar, não uma comprovação de atendimento às normas. Quando não houver informações suficientes para responder, utilizar **Não verificado** e registrar a dúvida. Medidas e detalhes que dependem de avaliação técnica serão conferidos na validação do instrumento.
+- **Sim:** a condição descrita foi observada.
+- **Não:** a condição descrita não foi encontrada.
+- **Parcialmente:** a condição foi encontrada, mas apresenta limitações.
+- **Não se aplica:** o item não corresponde ao ambiente avaliado.
+- **Não verificado:** não foi possível avaliar o item durante a visita.
+
+Nas observações, indicar o local e explicar o que foi encontrado. Se as condições forem diferentes entre os ambientes, registrar cada situação separadamente.
+
+Durante a visita, podem ser observadas possíveis dificuldades para alcançar e utilizar equipamentos ou circular pelos espaços. Por exemplo, será registrado se há objetos embaixo da pia que dificultem a aproximação de uma pessoa em cadeira de rodas. Quando não for possível avaliar uma condição, marcar **Não verificado** e explicar o motivo. A conferência das medidas e do atendimento às normas será realizada na validação do instrumento, prevista para a Etapa 4.
 
 | **Aspecto** | **Item a verificar** | **Resposta** | **Observações / evidência** |
 | --- | --- | --- | --- |
