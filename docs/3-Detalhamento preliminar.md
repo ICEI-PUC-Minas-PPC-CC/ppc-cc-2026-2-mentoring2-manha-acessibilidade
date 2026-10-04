@@ -1,6 +1,5 @@
 # Etapa 3 — Detalhamento Preliminar
 
-# Etapa 3 — Detalhamento Preliminar
 
 ## Dimensões Contempladas no Diagnóstico de Acessibilidade Escolar
 
