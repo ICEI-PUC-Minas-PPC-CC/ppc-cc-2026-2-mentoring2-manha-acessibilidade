@@ -47,7 +47,6 @@ Enquanto a acessibilidade pedagógica se concentra nos conteúdos e nas atividad
 Considerando as dimensões apresentadas, o grupo realizou consultas com as professoras Juliana e Esther, da área de Arquitetura, para compreender quais aspectos da acessibilidade física devem integrar o diagnóstico escolar. As orientações recebidas contribuirão para a definição dos critérios e a elaboração do instrumento preliminar, considerando as condições de acesso, circulação, orientação e utilização dos ambientes com autonomia e segurança.
 
 ### Consulta sobre Acessibilidade Física com a Professora de Arquitetura
-### Consulta sobre Acessibilidade Física com a Professora de Arquitetura
 
 Reunião com a Profa. Juliana — Arquitetura
 
