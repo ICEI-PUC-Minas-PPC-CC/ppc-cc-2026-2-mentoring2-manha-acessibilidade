@@ -20,14 +20,15 @@ A acessibilidade digital é um componente importante da inclusão social e digit
 
 A análise buscará identificar as condições de acesso aos recursos digitais, considerando a disponibilidade de navegação por teclado, a compatibilidade com leitores de tela, a possibilidade de ampliar o tamanho dos textos, o uso adequado de cores e contrastes, a presença de textos alternativos para imagens, legendas, transcrições, audiodescrição e interpretação em Libras. Esses recursos podem contribuir para que diferentes pessoas consigam acessar e compreender os conteúdos digitais.
 
-O diagnóstico não considerará apenas a existência desses recursos, mas também suas condições de funcionamento e utilização. É importante verificar se os recursos disponíveis realmente podem ser utilizados pelos estudantes e se permitem o acesso aos conteúdos e às atividades propostas pela escola.
-Dessa forma, o diagnóstico terá como objetivo identificar os recursos disponíveis, suas formas de utilização e possíveis barreiras presentes no ambiente digital escolar.
+O diagnóstico não considerará apenas a existência desses recursos, mas também suas condições de funcionamento e utilização. É importante verificar se os recursos disponíveis realmente podem ser utilizados pelos estudantes e se permitem o acesso aos conteúdos e às atividades propostas pela escola. Dessa forma, o diagnóstico terá como objetivo identificar os recursos disponíveis, suas formas de utilização e possíveis barreiras presentes no ambiente digital escolar.
 
 ### Acessibilidade Pedagógica
 
-A acessibilidade pedagógica refere-se à eliminação de barreiras atitudinais, metodológicas e instrumentais no processo de ensino e aprendizagem, tratando-se da garantia de que o currículo, as práticas docentes, as metodologias de ensino, os materiais didáticos e os processos avaliativos sejam flexíveis e acessíveis a todos os estudantes, assegurando sua participação ativa e desenvolvimento pleno, independentemente de suas especificidades ou deficiências.
+A acessibilidade pedagógica envolverá as condições de acesso aos conteúdos e de participação nas atividades de aprendizagem. O foco será identificar se os materiais e recursos utilizados nas aulas atendem às diferentes necessidades dos estudantes, permitindo que acompanhem os conteúdos e realizem as tarefas propostas.
 
-Em termos práticos, ela engloba a flexibilização curricular e metodológica, por meio da adaptação das formas de ensino e adoção de práticas fundamentadas no Desenho Universal para a Aprendizagem (DUA) para garantir que os conteúdos alcancem os alunos por diferentes vias; a disponibilização de materiais didáticos acessíveis em formatos adequados, como textos ampliados, materiais em Braille, mídias digitais acessíveis e recursos audiovisuais com legendas e audiodescrição; a aplicação de processos de avaliação flexíveis que utilizem critérios e instrumentos respetivos às formas de expressão do estudante, permitindo tempo estendido, provas orais, uso de tecnologias assistivas ou formatos alternativos de demonstração de conhecimento; e, por fim, o apoio e a colaboração docente, assegurados pela presença e articulação com profissionais de apoio escolar, como intérpretes de Libras, mediadores e professores de atendimento educacional especializado (AEE) em parceria direta com o professor regente.
+Poderão ser investigadas a disponibilidade de materiais em Braille, textos ampliados, recursos táteis, áudios, vídeos com legendas e conteúdos digitais acessíveis. Também serão consideradas formas alternativas de apresentação dos conteúdos e de realização das atividades, conforme as necessidades dos alunos.
+
+O diagnóstico buscará verificar se esses recursos estão disponíveis quando necessários e se podem ser utilizados pelos estudantes. Essa dimensão estará relacionada ao acesso aos materiais e recursos de aprendizagem, sem abranger uma avaliação geral do currículo ou da qualidade dos métodos de ensino.
 
 ### Comunicação e Acesso à Informação
 
@@ -42,14 +43,14 @@ Enquanto a acessibilidade pedagógica se concentra nos conteúdos e nas atividad
 Considerando as dimensões apresentadas, o grupo realizou consultas com as professoras Juliana e Esther, da área de Arquitetura, para compreender quais aspectos da acessibilidade física devem integrar o diagnóstico escolar. As orientações recebidas contribuirão para a definição dos critérios e a elaboração do instrumento preliminar, considerando as condições de acesso, circulação, orientação e utilização dos ambientes com autonomia e segurança.
 
 ### Consulta sobre Acessibilidade Física com as Professoras de Arquitetura
-### Registros das Reuniões e Dúvidas do Grupo
 
+### Registros das Reuniões e Dúvidas do Grupo
 
 ## Critérios Preliminares de Acessibilidade Física
 
 Para preparar o diagnóstico, selecionamos aspectos que podemos observar durante as visitas às escolas, como a entrada, os corredores, as salas e os banheiros. A ideia é verificar quais dificuldades os estudantes encontram para circular e utilizar esses espaços, registrando os problemas que precisam de atenção.
 
-E ao definir os critérios, utilizamos o Manual de Acessibilidade Espacial para Escolas, publicado pelo Ministério da Educação em 2009. O material apresenta exemplos de dificuldades de acesso, circulação e uso dos ambientes escolares que ajudam a orientar nosso diagnóstico. Como algumas recomendações técnicas foram atualizadas desde sua publicação, as normas atuais serão utilizadas como referência para as medidas e os detalhes da avaliação.
+Para definir os critérios, utilizamos o Manual de Acessibilidade Espacial para Escolas, publicado pelo Ministério da Educação em 2009. O material apresenta exemplos de dificuldades de acesso, circulação e uso dos ambientes escolares que ajudam a orientar nosso diagnóstico. Como algumas recomendações técnicas foram atualizadas desde sua publicação, as normas atuais serão utilizadas como referência para as medidas e os detalhes da avaliação.
 
 A tabela abaixo reúne os aspectos que pretendemos observar e as informações que precisamos registrar para discutir possíveis melhorias.
 
@@ -73,7 +74,6 @@ A tabela abaixo reúne os aspectos que pretendemos observar e as informações q
 | **Sinalização** | Se os ambientes e caminhos estão identificados de forma legível e se existem recursos de orientação para pessoas com deficiência visual. | Locais sem identificação e sinalizações difíceis de perceber. |
 | **Iluminação e segurança** | Se há pontos escuros, ofuscamento ou obstáculos difíceis de perceber nos caminhos. | Localização e descrição dos problemas encontrados. |
 
-
 ## Instrumento Preliminar de Diagnóstico da Acessibilidade Física
 
 Preparamos este instrumento para organizar as informações que serão levantadas nas visitas às escolas. Ele reúne um checklist, um roteiro de observação, perguntas para gestores e/ou professores e campos para registrar evidências, seguindo os critérios preliminares definidos pelo grupo.
@@ -82,7 +82,7 @@ Nesta etapa, o levantamento se concentra na acessibilidade física. As respostas
 
 ### Identificação da Visita
 
-| Informação | Preenchimento |
+| **Informação** | **Preenchimento** |
 | --- | --- |
 | Escola | |
 | Rede pública ou privada | |
@@ -93,10 +93,11 @@ Nesta etapa, o levantamento se concentra na acessibilidade física. As respostas
 
 ### Checklist de Acessibilidade Física
 
-Utilizar as respostas **Sim, Não, Parcialmente, Não se aplica ou Não verificado**. Nas observações, indicar o local e explicar as limitações encontradas. 
+Utilizar as respostas **Sim, Não, Parcialmente, Não se aplica ou Não verificado**. Nas observações, indicar o local e explicar as limitações encontradas. Quando houver diferenças entre ambientes, registrar cada situação separadamente.
 
+Os itens sobre altura, alcance e espaço disponível representam uma observação preliminar, não uma comprovação de atendimento às normas. Quando não houver informações suficientes para responder, utilizar **Não verificado** e registrar a dúvida. Medidas e detalhes que dependem de avaliação técnica serão conferidos na validação do instrumento.
 
-| Aspecto | Item a verificar | Resposta | Observações / evidência |
+| **Aspecto** | **Item a verificar** | **Resposta** | **Observações / evidência** |
 | --- | --- | --- | --- |
 | Entrada | Existe caminho até a entrada que não dependa exclusivamente de escadas? | | |
 | Entrada | O caminho até a entrada está livre de obstáculos? | | |
@@ -118,16 +119,17 @@ Utilizar as respostas **Sim, Não, Parcialmente, Não se aplica ou Não verifica
 | Recepção | Há espaço para aproximação ao balcão de atendimento? | | |
 | Refeitório | Há espaço para circulação e aproximação às mesas? | | |
 | Bebedouros | Há espaço livre para aproximar-se dos bebedouros? | | |
+| Bebedouros | A altura e a posição do ponto de água permitem seu alcance por crianças, pessoas de baixa estatura e pessoas em cadeira de rodas? | | |
 | Banheiros | Existe banheiro com recursos de acessibilidade disponível para uso? | | |
 | Banheiros | É possível chegar a esse banheiro sem depender exclusivamente de escadas? | | |
 | Banheiros | O banheiro está livre de materiais armazenados e objetos que bloqueiem o uso? | | |
 | Banheiros | Há espaço livre para entrar, fechar a porta e aproximar-se da pia e do vaso? | | |
 | Pia | Há espaço abaixo da pia, sem armário ou coluna que impeça a aproximação de cadeira de rodas? | | |
-| Pia | A altura da pia e a posição da torneira foram registradas para analisar o alcance pelos usuários? | | |
+| Pia | A altura da pia e a posição da torneira permitem seu alcance e utilização pelos usuários? | | |
 | Vaso e apoios | Existem barras de apoio próximas ao vaso sanitário? | | |
 | Vaso e apoios | As barras estão firmes e sem danos aparentes? | | |
 | Vaso e apoios | Há espaço livre ao lado do vaso para transferência da cadeira de rodas? | | |
-| Acessórios | A posição do papel, sabonete, espelho e meios de secar as mãos foi registrada para analisar seu alcance? | | |
+| Acessórios | O papel, o sabonete, o espelho e os meios de secar as mãos estão posicionados ao alcance dos usuários? | | |
 | Áreas coletivas | Existem percursos sem obstáculos até pátios, quadras e auditório? | | |
 | Auditório | Existem espaços para cadeira de rodas integrados aos demais assentos? | | |
 | Auditório | Existe alternativa aos degraus para acesso ao palco? | | |
@@ -135,6 +137,7 @@ Utilizar as respostas **Sim, Não, Parcialmente, Não se aplica ou Não verifica
 | Sinalização | Existem recursos táteis de identificação ou orientação nos espaços? | | |
 | Sinalização | Os recursos táteis existentes estão conservados e desobstruídos? | | |
 | Iluminação | A iluminação dos percursos está funcionando? | | |
+| Iluminação | Os percursos estão livres de pontos escuros ou ofuscamento que dificultem perceber obstáculos e sinalizações? | | |
 | Segurança | As passagens de saída estão livres de obstáculos? | | |
 
 ### Roteiro de Observação
@@ -152,8 +155,7 @@ Utilizar as respostas **Sim, Não, Parcialmente, Não se aplica ou Não verifica
 
 ### Perguntas para Gestores/Professores
 
-
-| Pergunta | Resposta |
+| **Pergunta** | **Resposta** |
 | --- | --- |
 | Quais dificuldades de acesso ou circulação são relatadas pelos estudantes? | |
 | Existem ambientes que algum estudante não consegue acessar? Quais e por quê? | |
@@ -174,7 +176,7 @@ Utilizar as respostas **Sim, Não, Parcialmente, Não se aplica ou Não verifica
 
 Registrar recursos existentes e barreiras encontradas. Para relacionar uma evidência ao checklist, escrever o aspecto ou o texto do item correspondente. Identificar se a informação foi observada pelo grupo ou relatada por um profissional. Fotografias serão feitas somente com autorização, priorizando os espaços e evitando identificar estudantes. Medidas serão registradas quando previstas no roteiro validado.
 
-| Local | Condição observada ou relatada | Possível dificuldade de uso | Fotografia / medida / documento | Item do checklist relacionado |
+| **Local** | **Condição observada ou relatada** | **Possível dificuldade de uso** | **Fotografia / medida / documento** | **Item do checklist relacionado** |
 | --- | --- | --- | --- | --- |
 | | | | | |
 | | | | | |
@@ -186,4 +188,3 @@ Registrar recursos existentes e barreiras encontradas. Para relacionar uma evid�
 | | | | | |
 | | | | | |
 | | | | | |
-
