@@ -140,8 +140,6 @@ Para preencher o checklist, utilizar as seguintes respostas:
 - **Não se aplica:** o item não corresponde à situação avaliada, como o acesso entre pavimentos em uma escola com apenas um andar.
 - **Não verificado:** não foi possível avaliar o item durante a visita ou faltaram informações para responder.
 
-As perguntas foram organizadas para que **Sim** indique a presença de uma condição favorável ao acesso ou ao uso do espaço. Nas observações, indicar o local e explicar o que fundamentou a resposta. Quando houver diferenças entre ambientes, registrar cada situação separadamente.
-
 Durante a visita, o grupo registrará as condições que conseguir observar, como caminhos bloqueados, objetos embaixo da pia ou ausência de barras de apoio. A existência de um recurso, por si só, não significa que ele atenda às normas ou possa ser utilizado por todos os estudantes.
 
 Nos itens sobre altura, alcance e espaço para circulação, registrar as características encontradas e as dificuldades relatadas pelo responsável da escola. Se não houver informações suficientes para responder, marcar **Não verificado** e explicar o motivo. Na validação da Etapa 4, o especialista ajudará a definir quais medidas e verificações técnicas deverão fazer parte da aplicação. O checklist não será utilizado como laudo de conformidade da escola.
