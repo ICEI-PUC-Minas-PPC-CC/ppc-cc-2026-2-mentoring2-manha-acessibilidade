@@ -220,6 +220,9 @@ Nos itens sobre altura, alcance e espaço para circulação, registrar as caract
 | Quais melhorias físicas a instituição considera prioritárias e por quê? | |
 | Como são consideradas as necessidades de mobilidade dos estudantes nos procedimentos de saída em emergência? | |
 | Existe outra dificuldade relacionada aos espaços físicos que deve ser registrada? | |
+| Como a instituição escolar tem percebido o aumento das demandas relacionadas à acessibilidade física? Quais desafios esse aumento tem trazido para a escola? | |
+| A instituição segue alguma norma, diretriz ou referência específica para orientar as condições de acessibilidade física dos seus espaços? Qual(is)? | |
+| Como a escola verifica se os espaços considerados acessíveis podem ser utilizados com autonomia e segurança pelos estudantes que deles necessitam? | |
 
 ### Campos para Registro de Evidências
 
