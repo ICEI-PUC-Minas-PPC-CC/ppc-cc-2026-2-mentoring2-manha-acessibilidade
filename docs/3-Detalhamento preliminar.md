@@ -46,7 +46,42 @@ Enquanto a acessibilidade pedagógica se concentra nos conteúdos e nas atividad
 
 Considerando as dimensões apresentadas, o grupo realizou consultas com as professoras Juliana e Esther, da área de Arquitetura, para compreender quais aspectos da acessibilidade física devem integrar o diagnóstico escolar. As orientações recebidas contribuirão para a definição dos critérios e a elaboração do instrumento preliminar, considerando as condições de acesso, circulação, orientação e utilização dos ambientes com autonomia e segurança.
 
-### Consulta sobre Acessibilidade Física com as Professoras de Arquitetura
+### Consulta sobre Acessibilidade Física com a Professora de Arquitetura
+### Consulta sobre Acessibilidade Física com a Professora de Arquitetura
+
+Reunião com a Profa. Juliana — Arquitetura
+
+Data: 22/09/2026
+Horário: 17h30
+Plataforma: Teams
+
+Objetivo da reunião:
+A reunião teve como objetivo compreender quais aspectos relacionados à acessibilidade física e arquitetônica devem ser considerados no diagnóstico das escolas. Foram discutidos aspectos relacionados ao acesso, circulação, utilização dos ambientes, autonomia e segurança dos estudantes.
+
+**Principais pontos discutidos:**
+
+* Conceito de acessibilidade: Foi discutido que a acessibilidade está relacionada à possibilidade de acesso e alcance, buscando tornar os ambientes mais adequados, seguros e que favoreçam a autonomia dos indivíduos. Também foi destacado que a acessibilidade não beneficia somente pessoas com deficiência, contribuindo para tornar os ambientes mais igualitários.
+
+* Normas e dimensões da acessibilidade: Foi apresentada a NBR 9050 como uma das principais normas relacionadas à acessibilidade em nível nacional. Também foram apresentadas diferentes dimensões da acessibilidade, incluindo a arquitetônica, comunicacional, metodológica, instrumental, programática e atitudinal.
+
+* Manual de Acessibilidade Espacial para Escolas: A professora apresentou o *Manual de Acessibilidade Espacial para Escolas* como referência para identificar barreiras de acessibilidade nos ambientes educacionais.
+
+* Barreiras no acesso e na circulação: Foram apresentados exemplos de barreiras que podem existir desde o caminho até a escola e em seus ambientes internos, como ausência de faixa de pedestres, falta de sinalização, caminhos estreitos, buracos, degraus, pisos inadequados ou escorregadios e obstáculos mal posicionados.
+
+* Rampas, escadas e piso tátil: Foram discutidos aspectos relacionados à inclinação de rampas, dimensões de degraus e existência de alternativas acessíveis. Também foi destacada a importância do piso tátil direcional para auxiliar na orientação e circulação de pessoas com deficiência visual.
+
+* Orientação e sinalização dos ambientes: Foi discutida a importância de possibilitar que os estudantes consigam identificar e se orientar pelos diferentes ambientes da escola, podendo ser utilizados recursos como cores e sinalização.
+
+* Sanitários acessíveis: Foram apresentados aspectos que podem ser observados nos sanitários, como dimensões, barras de apoio, botão de emergência, altura do lavatório e da bacia sanitária, espaço para aproximação de cadeira de rodas e características das portas.
+
+* Diagnóstico da acessibilidade: A professora apresentou esses exemplos como aspectos que podem ser analisados pelo grupo no diagnóstico dos ambientes educacionais, utilizando o manual como referência para a elaboração do instrumento.
+
+**Orientações recebidas:**
+
+* Considerar a acessibilidade de forma ampla, levando em conta a autonomia e a segurança dos estudantes.
+* Utilizar como referência os parâmetros e orientações relacionados à acessibilidade apresentados durante a reunião.
+* Considerar diferentes ambientes e possíveis barreiras no diagnóstico da instituição de ensino.
+* Utilizar o Manual de Acessibilidade Espacial para Escolas como referência para identificar possíveis barreiras e aspectos que poderão ser contemplados no instrumento de diagnóstico.
 
 ### Registros das Reuniões e Dúvidas do Grupo
 
