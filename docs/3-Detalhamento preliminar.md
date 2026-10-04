@@ -25,11 +25,9 @@ Dessa forma, o diagnóstico terá como objetivo identificar os recursos disponí
 
 ### Acessibilidade Pedagógica
 
-A acessibilidade pedagógica envolverá as condições de acesso aos conteúdos e de participação nas atividades de aprendizagem. O foco será identificar se os materiais e recursos utilizados nas aulas atendem às diferentes necessidades dos estudantes, permitindo que acompanhem os conteúdos e realizem as tarefas propostas.
+A acessibilidade pedagógica refere-se à eliminação de barreiras atitudinais, metodológicas e instrumentais no processo de ensino e aprendizagem, tratando-se da garantia de que o currículo, as práticas docentes, as metodologias de ensino, os materiais didáticos e os processos avaliativos sejam flexíveis e acessíveis a todos os estudantes, assegurando sua participação ativa e desenvolvimento pleno, independentemente de suas especificidades ou deficiências.
 
-Poderão ser investigadas a disponibilidade de materiais em Braille, textos ampliados, recursos táteis, áudios, vídeos com legendas e conteúdos digitais acessíveis. Também serão consideradas formas alternativas de apresentação dos conteúdos e de realização das atividades, conforme as necessidades dos alunos.
-
-O diagnóstico buscará verificar se esses recursos estão disponíveis quando necessários e se podem ser utilizados pelos estudantes. Essa dimensão estará relacionada ao processo de aprendizagem, sem abranger uma avaliação geral do currículo ou da qualidade dos métodos de ensino.
+Em termos práticos, ela engloba a flexibilização curricular e metodológica, por meio da adaptação das formas de ensino e adoção de práticas fundamentadas no Desenho Universal para a Aprendizagem (DUA) para garantir que os conteúdos alcancem os alunos por diferentes vias; a disponibilização de materiais didáticos acessíveis em formatos adequados, como textos ampliados, materiais em Braille, mídias digitais acessíveis e recursos audiovisuais com legendas e audiodescrição; a aplicação de processos de avaliação flexíveis que utilizem critérios e instrumentos respetivos às formas de expressão do estudante, permitindo tempo estendido, provas orais, uso de tecnologias assistivas ou formatos alternativos de demonstração de conhecimento; e, por fim, o apoio e a colaboração docente, assegurados pela presença e articulação com profissionais de apoio escolar, como intérpretes de Libras, mediadores e professores de atendimento educacional especializado (AEE) em parceria direta com o professor regente.
 
 ### Comunicação e Acesso à Informação
 
