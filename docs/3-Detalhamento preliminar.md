@@ -49,7 +49,7 @@ Considerando as dimensões apresentadas, o grupo realizou consultas com as profe
 
 Para preparar o diagnóstico, selecionamos aspectos que podemos observar durante as visitas às escolas, como a entrada, os corredores, as salas e os banheiros. A ideia é verificar quais dificuldades os estudantes encontram para circular e utilizar esses espaços, registrando os problemas que precisam de atenção.
 
-Usamos como base o Manual de Acessibilidade Espacial para Escolas, publicado pelo Ministério da Educação em 2009. Apesar de ser um material antigo, ele traz exemplos que ajudam a entender as barreiras presentes nas escolas. Como algumas orientações técnicas foram atualizadas desde então, as medidas e os detalhes serão conferidos com as professoras de Arquitetura e com as normas atuais.
+E ao definir os critérios, utilizamos o Manual de Acessibilidade Espacial para Escolas, publicado pelo Ministério da Educação em 2009. O material apresenta exemplos de dificuldades de acesso, circulação e uso dos ambientes escolares que ajudam a orientar nosso diagnóstico. Como algumas recomendações técnicas foram atualizadas desde sua publicação, as normas atuais serão utilizadas como referência para as medidas e os detalhes da avaliação.
 
 A tabela abaixo reúne os aspectos que pretendemos observar e as informações que precisamos registrar para discutir possíveis melhorias.
 
@@ -74,211 +74,116 @@ A tabela abaixo reúne os aspectos que pretendemos observar e as informações q
 | **Iluminação e segurança** | Se há pontos escuros, ofuscamento ou obstáculos difíceis de perceber nos caminhos. | Localização e descrição dos problemas encontrados. |
 
 
-# Instrumentos de Diagnóstico de Acessibilidade Escolar
+## Instrumento Preliminar de Diagnóstico da Acessibilidade Física
 
-## Checklist
+Preparamos este instrumento para organizar as informações que serão levantadas nas visitas às escolas. Ele reúne um checklist, um roteiro de observação, perguntas para gestores e/ou professores e campos para registrar evidências, seguindo os critérios preliminares definidos pelo grupo.
 
-| Item a verificar                                                                                                          | Resposta | Observações |
-| ------------------------------------------------------------------------------------------------------------------------- | -------- | ----------- |
-| A entrada da escola possui caminho acessível, sem depender exclusivamente de escadas?                                     |          |             |
-| Existem obstáculos ou desníveis na entrada da escola?                                                                     |          |             |
-| Os corredores e percursos estão livres de obstáculos?                                                                     |          |             |
-| Os pisos estão em boas condições e não apresentam buracos, peças soltas ou mudanças de nível que dificultem a circulação? |          |             |
-| As portas permitem passagem e aproximação adequadas?                                                                      |          |             |
-| Existem rampas ou alternativas às escadas quando necessário?                                                              |          |             |
-| As rampas estão desobstruídas e em boas condições de uso?                                                                 |          |             |
-| Os corrimãos das rampas e escadas estão presentes e em boas condições?                                                    |          |             |
-| É possível acessar os diferentes pavimentos sem depender exclusivamente de escadas?                                       |          |             |
-| A disposição dos móveis nas salas permite circulação e participação dos estudantes?                                       |          |             |
-| Os laboratórios permitem circulação e acesso aos equipamentos?                                                            |          |             |
-| A biblioteca permite circulação entre as estantes e acesso aos recursos?                                                  |          |             |
-| A recepção permite aproximação e atendimento dos diferentes usuários?                                                     |          |             |
-| O refeitório permite circulação e acesso às mesas?                                                                        |          |             |
-| Os bebedouros podem ser utilizados por estudantes com diferentes necessidades?                                            |          |             |
-| Existe banheiro acessível disponível para uso?                                                                            |          |             |
-| O banheiro acessível pode ser alcançado sem obstáculos ou escadas?                                                        |          |             |
-| O espaço interno do banheiro permite circulação e aproximação dos equipamentos?                                           |          |             |
-| A pia permite aproximação e utilização adequada?                                                                          |          |             |
-| Existem barras de apoio próximas ao vaso sanitário?                                                                       |          |             |
-| Existe espaço adequado para aproximação e transferência junto ao vaso sanitário?                                          |          |             |
-| Os acessórios do banheiro estão posicionados de forma acessível?                                                          |          |             |
-| Pátios, quadras e auditórios possuem acesso adequado?                                                                     |          |             |
-| Os estudantes conseguem chegar e participar das atividades nesses espaços?                                                |          |             |
-| Os ambientes possuem sinalização para facilitar a orientação?                                                             |          |             |
-| Existem recursos de orientação para pessoas com deficiência visual quando necessários?                                    |          |             |
-| Os caminhos possuem iluminação adequada?                                                                                  |          |             |
-| Existem obstáculos ou pontos de pouca iluminação que possam dificultar a circulação e a segurança?                        |          |             |
-| Os recursos digitais utilizados pela escola podem ser acessados por teclado?                                              |          |             |
-| Os recursos digitais são compatíveis com leitores de tela quando necessário?                                              |          |             |
-| É possível ampliar o tamanho dos textos nos recursos digitais utilizados?                                                 |          |             |
-| Os textos e elementos digitais apresentam contraste adequado?                                                             |          |             |
-| As imagens utilizadas possuem textos alternativos quando necessário?                                                      |          |             |
-| Os vídeos utilizados possuem legendas quando necessário?                                                                  |          |             |
-| Existem transcrições ou outros recursos de acesso aos conteúdos audiovisuais?                                             |          |             |
-| Há audiodescrição quando necessária?                                                                                      |          |             |
-| Há recursos de interpretação em Libras quando necessários?                                                                |          |             |
-| Os estudantes conseguem utilizar os recursos digitais disponibilizados pela escola?                                       |          |             |
-| Existem materiais adaptados às diferentes necessidades dos estudantes?                                                    |          |             |
-| A escola disponibiliza materiais em Braille quando necessário?                                                            |          |             |
-| Existem textos ampliados quando necessários?                                                                              |          |             |
-| Existem recursos táteis quando necessários?                                                                               |          |             |
-| Existem materiais em áudio quando necessários?                                                                            |          |             |
-| Os vídeos utilizados possuem recursos de acessibilidade quando necessários?                                               |          |             |
-| São utilizadas formas alternativas de apresentação dos conteúdos quando necessário?                                       |          |             |
-| Existem formas alternativas de realização das atividades quando necessário?                                               |          |             |
-| Os recursos disponíveis podem ser utilizados pelos estudantes que necessitam deles?                                       |          |             |
-| Os ambientes da escola possuem identificação clara e legível?                                                             |          |             |
-| Os avisos e comunicados são apresentados de forma acessível?                                                              |          |             |
-| As informações sobre horários, reuniões e eventos são disponibilizadas de forma acessível?                                |          |             |
-| As orientações de segurança são acessíveis aos diferentes usuários?                                                       |          |             |
-| As informações são disponibilizadas em formatos adequados quando necessário?                                              |          |             |
-| A escola utiliza recursos como Braille, textos ampliados, áudio ou Libras quando necessário?                              |          |             |
-| Existem recursos de comunicação aumentativa e alternativa quando necessários?                                             |          |             |
-| Os estudantes e responsáveis conseguem acessar e compreender as informações necessárias à rotina escolar?                 |          |             |
+Nesta etapa, o levantamento se concentra na acessibilidade física. As respostas e os resultados permanecem em branco, pois o material será utilizado posteriormente e validado na Etapa 4.
 
----
+### Identificação da Visita
 
-## Roteiro de Observação
+| Informação | Preenchimento |
+| --- | --- |
+| Escola | |
+| Rede pública ou privada | |
+| Data e horário | |
+| Responsáveis pelo levantamento | |
+| Nome e função do profissional consultado | |
+| Ambientes não observados e motivo | |
 
-1. **Entrada da escola**
+### Checklist de Acessibilidade Física
 
-   * Observar o acesso principal e os caminhos disponíveis.
-   * Verificar a existência de escadas, rampas, desníveis e obstáculos.
-   * Observar a sinalização e as condições de circulação.
+Utilizar as respostas **Sim, Não, Parcialmente, Não se aplica ou Não verificado**. Nas observações, indicar o local e explicar as limitações encontradas. Quando houver diferenças entre ambientes, registrar cada situação separadamente.
 
-2. **Recepção e áreas de atendimento**
 
-   * Verificar o acesso aos espaços de atendimento.
-   * Observar a identificação dos ambientes e as informações disponíveis.
+| Aspecto | Item a verificar | Resposta | Observações / evidência |
+| --- | --- | --- | --- |
+| Entrada | Existe caminho até a entrada que não dependa exclusivamente de escadas? | | |
+| Entrada | O caminho até a entrada está livre de obstáculos? | | |
+| Circulação | Os corredores e percursos entre os ambientes estão livres de obstáculos? | | |
+| Pisos | Os pisos estão conservados, sem buracos ou peças soltas? | | |
+| Pisos | Os desníveis dos percursos possuem alternativas de passagem? | | |
+| Portas | Há espaço livre para aproximar-se das portas e abri-las? | | |
+| Portas | As passagens pelas portas estão livres de móveis ou objetos? | | |
+| Rampas | Existem rampas ou outras alternativas nos acessos com escadas? | | |
+| Rampas | As rampas estão desobstruídas e sem danos aparentes? | | |
+| Escadas e corrimãos | Existem corrimãos nas rampas e escadas observadas? | | |
+| Escadas e corrimãos | Os corrimãos estão firmes e sem danos aparentes? | | |
+| Pavimentos | Existe alternativa às escadas para chegar aos ambientes dos outros pavimentos? | | |
+| Pavimentos | Os elevadores ou plataformas existentes estão disponíveis e funcionando? | | |
+| Salas | A disposição dos móveis deixa caminhos livres até as mesas e os espaços de atividade? | | |
+| Mobiliário | Há mesas com espaço inferior livre para aproximação de cadeira de rodas? | | |
+| Laboratórios | Há espaço para aproximar-se das bancadas e dos equipamentos? | | |
+| Biblioteca | Os caminhos entre as estantes estão livres para circulação? | | |
+| Recepção | Há espaço para aproximação ao balcão de atendimento? | | |
+| Refeitório | Há espaço para circulação e aproximação às mesas? | | |
+| Bebedouros | Há espaço livre para aproximar-se dos bebedouros? | | |
+| Banheiros | Existe banheiro com recursos de acessibilidade disponível para uso? | | |
+| Banheiros | É possível chegar a esse banheiro sem depender exclusivamente de escadas? | | |
+| Banheiros | O banheiro está livre de materiais armazenados e objetos que bloqueiem o uso? | | |
+| Banheiros | Há espaço livre para entrar, fechar a porta e aproximar-se da pia e do vaso? | | |
+| Pia | Há espaço abaixo da pia, sem armário ou coluna que impeça a aproximação de cadeira de rodas? | | |
+| Pia | A altura da pia e a posição da torneira foram registradas para analisar o alcance pelos usuários? | | |
+| Vaso e apoios | Existem barras de apoio próximas ao vaso sanitário? | | |
+| Vaso e apoios | As barras estão firmes e sem danos aparentes? | | |
+| Vaso e apoios | Há espaço livre ao lado do vaso para transferência da cadeira de rodas? | | |
+| Acessórios | A posição do papel, sabonete, espelho e meios de secar as mãos foi registrada para analisar seu alcance? | | |
+| Áreas coletivas | Existem percursos sem obstáculos até pátios, quadras e auditório? | | |
+| Auditório | Existem espaços para cadeira de rodas integrados aos demais assentos? | | |
+| Auditório | Existe alternativa aos degraus para acesso ao palco? | | |
+| Sinalização | Os principais ambientes possuem identificação visível e legível? | | |
+| Sinalização | Existem recursos táteis de identificação ou orientação nos espaços? | | |
+| Sinalização | Os recursos táteis existentes estão conservados e desobstruídos? | | |
+| Iluminação | A iluminação dos percursos está funcionando? | | |
+| Segurança | As passagens de saída estão livres de obstáculos? | | |
 
-3. **Corredores e percursos**
+### Roteiro de Observação
 
-   * Verificar se os caminhos estão livres de obstáculos.
-   * Observar pisos, iluminação e sinalização.
-   * Registrar possíveis dificuldades de circulação.
+1. **Entrada e chegada:** acompanhar o percurso até a entrada, identificando obstáculos, degraus e alternativas de acesso.
+2. **Circulação e mudanças de nível:** observar corredores, pisos, portas, rampas, escadas e acesso entre pavimentos. Registrar pontos de sombra ou ofuscamento.
+3. **Salas e laboratórios:** observar os caminhos entre os móveis, a aproximação às mesas e bancadas e a disposição dos equipamentos.
+4. **Recepção, biblioteca e refeitório:** observar aproximação aos balcões, circulação entre estantes e mesas e alcance dos recursos. Registrar alturas ou posições que precisem de avaliação.
+5. **Bebedouros:** observar espaço de aproximação, altura e acesso ao ponto de água.
+6. **Banheiros:** observar acesso, disponibilidade e espaço interno. Registrar altura da pia, espaço inferior, posição da torneira, vaso, barras e acessórios, além de obstáculos à circulação e transferência.
+7. **Pátios, quadras e auditório:** observar percursos, acessos e condições físicas para participação junto aos colegas.
+8. **Sinalização:** verificar identificação dos ambientes e recursos visuais e táteis ao longo dos percursos.
+9. **Conversa com o responsável:** esclarecer dúvidas sobre uso, manutenção e dificuldades relatadas.
+10. **Conferência dos registros:** relacionar as evidências ao checklist e identificar ambientes não visitados e pontos que dependem de avaliação técnica.
 
-4. **Salas de aula**
+### Perguntas para Gestores e/ou Professores
 
-   * Observar a disposição das carteiras e dos demais móveis.
-   * Verificar se há espaço para circulação e aproximação.
-   * Observar os recursos utilizados nas atividades.
 
-5. **Laboratórios e salas específicas**
+| Pergunta | Resposta |
+| --- | --- |
+| Quais dificuldades de acesso ou circulação são relatadas pelos estudantes? | |
+| Existem ambientes que algum estudante não consegue acessar? Quais e por quê? | |
+| Em quais situações as barreiras físicas fazem os estudantes dependerem de ajuda para se deslocar? | |
+| Há dificuldades relatadas para utilizar mesas, bancadas, bebedouros ou balcões? | |
+| Há dificuldades relatadas para usar a pia, o vaso ou os acessórios dos banheiros? | |
+| O banheiro com recursos de acessibilidade permanece disponível durante todo o funcionamento da escola? | |
+| Existem elevadores ou plataformas que ficam indisponíveis? Como isso afeta o acesso aos ambientes? | |
+| Como é feita a manutenção dos pisos, rampas, corrimãos e equipamentos de acesso? | |
+| Há mobiliário adaptado ou ajustável? Em quais ambientes ele está disponível? | |
+| Quais adaptações físicas já foram realizadas e quais dificuldades permanecem? | |
+| A escola possui levantamento ou documento anterior sobre acessibilidade física? | |
+| Quais melhorias físicas a instituição considera prioritárias e por quê? | |
+| Como são consideradas as necessidades de mobilidade dos estudantes nos procedimentos de saída em emergência? | |
+| Existe outra dificuldade relacionada aos espaços físicos que deve ser registrada? | |
 
-   * Verificar o acesso aos ambientes.
-   * Observar a circulação e o acesso aos equipamentos.
-   * Registrar possíveis barreiras físicas ou tecnológicas.
+### Campos para Registro de Evidências
 
-6. **Biblioteca**
+Registrar recursos existentes e barreiras encontradas. Para relacionar uma evidência ao checklist, escrever o aspecto ou o texto do item correspondente. Identificar se a informação foi observada pelo grupo ou relatada por um profissional. Fotografias serão feitas somente com autorização, priorizando os espaços e evitando identificar estudantes. Medidas serão registradas quando previstas no roteiro validado.
 
-   * Verificar o acesso ao ambiente.
-   * Observar a circulação entre as estantes e o acesso aos materiais.
-
-7. **Banheiros**
-
-   * Verificar o acesso e a disponibilidade do banheiro acessível.
-   * Observar o espaço interno, pia, vaso sanitário, barras de apoio e acessórios.
-   * Registrar possíveis obstáculos ou dificuldades de utilização.
-
-8. **Bebedouros**
-
-   * Verificar o acesso e a possibilidade de aproximação.
-   * Observar obstáculos e condições de utilização.
-
-9. **Refeitório**
-
-   * Observar os caminhos de acesso.
-   * Verificar a circulação entre as mesas e o acesso aos locais de alimentação.
-
-10. **Pátios e áreas de convivência**
-
-    * Verificar se os estudantes conseguem acessar e utilizar esses espaços.
-    * Observar desníveis, obstáculos e condições de circulação.
-
-11. **Quadras e espaços esportivos**
-
-    * Verificar o acesso aos espaços.
-    * Observar possíveis barreiras que dificultem a participação nas atividades.
-
-12. **Auditório e espaços de eventos**
-
-    * Verificar acesso, circulação e participação dos estudantes.
-    * Observar possíveis barreiras físicas e comunicacionais.
-
-13. **Recursos tecnológicos**
-
-    * Identificar os equipamentos e recursos digitais utilizados.
-    * Verificar as condições de acessibilidade dos recursos.
-
-14. **Materiais pedagógicos**
-
-    * Identificar materiais adaptados disponíveis.
-    * Observar recursos como Braille, textos ampliados, materiais táteis, áudios e vídeos acessíveis.
-
-15. **Comunicação e sinalização**
-
-    * Observar placas, avisos, comunicados e orientações.
-    * Verificar se as informações são acessíveis aos diferentes usuários.
-
-16. **Registro das evidências**
-
-    * Registrar as barreiras encontradas.
-    * Anotar o local da ocorrência.
-    * Relacionar cada evidência ao item correspondente do checklist.
-    * Registrar fotografias somente quando houver autorização.
-
-17. **Encerramento da visita**
-
-    * Conferir se todos os espaços previstos foram observados.
-    * Verificar se todos os registros necessários foram realizados.
-    * Separar dúvidas que deverão ser esclarecidas com gestores ou professores.
-
----
-
-## Perguntas para Gestores e/ou Professores
-
-| Nº | Pergunta                                                                                                                      | Resposta |
-| -- | ----------------------------------------------------------------------------------------------------------------------------- | -------- |
-| 1  | A escola possui estudantes que necessitam de recursos ou adaptações de acessibilidade?                                        |          |
-| 2  | Quais são as principais necessidades de acessibilidade identificadas pela escola?                                             |          |
-| 3  | A escola possui algum planejamento ou programa específico relacionado à acessibilidade?                                       |          |
-| 4  | Quais recursos de acessibilidade física estão disponíveis atualmente?                                                         |          |
-| 5  | Existem espaços da escola que apresentam dificuldades de acesso ou circulação?                                                |          |
-| 6  | Como a escola identifica e resolve problemas relacionados à acessibilidade física?                                            |          |
-| 7  | A escola possui recursos tecnológicos acessíveis para os estudantes que necessitam?                                           |          |
-| 8  | Quais recursos digitais acessíveis são utilizados nas atividades escolares?                                                   |          |
-| 9  | Os professores recebem orientação ou apoio para utilizar recursos digitais acessíveis?                                        |          |
-| 10 | A escola disponibiliza materiais pedagógicos adaptados quando necessário?                                                     |          |
-| 11 | Quais tipos de materiais adaptados estão disponíveis?                                                                         |          |
-| 12 | Como são adaptados os conteúdos e as atividades para estudantes com necessidades específicas?                                 |          |
-| 13 | A escola possui recursos de comunicação acessível, como Libras, Braille, áudio ou comunicação aumentativa e alternativa?      |          |
-| 14 | Como os avisos e comunicados são disponibilizados aos estudantes e responsáveis que necessitam de recursos de acessibilidade? |          |
-| 15 | Quais são as principais barreiras de acessibilidade que a escola enfrenta atualmente?                                         |          |
-| 16 | Existem recursos ou melhorias de acessibilidade que a escola considera necessários, mas ainda não possui?                     |          |
-| 17 | A escola recebe apoio ou recursos externos para realizar melhorias de acessibilidade?                                         |          |
-| 18 | Quais melhorias de acessibilidade a escola considera prioritárias?                                                            |          |
-| 19 | Existe algum recurso de acessibilidade que já foi implantado recentemente?                                                    |          |
-| 20 | Há alguma outra informação sobre acessibilidade na escola que vocês consideram importante registrar?                          |          |
-
----
-
-## Campos de Evidências
-
-| Nº | Local | Descrição da barreira | Fotografia | Item do checklist relacionado |
-| -- | ----- | --------------------- | ---------- | ----------------------------- |
-| 1  |       |                       |            |                               |
-| 2  |       |                       |            |                               |
-| 3  |       |                       |            |                               |
-| 4  |       |                       |            |                               |
-| 5  |       |                       |            |                               |
-| 6  |       |                       |            |                               |
-| 7  |       |                       |            |                               |
-| 8  |       |                       |            |                               |
-| 9  |       |                       |            |                               |
-| 10 |       |                       |            |                               |
-| 11 |       |                       |            |                               |
-| 12 |       |                       |            |                               |
-| 13 |       |                       |            |                               |
-| 14 |       |                       |            |                               |
-| 15 |       |                       |            |                               |
+| Local | Condição observada ou relatada | Possível dificuldade de uso | Fotografia / medida / documento | Item do checklist relacionado |
+| --- | --- | --- | --- | --- |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
 
