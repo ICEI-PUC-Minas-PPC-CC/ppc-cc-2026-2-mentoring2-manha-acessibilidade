@@ -45,15 +45,17 @@ Enquanto a acessibilidade pedagógica se concentra nos conteúdos e nas atividad
 
 Considerando as dimensões apresentadas, o grupo realizou consultas com as professoras Juliana e Esther, da área de Arquitetura, para compreender quais aspectos da acessibilidade física devem integrar o diagnóstico escolar. As orientações recebidas contribuirão para a definição dos critérios e a elaboração do instrumento preliminar, considerando as condições de acesso, circulação, orientação e utilização dos ambientes com autonomia e segurança.
 
-### Consulta sobre Acessibilidade Física com a Professora de Arquitetura
+### Reunião com Arquiteta Especialista em Acessibilidade
 
-Reunião com a Profa. Juliana — Arquitetura
+- **Profissional Consultada:** Profa. Juliana de Nardin — Arquiteta Especialista em Acessibilidade
+- **Professor Responsável:** Profa. Luciana de Nardin
+- **Data:** 22/09/2026
+- **Horário:** 17h30
+- **Plataforma:** Microsoft Teams
+- **Link da Reunião:** [Gravação da Reunião](https://drive.google.com/file/d/1HbyqScc2liKsQ9eFKk0UrUakEvqnqHRa/view)
 
-Data: 22/09/2026
-Horário: 17h30
-Plataforma: Teams
+**Objetivo da reunião:**
 
-Objetivo da reunião:
 A reunião teve como objetivo compreender quais aspectos relacionados à acessibilidade física e arquitetônica devem ser considerados no diagnóstico das escolas. Foram discutidos aspectos relacionados ao acesso, circulação, utilização dos ambientes, autonomia e segurança dos estudantes.
 
 **Principais pontos discutidos:**
@@ -81,7 +83,38 @@ A reunião teve como objetivo compreender quais aspectos relacionados à acessib
 * Considerar diferentes ambientes e possíveis barreiras no diagnóstico da instituição de ensino.
 * Utilizar o Manual de Acessibilidade Espacial para Escolas como referência para identificar possíveis barreiras e aspectos que poderão ser contemplados no instrumento de diagnóstico.
 
-### Registros das Reuniões e Dúvidas do Grupo
+**Perguntas realizadas:**
+* Existe um conjunto de requisitos mínimos de acessibilidade?
+* Existem critérios de acessibilidade que possuam maior prioridade para a avaliação de espaços acessíveis?
+
+**Registro do encontro:**
+
+![Registro da reunião com Profa. Juliana de Nardin](./img/profa-juliana-1.png)
+
+### Reunião com Arquiteta Especialista em Projetos de Espaços Hospitalares
+
+- **Profissional Consultada:** Profa. Esther Cervini — Arquiteta Especialista em Projetos de Espaços Hospitalares
+- **Professor Responsável:** Prof. Udo Fritzke Junior
+- **Data:** 24/09/2026
+- **Horário:** 21h00
+- **Plataforma:** Microsoft Teams
+- **Link da Reunião:** [Gravação da Reunião](https://drive.google.com/file/d/1CzpM7Z7h5KxVkf-glw0t5nOoLN3nm7tB/view)
+
+**Objetivo da reunião:**
+
+A reunião teve como objetivo apresentar e discutir aspectos relacionados à elaboração de projetos arquitetônicos na área da saúde, área de atuação da profissional consultada. Embora o encontro tenha sido direcionado principalmente a um grupo cujo trabalho estava relacionado a ambientes de saúde, também foram abordadas questões de acessibilidade aplicáveis aos espaços construídos.
+
+Embora a reunião tenha abordado principalmente questões relacionadas a projetos arquitetônicos na área da saúde, para este projeto foram consideradas apenas as contribuições que podem ser relevantes para a análise da acessibilidade física em instituições de ensino.
+
+**Principais pontos discutidos:**
+
+* Acessibilidade como parte do planejamento dos espaços: Durante a reunião, foram abordados aspectos relacionados à necessidade de considerar as características e necessidades dos diferentes usuários durante o planejamento dos ambientes.
+
+* Circulação e organização dos ambientes: Foram discutidas questões relacionadas à circulação das pessoas pelos espaços, com considerações especiais para cadeirantes, e à organização dos ambientes de forma que o deslocamento e o acesso aos diferentes locais sejam facilitados.
+
+**Registro do encontro:**
+
+![Registro da reunião com Profa. Esther Cervini](./img/profa-juliana-1.png)
 
 ## Critérios Preliminares de Acessibilidade Física
 
