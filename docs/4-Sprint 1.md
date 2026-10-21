@@ -1,3 +1,4 @@
+
 # Sprint 1
 ## 2. Critérios e Instrumento de Diagnóstico da Acessibilidade Digital
 ## 2.1. Objetivo
@@ -29,3 +30,14 @@ Foram definidos critérios relacionados à navegação, compatibilidade com tecn
 | **AD15** | Apresentação e navegação adequadas em diferentes tamanhos de tela. | Teste em computador e dispositivo móvel, quando disponíveis. |
 | **AD16** | Clareza das mensagens de erro, avisos e orientações apresentadas aos usuários. | Inspeção e teste das funcionalidades, quando disponíveis. |
 
+### 2.3. Opções de resposta
+
+Para padronizar o registro dos resultados, cada critério deverá receber uma das seguintes respostas:
+
+* **Sim:** o requisito foi identificado e apresentou funcionamento adequado no contexto avaliado.
+* **Parcialmente:** o requisito foi identificado, mas foram observadas limitações.
+* **Não:** o requisito não foi identificado ou foi observada uma barreira.
+* **Não se aplica:** o critério não é pertinente ao recurso analisado.
+* **Não foi possível verificar:** não houve condições ou evidências suficientes para realizar a avaliação.
+
+Cada resposta deverá ser acompanhada, sempre que possível, de observações e evidências que justifiquem o resultado.
