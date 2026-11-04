@@ -15,3 +15,7 @@ WORLD BANK GROUP. Disability Inclusion: Data and Global Trends. 2023. Disponíve
 CÂMARA MUNICIPAL DE POÇOS DE CALDAS. Requerimento nº 3249/2026. Dispõe acerca das condições de acessibilidade física, pedagógica e comunicacional nas escolas da rede municipal de ensino. Poços de Caldas: Sistema SIAVE, 2026. Disponível em: https://siave.pocosdecaldas.mg.leg.br/. Acesso em: 2 set. 2026
 
 ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT NBR 17225:2025 – Acessibilidade em conteúdo e aplicações web: requisitos. Rio de Janeiro: ABNT, 2025. Disponível em: https://www2.camara.leg.br/a-camara/estruturaadm/gestao-na-camara-dos-deputados/responsabilidade-social-e-ambiental/acessibilidade/pdfs/ABNTNBR17225AcessibilidadeDigitalparaWeb.pdf. Acesso em: 6 set. 2026.
+
+WORLD WIDE WEB CONSORTIUM (W3C). Web Content Accessibility Guidelines (WCAG) 2.2. 2023. Disponível em: https://www.w3.org/TR/WCAG22/ Acesso em: 4 nov. 2026.
+
+
