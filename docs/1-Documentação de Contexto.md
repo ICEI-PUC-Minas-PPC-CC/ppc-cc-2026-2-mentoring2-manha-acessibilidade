@@ -39,7 +39,7 @@ A escolha do tema acessibilidade no ambiente escolar justifica-se pela importân
 
 Investigar essa realidade nas escolas de Poços de Caldas permite conhecer e registrar as condições de acessibilidade arquitetônica e tecnológica encontradas nas redes pública e privada. A análise considera diferentes realidades escolares, buscando identificar tanto possíveis barreiras relacionadas à infraestrutura dos espaços quanto os recursos tecnológicos disponíveis e suas condições de utilização. Esse levantamento possibilita conhecer melhor como a acessibilidade está presente no contexto educacional das instituições investigadas.
 
-Diante disso, o projeto busca realizar um diagnóstico das condições de acessibilidade arquitetônica e tecnológica nas escolas de Poços de Caldas, identificando e registrando possíveis barreiras e os recursos disponíveis nas instituições investigadas. Os resultados poderão oferecer um panorama dessas condições e subsidiar futuras iniciativas de melhoria, a serem avaliadas e desenvolvidas posteriormente pelos responsáveis. Dessa forma, o projeto busca contribuir para o conhecimento da realidade local, tendo como foco o levantamento e a sistematização de informações.
+Diante disso, o projeto busca realizar um diagnóstico das condições de acessibilidade arquitetônica e tecnológica nas escolas de Poços de Caldas, identificando e registrando possíveis barreiras e os recursos disponíveis nas instituições investigadas. Os resultados permitirão apresentar um panorama das condições encontradas nas escolas participantes, contribuindo para o conhecimento da realidade local. Dessa forma, o projeto tem como foco o levantamento, a análise e a sistematização de informações sobre a acessibilidade no ambiente escolar.
 
 
 ## Público-Alvo
