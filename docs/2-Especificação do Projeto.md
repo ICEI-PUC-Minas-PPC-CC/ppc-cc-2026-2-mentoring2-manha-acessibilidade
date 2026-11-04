@@ -43,7 +43,7 @@ Com base nas personas, as histórias de usuários orientam o diagnóstico da ace
 | Marta (Gestora Escolar) | verificar a existência e as condições da sinalização acessível | compreender se a escola oferece recursos adequados de orientação nos ambientes |
 | Marta (Gestora Escolar) | conhecer a disponibilidade e o funcionamento dos recursos tecnológicos de acessibilidade | identificar dificuldades que impedem os estudantes de utilizar os equipamentos e acessar os conteúdos digitais |
 | Marta (Gestora Escolar) | receber um registro organizado das barreiras arquitetônicas e tecnológicas encontradas | apoiar o planejamento de futuras melhorias na instituição |
-| Roberto e Ana (Pais/Responsáveis) | saber se os percursos utilizados por meu filho apresentam obstáculos ou dificuldades de orientação | conhecer as condições oferecidas para seu deslocamento com autonomia e segurança |
+| Roberto e Ana (Pais/Responsáveis) | saber se os percursos utilizados por seu filho apresentam obstáculos ou dificuldades de orientação | conhecer as condições oferecidas para seu deslocamento com autonomia e segurança |
 | Roberto e Ana (Pais/Responsáveis) | saber se a escola possui sinalização tátil e identificação acessível dos ambientes | compreender se meu filho dispõe de recursos para se orientar nos espaços escolares |
 | Roberto e Ana (Pais/Responsáveis) | saber se existem leitores de tela disponíveis e funcionando nos computadores da escola | conhecer os recursos que meu filho pode utilizar nas atividades com tecnologia |
 | Roberto e Ana (Pais/Responsáveis) | saber se os materiais digitais são compatíveis com os recursos de acessibilidade utilizados pelo meu filho | compreender se ele consegue acessar os conteúdos das atividades escolares |
