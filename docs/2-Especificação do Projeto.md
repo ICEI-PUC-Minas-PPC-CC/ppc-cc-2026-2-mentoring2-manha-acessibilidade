@@ -27,7 +27,7 @@
 |**Lucas**|
 |:---:|
 |<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2026-2-mentoring2-manha-acessibilidade/blob/main/docs/img/persona-3.jpeg" width="200" height="200"/>|
-|**Perfil:* Lucas necessita de condições de acessibilidade sensorial para participar das atividades e se deslocar com autonomia no ambiente escolar. O diagnóstico buscará identificar a disponibilidade e as condições de utilização de recursos como sinalização tátil nos pisos, livros em Braille, softwares de leitura de tela nos computadores e materiais didáticos acessíveis, sem pressupor sua ausência.
+|**Perfil:** Lucas necessita de condições de acessibilidade sensorial para participar das atividades e se deslocar com autonomia no ambiente escolar. O diagnóstico buscará identificar a disponibilidade e as condições de utilização de recursos como sinalização tátil nos pisos, livros em Braille, softwares de leitura de tela nos computadores e materiais didáticos acessíveis, sem pressupor sua ausência.
 
 **Necessidade no projeto:** É um dos beneficiários dos resultados do diagnóstico. Suas necessidades orientam a identificação e o registro das condições existentes para transitar com segurança, aprender por meio de recursos táteis e tecnológicos e interagir com os colegas. Os resultados poderão subsidiar futuras melhorias, sem que o projeto desenvolva ou implemente soluções.
 
