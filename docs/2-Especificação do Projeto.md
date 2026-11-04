@@ -24,16 +24,12 @@
 
 **3. O Estudante**
 
+**3. O Estudante**
+
 |**Lucas**|
 |:---:|
-|<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2026-2-mentoring2-manha-acessibilidade/blob/main/docs/img/persona-3.jpeg" width="200" height="200"/>|
-|**Perfil:** Lucas necessita de condições de acessibilidade sensorial para participar das atividades e se deslocar com autonomia no ambiente escolar. O diagnóstico buscará identificar a disponibilidade e as condições de utilização de recursos como sinalização tátil nos pisos, livros em Braille, softwares de leitura de tela nos computadores e materiais didáticos acessíveis, sem pressupor sua ausência.
-
-**Necessidade no projeto:** É um dos beneficiários dos resultados do diagnóstico. Suas necessidades orientam a identificação e o registro das condições existentes para transitar com segurança, aprender por meio de recursos táteis e tecnológicos e interagir com os colegas. Os resultados poderão subsidiar futuras melhorias, sem que o projeto desenvolva ou implemente soluções.
-
-**Aspectos que sua necessidade orienta no diagnóstico:** Verificar a presença de obstáculos que dificultem seu deslocamento entre os ambientes escolares, a existência e a continuidade da sinalização tátil nos percursos e a identificação acessível de salas, banheiros e outros espaços utilizados na rotina escolar. Observar a disponibilidade de computadores com leitores de tela funcionando e a possibilidade de acessar e navegar pelos materiais digitais com esses recursos. Identificar barreiras que o façam depender de outras pessoas para circular ou utilizar os recursos tecnológicos.
-
-
+|<img src="./img/persona-3.jpeg" width="200" height="200"/>|
+|**Perfil:** Lucas, 11 anos, aluno matriculado no ensino fundamental. <br><br>**Contexto:** Lucas necessita de condições de acessibilidade sensorial para participar das atividades e se deslocar com autonomia no ambiente escolar. O diagnóstico buscará identificar a disponibilidade e as condições de utilização de recursos como sinalização tátil nos pisos, livros em Braille, softwares de leitura de tela nos computadores e materiais didáticos acessíveis, sem pressupor sua ausência. <br><br>**Necessidade no projeto:** É um dos beneficiários dos resultados do diagnóstico. Suas necessidades orientam a identificação e o registro das condições existentes para transitar com segurança, aprender por meio de recursos táteis e tecnológicos e interagir com os colegas. Os resultados poderão subsidiar futuras melhorias, sem que o projeto desenvolva ou implemente soluções. <br><br>**Aspectos que sua necessidade orienta no diagnóstico:** Verificar a presença de obstáculos que dificultem seu deslocamento entre os ambientes escolares, a existência e a continuidade da sinalização tátil nos percursos e a identificação acessível de salas, banheiros e outros espaços utilizados na rotina escolar. Observar a disponibilidade de computadores com leitores de tela funcionando e a possibilidade de acessar e navegar pelos materiais digitais com esses recursos. Identificar barreiras que o façam depender de outras pessoas para circular ou utilizar os recursos tecnológicos.|
 ## Histórias de Usuários
 
 Com base nas personas, as histórias de usuários orientam o diagnóstico da acessibilidade arquitetônica e tecnológica das escolas, considerando as necessidades de Marta, de Roberto e Ana e a autonomia e segurança de Lucas.
