@@ -2,7 +2,7 @@
 
 A tecnologia está cada vez mais presente nas escolas, contribuindo para o aprendizado e o acesso à informação. Porém, nem todos os estudantes conseguem utilizar os recursos digitais e os espaços escolares de forma adequada, principalmente pessoas com deficiência visual e neurodivergentes. A falta de acessibilidade em plataformas, materiais e ferramentas digitais, assim como a ausência de adaptações adequadas nos ambientes físicos das instituições de ensino, pode criar barreiras que dificultam a participação e a aprendizagem desses alunos.
 
-Diante disso, este projeto aborda a importância de acessibilidade digital e física no ambiente escolar, buscando destacar a necessidade de recursos, tecnologias, materiais e espaços mais inclusivos e adaptados às diferentes necessidades dos estudantes. A proposta é voltada para escolas públicas e privadas, com o intuito de incentivar instituições de ensino a reconhecerem essas barreiras e buscarem formas de tornar tanto a tecnologia quanto os espaços escolares mais acessíveis, garantindo melhores condições de participação, aprendizagem e inclusão para todos.
+Diante disso, o objetivo central deste projeto é realizar um diagnóstico das condições arquitetônicas e tecnológicas das escolas públicas e privadas de Poços de Caldas. A investigação busca identificar as principais barreiras existentes e os recursos disponíveis nos ambientes físicos e digitais, mapeando as dificuldades que afetam a autonomia e a participação dos estudantes. Dessa forma, a iniciativa fornece uma base estruturada de levantamento de dados para compreender a realidade da acessibilidade no contexto educacional do município.
 
 ## Problema
 
