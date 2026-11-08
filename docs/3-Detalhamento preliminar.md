@@ -126,29 +126,29 @@ A tabela abaixo reúne os aspectos que pretendemos observar e as informações q
 
 | **Aspecto** | **O que podemos observar e analisar** | **O que registrar para apoiar melhorias** |
 | --- | --- | --- |
-| **Entrada da escola** | Se existe um caminho de entrada sem depender exclusivamente de escadas e se há obstáculos ou desníveis. | Barreiras encontradas, localização e alternativas disponíveis. |
+| **Entrada da escola** | Se todas as entradas da edificação são acessíveis, considerando o percurso desde a calçada até o portão ou a porta de entrada. Verificar se existe caminho sem depender exclusivamente de escadas e se há obstáculos ou desníveis. | Condições de cada entrada, barreiras encontradas, localização e alternativas disponíveis. |
 | **Corredores e percursos** | Se os caminhos estão livres e permitem chegar aos ambientes sem desvios ou bloqueios. | Móveis, objetos e trechos que dificultem a passagem. |
-| **Pisos** | Presença de buracos, peças soltas, tapetes ou mudanças de nível que dificultem o deslocamento. | Problema, localização e fotografia autorizada. |
+| **Pisos** | Se os pisos têm superfície regular, firme, estável, antiderrapante e não trepidante para cadeira de rodas. | Características da superfície, irregularidades, localização e fotografia autorizada. |
 | **Portas** | Se móveis ou soleiras dificultam a passagem e se há espaço para aproximar-se e abrir a porta. | Ambiente afetado e dificuldade observada. |
 | **Rampas e escadas** | Se existem alternativas às escadas, se as rampas estão desobstruídas e se os corrimãos apresentam danos aparentes. | Percursos sem alternativa, problemas de conservação e pontos que precisam de avaliação técnica. |
 | **Acesso entre pavimentos** | Se estudantes que não utilizam escadas conseguem chegar aos espaços dos outros andares. | Ambientes inacessíveis e disponibilidade dos equipamentos de acesso. |
 | **Salas e laboratórios** | Se a disposição do mobiliário permite circular, aproximar-se das mesas e participar das atividades. | Obstáculos, espaço disponível e mobiliários que dificultem o uso. |
 | **Biblioteca, recepção e refeitório** | Se é possível aproximar-se das mesas e balcões, circular entre estantes e alcançar os recursos. | Dificuldades de acesso e organização dos espaços. |
 | **Bebedouros** | Se crianças, pessoas de baixa estatura e pessoas em cadeira de rodas conseguem aproximar-se e alcançar a água. | Altura, obstáculos e dificuldades relatadas pelos usuários. |
-| **Banheiros: acesso e disponibilidade** | Se o banheiro pode ser alcançado sem escadas ou obstáculos e se permanece disponível, sem estar trancado ou utilizado como depósito. | Barreiras no percurso e situações que impeçam seu uso. |
+| **Banheiros: acesso e disponibilidade** | Se o banheiro pode ser alcançado sem escadas ou obstáculos e se permanece disponível, sem estar trancado ou utilizado como depósito. Verificar se a porta tem vão livre mínimo de 80 cm. | Barreiras no percurso, medida do vão livre da porta e situações que impeçam seu uso. |
 | **Banheiros: espaço interno** | Se há espaço livre para entrar, fechar a porta e aproximar-se da pia e do vaso sanitário. | Objetos, lixeiras ou disposição dos equipamentos que reduzam a circulação. |
 | **Banheiros: pia** | Se a altura permite o uso pelos estudantes e se há espaço abaixo dela para a aproximação de uma cadeira de rodas. Observar se a torneira pode ser alcançada e utilizada. | Altura da pia, presença de armários ou colunas e dificuldades de aproximação e alcance. |
 | **Banheiros: vaso e apoios** | Se existem barras de apoio próximas ao vaso, se apresentam danos aparentes e se há espaço ao lado para a transferência da cadeira de rodas. | Presença dos apoios, obstáculos e condições que precisam de avaliação especializada. |
 | **Banheiros: acessórios** | Se papel higiênico, sabonete, meios de secar as mãos e espelho estão ao alcance dos usuários. | Acessórios ausentes ou posicionados em locais de difícil acesso. |
 | **Pátios, quadras e auditório** | Se os estudantes conseguem chegar aos espaços e participar das atividades junto aos colegas. | Desníveis, acessos bloqueados e situações que limitem a participação. |
-| **Sinalização** | Se os ambientes e caminhos estão identificados de forma legível e se existem recursos de orientação para pessoas com deficiência visual. | Locais sem identificação e sinalizações difíceis de perceber. |
+| **Sinalização** | Se existe sinalização visual e tátil orientando adequadamente o usuário e se os ambientes e caminhos estão identificados de forma legível. | Recursos existentes, localização, condições de orientação e sinalizações ausentes ou difíceis de perceber. |
 | **Iluminação e segurança** | Se há pontos escuros, ofuscamento ou obstáculos difíceis de perceber nos caminhos. | Localização e descrição dos problemas encontrados. |
 
 ## Instrumento Preliminar de Diagnóstico da Acessibilidade Física
 
 Preparamos este instrumento para organizar as informações que serão levantadas nas visitas às escolas. Ele reúne um checklist, um roteiro de observação, perguntas para gestores e/ou professores e campos para registrar evidências, seguindo os critérios preliminares definidos pelo grupo.
 
-Nesta etapa, o instrumento se concentra na acessibilidade física. As respostas e os resultados permanecem em branco. A proposta será validada por especialista na Etapa 4 antes de sua aplicação nas escolas.
+Nesta etapa, o instrumento se concentra na acessibilidade física. As respostas e os resultados permanecem em branco. Esta versão incorpora as sugestões recebidas na revisão da professora Juliana.
 
 Os mesmos critérios serão utilizados nas escolas públicas e privadas. A identificação da rede permitirá organizar os resultados e comparar as condições encontradas, quando houver dados suficientes, sem antecipar diferenças entre as instituições. O diagnóstico registrará barreiras e recursos existentes para apoiar o planejamento de futuras melhorias.
 
@@ -165,71 +165,77 @@ Os mesmos critérios serão utilizados nas escolas públicas e privadas. A ident
 
 ### Checklist de Acessibilidade Física
 
-Para preencher o checklist, utilizar as seguintes respostas:
+Para preencher o checklist, utilizar somente as seguintes respostas:
 
 - **Sim:** a condição descrita no item foi encontrada no ambiente avaliado.
 - **Não:** a condição descrita no item não foi encontrada.
-- **Parcialmente:** a condição foi encontrada apenas em parte do ambiente ou apresenta limitações que devem ser explicadas.
 - **Não se aplica:** o item não corresponde à situação avaliada, como o acesso entre pavimentos em uma escola com apenas um andar.
-- **Não verificado:** não foi possível avaliar o item durante a visita ou faltaram informações para responder.
+
+O campo **Observações / evidências** deverá ser utilizado para descrever as condições encontradas, registrar limitações e particularidades de cada ambiente e incluir fotografias autorizadas ou referências às imagens correspondentes.
+
+Quando houver diferenças entre os ambientes, identificar nas observações os locais que atendem ou não à condição descrita. Quando necessário, repetir o item para registrar separadamente cada entrada, banheiro ou ambiente avaliado.
+
+Se não houver informações suficientes para responder a um item, deixar as opções sem marcação e explicar nas observações o que não pôde ser verificado e o motivo. A ausência de verificação não deve ser registrada como ausência do recurso.
 
 Durante a visita, o grupo registrará as condições que conseguir observar, como caminhos bloqueados, objetos embaixo da pia ou ausência de barras de apoio. A existência de um recurso, por si só, não significa que ele atenda às normas ou possa ser utilizado por todos os estudantes.
 
-Nos itens sobre altura, alcance e espaço para circulação, registrar as características encontradas e as dificuldades relatadas pelo responsável da escola. Se não houver informações suficientes para responder, marcar **Não verificado** e explicar o motivo. Na validação da Etapa 4, o especialista ajudará a definir quais medidas e verificações técnicas deverão fazer parte da aplicação. O checklist não será utilizado como laudo de conformidade da escola.
+Nos itens sobre altura, alcance e espaço para circulação, registrar as características encontradas, as medidas realizadas e as dificuldades relatadas pelo responsável da escola. Na avaliação da porta do banheiro, registrar o vão livre disponível para passagem com a porta aberta. As verificações técnicas seguirão as orientações da especialista e o roteiro definido para a aplicação. O checklist não será utilizado como laudo de conformidade da escola.
 
-| **Aspecto** | **Item a verificar** | **Resposta** | **Observações / evidência** |
-| --- | --- | --- | --- |
-| Entrada | Existe caminho até a entrada que não dependa exclusivamente de escadas? | | |
-| Entrada | O caminho até a entrada está livre de obstáculos? | | |
-| Circulação | Os corredores e percursos entre os ambientes estão livres de obstáculos? | | |
-| Pisos | Os pisos estão conservados, sem buracos ou peças soltas? | | |
-| Pisos | Os desníveis dos percursos possuem alternativas de passagem? | | |
-| Portas | Há espaço livre para aproximar-se das portas e abri-las? | | |
-| Portas | As passagens pelas portas estão livres de móveis ou objetos? | | |
-| Rampas | Existem rampas ou outras alternativas nos acessos com escadas? | | |
-| Rampas | As rampas estão desobstruídas e sem danos aparentes? | | |
-| Escadas e corrimãos | Existem corrimãos nas rampas e escadas observadas? | | |
-| Escadas e corrimãos | Os corrimãos estão sem danos aparentes ou relatos de instabilidade? | | |
-| Pavimentos | Existe alternativa às escadas para chegar aos ambientes dos outros pavimentos? | | |
-| Pavimentos | Os elevadores ou plataformas existentes estão disponíveis e funcionando? | | |
-| Salas | A disposição dos móveis deixa caminhos livres até as mesas e os espaços de atividade? | | |
-| Mobiliário | Há mesas com espaço inferior livre para aproximação de cadeira de rodas? | | |
-| Laboratórios | Há espaço para aproximar-se das bancadas e dos equipamentos? | | |
-| Biblioteca | Os caminhos entre as estantes estão livres para circulação? | | |
-| Recepção | Há espaço para aproximação ao balcão de atendimento? | | |
-| Refeitório | Há espaço para circulação e aproximação às mesas? | | |
-| Bebedouros | Há espaço livre para aproximar-se dos bebedouros? | | |
-| Bebedouros | A altura e a posição do ponto de água permitem seu alcance por crianças, pessoas de baixa estatura e pessoas em cadeira de rodas? | | |
-| Banheiros | Existe banheiro com recursos de acessibilidade disponível para uso? | | |
-| Banheiros | É possível chegar a esse banheiro sem depender exclusivamente de escadas? | | |
-| Banheiros | O banheiro está livre de materiais armazenados e objetos que bloqueiem o uso? | | |
-| Banheiros | Há espaço livre para entrar, fechar a porta e aproximar-se da pia e do vaso? | | |
-| Pia | Há espaço abaixo da pia, sem armário ou coluna que impeça a aproximação de cadeira de rodas? | | |
-| Pia | A altura da pia e a posição da torneira permitem seu alcance e utilização pelos usuários? | | |
-| Vaso e apoios | Existem barras de apoio próximas ao vaso sanitário? | | |
-| Vaso e apoios | As barras estão sem danos aparentes ou relatos de instabilidade? | | |
-| Vaso e apoios | Há espaço livre ao lado do vaso para transferência da cadeira de rodas? | | |
-| Acessórios | O papel, o sabonete, o espelho e os meios de secar as mãos estão posicionados ao alcance dos usuários? | | |
-| Áreas coletivas | Existem percursos sem obstáculos até pátios, quadras e auditório? | | |
-| Auditório | Existem espaços para cadeira de rodas integrados aos demais assentos? | | |
-| Auditório | Existe alternativa aos degraus para acesso ao palco? | | |
-| Sinalização | Os principais ambientes possuem identificação visível e legível? | | |
-| Sinalização | Existem recursos táteis de identificação ou orientação nos espaços? | | |
-| Sinalização | Os recursos táteis existentes estão conservados e desobstruídos? | | |
-| Iluminação | A iluminação dos percursos está funcionando? | | |
-| Iluminação | Os percursos estão livres de pontos escuros ou ofuscamento que dificultem perceber obstáculos e sinalizações? | | |
-| Segurança | As passagens de saída estão livres de obstáculos? | | |
+| **Aspecto** | **Item a verificar** | **Sim** | **Não** | **Não se aplica** | **Observações / evidências** |
+| --- | --- | :---: | :---: | :---: | --- |
+| Entrada | Todas as entradas da edificação são acessíveis, considerando o percurso desde a calçada até o portão ou a porta de entrada? | | | | |
+| Entrada | Existe caminho até a entrada que não dependa exclusivamente de escadas? | | | | |
+| Entrada | O caminho até a entrada está livre de obstáculos? | | | | |
+| Circulação | Os corredores e percursos entre os ambientes estão livres de obstáculos? | | | | |
+| Pisos | Os pisos têm superfície regular, firme, estável, antiderrapante e não trepidante para cadeira de rodas? | | | | |
+| Pisos | Os desníveis dos percursos possuem alternativas de passagem? | | | | |
+| Portas | Há espaço livre para aproximar-se das portas e abri-las? | | | | |
+| Portas | As passagens pelas portas estão livres de móveis ou objetos? | | | | |
+| Rampas | Existem rampas ou outras alternativas nos acessos com escadas? | | | | |
+| Rampas | As rampas estão desobstruídas e sem danos aparentes? | | | | |
+| Escadas e corrimãos | Existem corrimãos nas rampas e escadas observadas? | | | | |
+| Escadas e corrimãos | Os corrimãos estão sem danos aparentes ou relatos de instabilidade? | | | | |
+| Pavimentos | Existe alternativa às escadas para chegar aos ambientes dos outros pavimentos? | | | | |
+| Pavimentos | Os elevadores ou plataformas existentes estão disponíveis e funcionando? | | | | |
+| Salas | A disposição dos móveis deixa caminhos livres até as mesas e os espaços de atividade? | | | | |
+| Mobiliário | Há mesas com espaço inferior livre para aproximação de cadeira de rodas? | | | | |
+| Laboratórios | Há espaço para aproximar-se das bancadas e dos equipamentos? | | | | |
+| Biblioteca | Os caminhos entre as estantes estão livres para circulação? | | | | |
+| Recepção | Há espaço para aproximação ao balcão de atendimento? | | | | |
+| Refeitório | Há espaço para circulação e aproximação às mesas? | | | | |
+| Bebedouros | Há espaço livre para aproximar-se dos bebedouros? | | | | |
+| Bebedouros | A altura e a posição do ponto de água permitem seu alcance por crianças, pessoas de baixa estatura e pessoas em cadeira de rodas? | | | | |
+| Banheiros | Existe banheiro com recursos de acessibilidade disponível para uso? | | | | |
+| Banheiros | A porta tem vão livre mínimo de 80 cm? | | | | |
+| Banheiros | É possível chegar a esse banheiro sem depender exclusivamente de escadas? | | | | |
+| Banheiros | O banheiro está livre de materiais armazenados e objetos que bloqueiem o uso? | | | | |
+| Banheiros | Há espaço livre para entrar, fechar a porta e aproximar-se da pia e do vaso? | | | | |
+| Pia | Há espaço abaixo da pia, sem armário ou coluna que impeça a aproximação de cadeira de rodas? | | | | |
+| Pia | A altura da pia e a posição da torneira permitem seu alcance e utilização pelos usuários? | | | | |
+| Vaso e apoios | Existem barras de apoio próximas ao vaso sanitário? | | | | |
+| Vaso e apoios | As barras estão sem danos aparentes ou relatos de instabilidade? | | | | |
+| Vaso e apoios | Há espaço livre ao lado do vaso para transferência da cadeira de rodas? | | | | |
+| Acessórios | O papel, o sabonete, o espelho e os meios de secar as mãos estão posicionados ao alcance dos usuários? | | | | |
+| Áreas coletivas | Existem percursos sem obstáculos até pátios, quadras e auditório? | | | | |
+| Auditório | Existem espaços para cadeira de rodas integrados aos demais assentos? | | | | |
+| Auditório | Existe alternativa aos degraus para acesso ao palco? | | | | |
+| Sinalização | Os principais ambientes possuem identificação visível e legível? | | | | |
+| Sinalização | Existe sinalização visual e tátil orientando adequadamente o usuário? | | | | |
+| Sinalização | Os recursos táteis existentes estão conservados e desobstruídos? | | | | |
+| Iluminação | A iluminação dos percursos está funcionando? | | | | |
+| Iluminação | Os percursos estão livres de pontos escuros ou ofuscamento que dificultem perceber obstáculos e sinalizações? | | | | |
+| Segurança | As passagens de saída estão livres de obstáculos? | | | | |
 
 ### Roteiro de Observação
 
-1. **Entrada e chegada:** acompanhar o percurso até a entrada, identificando obstáculos, degraus e alternativas de acesso.
-2. **Circulação e mudanças de nível:** observar corredores, pisos, portas, rampas, escadas e acesso entre pavimentos. Registrar pontos de sombra ou ofuscamento.
+1. **Entrada e chegada:** observar todas as entradas da edificação, considerando o percurso desde a calçada até o portão ou a porta de entrada. Identificar obstáculos, degraus e alternativas de acesso, registrando separadamente as condições de cada entrada.
+2. **Circulação e mudanças de nível:** observar corredores, pisos, portas, rampas, escadas e acesso entre pavimentos. Verificar se os pisos apresentam superfície regular, firme, estável, antiderrapante e não trepidante para cadeira de rodas. Registrar pontos de sombra ou ofuscamento.
 3. **Salas e laboratórios:** observar os caminhos entre os móveis, a aproximação às mesas e bancadas e a disposição dos equipamentos.
 4. **Recepção, biblioteca e refeitório:** observar aproximação aos balcões, circulação entre estantes e mesas e alcance dos recursos. Registrar alturas ou posições que precisem de avaliação.
 5. **Bebedouros:** observar espaço de aproximação, altura e acesso ao ponto de água.
-6. **Banheiros:** observar acesso, disponibilidade e espaço interno. Registrar altura da pia, espaço inferior, posição da torneira, vaso, barras e acessórios, além de obstáculos à circulação e transferência.
+6. **Banheiros:** observar acesso, disponibilidade e espaço interno. Medir e registrar o vão livre da porta, verificando se possui no mínimo 80 cm. Registrar altura da pia, espaço inferior, posição da torneira, vaso, barras e acessórios, além de obstáculos à circulação e transferência.
 7. **Pátios, quadras e auditório:** observar percursos, acessos e condições físicas para participação junto aos colegas.
-8. **Sinalização:** verificar identificação dos ambientes e recursos visuais e táteis ao longo dos percursos.
+8. **Sinalização:** verificar se existe sinalização visual e tátil orientando adequadamente o usuário, considerando a identificação dos ambientes, os percursos, a conservação e a desobstrução dos recursos existentes.
 9. **Conversa com o responsável:** esclarecer dúvidas sobre uso, manutenção e dificuldades relatadas.
 10. **Conferência dos registros:** relacionar as evidências ao checklist e identificar ambientes não visitados e pontos que dependem de avaliação técnica.
 
@@ -256,7 +262,11 @@ Nos itens sobre altura, alcance e espaço para circulação, registrar as caract
 
 ### Campos para Registro de Evidências
 
-Registrar recursos existentes e barreiras encontradas. Para relacionar uma evidência ao checklist, escrever o aspecto ou o texto do item correspondente. Identificar se a informação foi observada pelo grupo ou relatada por um profissional. Fotografias serão feitas somente com autorização, priorizando os espaços e evitando identificar estudantes. Medidas serão registradas quando previstas no roteiro validado. Não serão realizados testes de resistência das barras e corrimãos nem testes de uso que exponham estudantes a dificuldades ou riscos.
+Registrar recursos existentes e barreiras encontradas. Para relacionar uma evidência ao checklist, escrever o aspecto ou o texto do item correspondente. Identificar se a informação foi observada pelo grupo ou relatada por um profissional.
+
+O campo de observações de cada questão poderá conter descrições, medidas, fotografias autorizadas ou referências às imagens e aos documentos correspondentes. Identificar a entrada, o banheiro ou o ambiente específico a que cada registro se refere.
+
+Fotografias serão feitas somente com autorização, priorizando os espaços e evitando identificar estudantes. Medidas serão registradas conforme o roteiro definido para a aplicação, incluindo o vão livre das portas dos banheiros. Não serão realizados testes de resistência das barras e corrimãos nem testes de uso que exponham estudantes a dificuldades ou riscos.
 
 | **Local** | **Condição observada ou relatada** | **Possível dificuldade de uso** | **Fotografia / medida / documento** | **Item do checklist relacionado** |
 | --- | --- | --- | --- | --- |
@@ -270,4 +280,3 @@ Registrar recursos existentes e barreiras encontradas. Para relacionar uma evid�
 | | | | | |
 | | | | | |
 | | | | | |
-
