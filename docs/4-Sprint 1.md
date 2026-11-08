@@ -199,71 +199,35 @@ A tabela a seguir explicita essas relações e orienta o aproveitamento das info
 
 ## Integração das Dimensões de Acessibilidade
 
+Os critérios e as perguntas das dimensões física, digital, pedagógica e comunicacional foram reunidos no **Instrumento Integrado de Diagnóstico de Acessibilidade Escolar**, destinado à coleta de dados nas instituições participantes de Poços de Caldas.
+
+A integração preserva a redação dos itens elaborados pelo grupo e organiza sua aplicação em um único documento, com identificação da escola, instruções de preenchimento, checklists, roteiros de observação e entrevista e campos para registro de evidências.
+
 ### Organização do Instrumento
 
-O instrumento integrado reunirá os itens de acessibilidade física, digital, pedagógica e comunicacional, preservando seus códigos e a separação por dimensão.
+| Dimensão | Identificação dos itens | Conteúdo |
+| --- | --- | --- |
+| Acessibilidade física | AF01 a AF42 | Condições de acesso, circulação, orientação e utilização dos ambientes e equipamentos escolares. |
+| Acessibilidade digital | AD01 a AD16 | Condições de navegação e utilização de plataformas, documentos, materiais digitais e tecnologias assistivas. |
+| Acessibilidade pedagógica | PC01 a PC11 | Práticas e recursos relacionados ao acesso aos conteúdos e à participação nas atividades de aprendizagem. |
+| Acessibilidade comunicacional | PC12 a PC20 | Condições de acesso aos avisos, orientações e canais de comunicação da instituição. |
 
-A aplicação será identificada pela escola, rede de ensino, data, integrantes responsáveis e profissional consultada. Também serão registrados os ambientes e recursos examinados e as limitações de acesso às informações.
+O instrumento reúne **78 itens fechados**, complementados por perguntas abertas à responsável pela escola. Os códigos permitem relacionar cada item às respostas, observações e evidências correspondentes, facilitando a organização e a análise dos dados.
 
-Cada item será acompanhado de sua forma de obtenção da informação, campo de resposta e espaço para observações e evidências.
+### Procedimentos de Coleta e Registro
 
-### Identificação da Aplicação
+As informações serão obtidas por observação dos ambientes, verificação de recursos e materiais, consulta a documentos e entrevista com a responsável pela instituição, conforme o procedimento indicado em cada parte do instrumento.
 
-| Informação | Preenchimento |
-| --- | --- |
-| Escola | |
-| Rede pública ou privada | |
-| Data e horário | |
-| Integrantes responsáveis pelo levantamento | |
-| Nome e função da profissional consultada | |
-| Ambientes e recursos analisados | |
-| Ambientes ou recursos não analisados e motivo | |
+Os itens fechados utilizam as opções **Sim**, **Não** e **Não se aplica**, acompanhadas de espaço para observações e evidências. Quando não houver condições suficientes para responder, o campo permanecerá sem marcação, com justificativa nas observações.
 
-### Instruções Gerais de Preenchimento
+Para distinguir a origem das informações, serão utilizadas as indicações **[R]**, para informações relatadas, e **[V]**, para condições diretamente verificadas. Fotografias, medidas e documentos serão vinculados aos códigos dos itens e à identificação do ambiente ou recurso analisado.
 
-Nos itens fechados, utilizar somente:
+### Finalidade e Aplicação
 
-- **Sim:** a condição descrita foi identificada.
-- **Não:** a condição descrita não foi identificada.
-- **Não se aplica:** o item não corresponde à situação analisada.
+O documento permite examinar as quatro dimensões de forma articulada, mantendo a distinção entre os recursos disponíveis, suas condições de utilização e as possíveis barreiras identificadas. Seu caráter é diagnóstico, sem constituir certificação de conformidade técnica ou prever a execução de intervenções.
 
-Quando não houver informações suficientes para responder, deixar as opções sem marcação e justificar nas observações. A impossibilidade de verificar uma condição não deverá ser interpretada como ausência do recurso.
+Esta versão será utilizada no teste preliminar, antes da aplicação nas escolas, para verificar a clareza dos itens, a sequência de coleta e a adequação das formas de registro.
 
-As perguntas abertas terão registro descritivo. Quando uma pergunta não for respondida, indicar essa situação no campo correspondente.
+### Acesso ao Instrumento Integrado
 
-### Observações e Evidências
-
-Cada registro deverá identificar o item, o ambiente, o recurso ou o material a que se refere. Utilizar as seguintes indicações para distinguir a origem da informação:
-
-- **[R] Relatada:** informação fornecida pela responsável pela escola.
-- **[V] Verificada:** condição examinada diretamente por observação, teste ou consulta a material ou documento.
-
-Uma informação poderá receber as duas indicações quando houver relato e verificação correspondentes. Divergências entre essas fontes deverão ser descritas.
-
-Quando houver diferenças entre ambientes, recursos ou materiais, registrar separadamente as situações analisadas, mantendo o código do item e identificando o local ou recurso correspondente.
-
-Nos itens pedagógicos e comunicacionais, observar também:
-
-- **Exemplos de recursos ou práticas:** quando o item apresentar uma lista de exemplos, marcar “Sim” se ao menos um for identificado e indicar quais foram encontrados. Essa resposta não representa a disponibilidade de todos os exemplos mencionados.
-- **Condições limitadas:** quando a condição existir apenas em parte, marcar “Sim” e descrever seu alcance e suas limitações nas observações.
-- **Ausência de demanda atual:** responder conforme a condição existente na instituição e registrar a ausência de demanda nas observações. A ausência de estudantes que necessitem de determinado recurso, isoladamente, não determinará a resposta “Não se aplica”.
-
-As evidências poderão incluir descrições, medidas, documentos e imagens autorizadas. Sua identificação deverá permitir localizar o registro e compreender sua relação com o item analisado.
-
-### Identificação dos Itens
-
-Os códigos AF01 a AF42 identificam os itens de acessibilidade física; AD01 a AD16, os de acessibilidade digital; e PC01 a PC20, os de acessibilidade pedagógica e comunicacional.
-
-Os identificadores permitem relacionar critérios, respostas e evidências ao longo da coleta e da análise, além de facilitar a comparação dos registros entre as instituições participantes. Não representam pontuação, nível de gravidade ou certificação de conformidade.
-
-## Teste Preliminar do Instrumento
-
-O instrumento será submetido a uma aplicação piloto entre os integrantes do grupo ou em um ambiente escolhido para teste, antes do levantamento nas escolas.
-
-O teste examinará a compreensão das perguntas, a sequência de aplicação, a disponibilidade dos recursos necessários às verificações e a adequação dos campos de resposta. Também serão observados o tempo de aplicação, as repetições entre dimensões e os itens que apresentem dificuldade de interpretação ou registro.
-
-Nos critérios que reúnem mais de uma condição, será verificado se uma única resposta permite representar a situação encontrada ou se há necessidade de registros separados. Será examinada, ainda, a consistência do preenchimento entre os aplicadores, especialmente quanto às condições limitadas, à opção “Não se aplica” e à distinção entre informação relatada e verificada.
-
-Os problemas identificados e as decisões decorrentes do teste serão documentados, com indicação da versão utilizada. Após os ajustes, será disponibilizada a versão do instrumento destinada à aplicação nas escolas.
-
-Os registros da aplicação piloto serão mantidos separados dos dados das instituições investigadas.
+[Consultar o Instrumento Integrado de Diagnóstico de Acessibilidade Escolar no Google Docs](https://docs.google.com/document/d/1qbquQYcT4KoHB1VixPn6oCV84bdHEWAoXAaTC5FyGZg/edit?usp=sharing)
