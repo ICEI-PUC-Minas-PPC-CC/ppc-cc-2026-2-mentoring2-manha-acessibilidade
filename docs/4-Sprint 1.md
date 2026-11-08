@@ -4,7 +4,7 @@ Esta etapa compreende a elaboração e a organização dos instrumentos de colet
 
 O levantamento contempla as dimensões física, digital, pedagógica e comunicacional, por meio de observação dos ambientes, verificação de recursos e materiais e entrevista com a responsável pela instituição. O objetivo é identificar os recursos existentes, suas condições de utilização e as possíveis barreiras ao acesso e à participação dos estudantes.
 
-Os itens serão reunidos em um instrumento integrado e submetidos a uma aplicação piloto, destinada a verificar a clareza das perguntas, a viabilidade dos procedimentos e a adequação dos registros. O diagnóstico não constitui certificação de conformidade técnica nem inclui a execução de intervenções nas instituições.
+Os itens foram reunidos em um instrumento integrado, que será submetido a uma aplicação piloto para verificar a clareza das perguntas, a viabilidade dos procedimentos e a adequação dos registros. O diagnóstico não constitui certificação de conformidade técnica nem inclui a execução de intervenções nas instituições.
 
 ## Acessibilidade Digital
 
@@ -51,7 +51,7 @@ Os critérios AD01 a AD16 abrangem navegação, compatibilidade com tecnologias 
 
 ### Respostas da Análise Digital
 
-Registrar os resultados pelos códigos dos critérios, conforme as instruções gerais de preenchimento do instrumento integrado. Nas observações, identificar os conteúdos testados, as ferramentas utilizadas e as evidências que fundamentam a resposta.
+Registrar os resultados pelos códigos dos critérios, conforme as instruções de preenchimento do instrumento integrado. Nas observações, identificar os conteúdos testados, as ferramentas utilizadas e as evidências que fundamentam a resposta.
 
 Os resultados se referem exclusivamente aos recursos e às funcionalidades examinados, nas condições registradas durante a aplicação.
 
@@ -113,11 +113,11 @@ As perguntas serão dirigidas às práticas da instituição, sem solicitar nome
 
 A consulta e a reprodução de materiais dependerão de autorização. Os exemplos utilizados como evidência deverão estar livres de dados pessoais, e as fotografias não deverão identificar estudantes.
 
-Os resultados serão registrados conforme as instruções gerais do instrumento integrado, distinguindo informações relatadas de condições diretamente verificadas.
+Os resultados serão registrados conforme as instruções do instrumento integrado, distinguindo informações relatadas de condições diretamente verificadas.
 
 ### Critérios de Acessibilidade Pedagógica e Comunicacional
 
-| **Código** | **Dimensão** | **Aspecto** | **Item a verificar** | **Forma de obtenção** | **Sim** | **Não** | **Não se aplica** | **Observações / evidências** |
+| Código | Dimensão | Aspecto | Item a verificar | Forma de obtenção | Sim | Não | Não se aplica | Observações / evidências |
 | --- | --- | --- | --- | --- | :---: | :---: | :---: | --- |
 | PC01 | Pedagógica | Identificação das necessidades | A escola possui alguma prática, prevista ou não em documento institucional (como o projeto político-pedagógico), para identificar com as famílias e os profissionais os recursos e as adaptações de que os estudantes precisam? | Pergunta / Documento | | | | |
 | PC02 | Pedagógica | Apoio especializado | A escola oferece atendimento educacional especializado (AEE), próprio ou por meio de outra instituição, ou conta com profissionais de apoio para acompanhar os estudantes nas atividades? | Pergunta / Observação | | | | |
@@ -144,13 +144,13 @@ Os resultados serão registrados conforme as instruções gerais do instrumento 
 
 **Abertura**
 
-| **Nº** | **Pergunta** | **Itens relacionados** | **Resposta** |
+| Nº | Pergunta | Itens relacionados | Resposta |
 | --- | --- | --- | --- |
 | A01 | De modo geral, como a escola se organiza para atender estudantes com diferentes necessidades de aprendizagem e de comunicação? | Geral | |
 
 **Acessibilidade pedagógica**
 
-| **Nº** | **Pergunta** | **Itens relacionados** | **Resposta** |
+| Nº | Pergunta | Itens relacionados | Resposta |
 | --- | --- | --- | --- |
 | RP01 | Como a escola identifica os recursos ou as adaptações de que os estudantes precisam para acompanhar as aulas? Quem participa desse processo? | PC01 | |
 | RP02 | A escola utiliza materiais adaptados, como textos ampliados, Braille, áudios ou recursos táteis? Se sim, quem os prepara e como eles chegam ao estudante a tempo da aula? | PC03 | |
@@ -165,7 +165,7 @@ Os resultados serão registrados conforme as instruções gerais do instrumento 
 
 **Acessibilidade comunicacional**
 
-| **Nº** | **Pergunta** | **Itens relacionados** | **Resposta** |
+| Nº | Pergunta | Itens relacionados | Resposta |
 | --- | --- | --- | --- |
 | RC01 | Quais canais a escola usa para se comunicar com as famílias? As famílias podem indicar o canal ou o formato de que precisam? | PC12, PC14 | |
 | RC02 | Quando um estudante ou familiar tem dificuldade para ler, ouvir ou compreender um comunicado, como a escola faz para que a informação chegue até ele? E no atendimento presencial, na secretaria ou na recepção? | PC13, PC14 | |
@@ -178,7 +178,7 @@ Os resultados serão registrados conforme as instruções gerais do instrumento 
 
 **Encerramento**
 
-| **Nº** | **Pergunta** | **Itens relacionados** | **Resposta** |
+| Nº | Pergunta | Itens relacionados | Resposta |
 | --- | --- | --- | --- |
 | E01 | Há mais alguma informação sobre a acessibilidade dos conteúdos, das atividades ou da comunicação da escola que deveríamos registrar? | Geral | |
 | E02 | A escola autoriza a consulta a algum material para complementar as respostas, como um comunicado sem dados pessoais, um material adaptado ou parte do acervo da biblioteca? | PC01, PC03, PC04, PC11, PC13, PC14 | |
@@ -189,7 +189,7 @@ Os itens relacionados entre dimensões serão interpretados de acordo com seu ob
 
 A tabela a seguir explicita essas relações e orienta o aproveitamento das informações coletadas, evitando perguntas repetidas durante a aplicação.
 
-| **Item** | **Item relacionado** | **Diferença** |
+| Item | Item relacionado | Diferença |
 | --- | --- | --- |
 | PC04 | AD12 | PC04 registra se a escola utiliza alternativas nos audiovisuais das aulas; AD12 verifica um recurso digital específico. |
 | PC05 | AD04 | PC05 registra a disponibilidade de tecnologia assistiva para a aprendizagem; AD04 verifica a compatibilidade dos recursos digitais com tecnologias assistivas. |
@@ -218,16 +218,46 @@ O instrumento reúne **78 itens fechados**, complementados por perguntas abertas
 
 As informações serão obtidas por observação dos ambientes, verificação de recursos e materiais, consulta a documentos e entrevista com a responsável pela instituição, conforme o procedimento indicado em cada parte do instrumento.
 
-Os itens fechados utilizam as opções **Sim**, **Não** e **Não se aplica**, acompanhadas de espaço para observações e evidências. Quando não houver condições suficientes para responder, o campo permanecerá sem marcação, com justificativa nas observações.
+Os itens fechados utilizam as opções **Sim**, **Não** e **Não se aplica**, acompanhadas de espaço para observações e evidências. Quando não houver condições suficientes para responder, o campo permanecerá sem marcação, com justificativa nas observações. A impossibilidade de verificar uma condição não será interpretada como ausência do recurso.
 
 Para distinguir a origem das informações, serão utilizadas as indicações **[R]**, para informações relatadas, e **[V]**, para condições diretamente verificadas. Fotografias, medidas e documentos serão vinculados aos códigos dos itens e à identificação do ambiente ou recurso analisado.
+
+As perguntas abertas terão registro descritivo. Quando uma pergunta não for respondida, essa situação será indicada no campo correspondente.
+
+Nos itens pedagógicos e comunicacionais que apresentam exemplos de recursos ou práticas, serão identificados nas observações os exemplos encontrados. Quando a condição existir apenas em parte, seu alcance e suas limitações serão descritos, conforme as instruções do instrumento integrado.
 
 ### Finalidade e Aplicação
 
 O documento permite examinar as quatro dimensões de forma articulada, mantendo a distinção entre os recursos disponíveis, suas condições de utilização e as possíveis barreiras identificadas. Seu caráter é diagnóstico, sem constituir certificação de conformidade técnica ou prever a execução de intervenções.
 
-Esta versão será utilizada no teste preliminar, antes da aplicação nas escolas, para verificar a clareza dos itens, a sequência de coleta e a adequação das formas de registro.
+A versão integrada está organizada para a realização do teste preliminar. A conclusão dessa atividade dependerá da aplicação piloto e do registro dos resultados e dos eventuais ajustes necessários.
 
 ### Acesso ao Instrumento Integrado
 
 [Consultar o Instrumento Integrado de Diagnóstico de Acessibilidade Escolar no Google Docs](https://docs.google.com/document/d/1qbquQYcT4KoHB1VixPn6oCV84bdHEWAoXAaTC5FyGZg/edit?usp=sharing)
+
+## Teste Preliminar do Instrumento
+
+### Objetivo
+
+Verificar a compreensão das perguntas e dos critérios, a viabilidade dos procedimentos de coleta e a adequação dos campos de resposta antes da aplicação nas escolas.
+
+### Procedimentos do Teste
+
+A aplicação piloto será realizada entre os integrantes do grupo ou em um ambiente escolhido para teste. A atividade deverá contemplar as quatro dimensões, respeitando as condições disponíveis e registrando os itens que não puderem ser examinados.
+
+Durante o teste, serão observados:
+
+- Clareza das perguntas, dos critérios e das instruções.
+- Sequência e tempo necessário para a aplicação.
+- Disponibilidade de equipamentos, materiais e ferramentas para as verificações.
+- Existência de itens repetidos ou que possam ser respondidos a partir da mesma informação.
+- Dificuldades na utilização das opções de resposta.
+- Espaço disponível para respostas descritivas, observações e evidências.
+- Consistência do preenchimento entre os integrantes.
+- Distinção entre informações relatadas e condições diretamente verificadas.
+
+Nos itens que reúnem mais de uma condição, será examinado se uma única resposta representa adequadamente a situação encontrada ou se são necessários registros separados nas observações.
+
+
+Os dados obtidos na aplicação piloto serão mantidos separados dos resultados das instituições investigadas.
