@@ -1,6 +1,10 @@
-# Etapa 4 — Preparação do Diagnóstico de Acessibilidade Escolar
+# Etapa 4 — Preparação do Instrumento de Diagnóstico de Acessibilidade Escolar
 
-Esta etapa reúne a elaboração do instrumento de acessibilidade digital, das perguntas sobre acessibilidade pedagógica e comunicacional e a integração das quatro dimensões do diagnóstico. Ao final, o instrumento será testado antes de sua aplicação nas escolas.
+Esta etapa compreende a elaboração e a organização dos instrumentos de coleta de dados sobre as condições de acessibilidade das escolas públicas e privadas participantes de Poços de Caldas.
+
+O levantamento contempla as dimensões física, digital, pedagógica e comunicacional, por meio de observação dos ambientes, verificação de recursos e materiais e entrevista com a responsável pela instituição. O objetivo é identificar os recursos existentes, suas condições de utilização e as possíveis barreiras ao acesso e à participação dos estudantes.
+
+Os itens serão reunidos em um instrumento integrado e submetidos a uma aplicação piloto, destinada a verificar a clareza das perguntas, a viabilidade dos procedimentos e a adequação dos registros. O diagnóstico não constitui certificação de conformidade técnica nem inclui a execução de intervenções nas instituições.
 
 ## Acessibilidade Digital
 
@@ -24,7 +28,7 @@ A avaliação poderá contemplar sites institucionais, plataformas educacionais,
 
 ### Critérios de Avaliação
 
-Foram definidos critérios relacionados à navegação, compatibilidade com tecnologias assistivas, apresentação das informações e acessibilidade dos materiais digitais.
+Os critérios AD01 a AD16 abrangem navegação, compatibilidade com tecnologias assistivas, apresentação das informações e acessibilidade dos materiais digitais. Cada item apresenta sua forma de verificação, permitindo relacionar os procedimentos realizados às condições identificadas.
 
 | Código | Critério | Forma de verificação |
 | --- | --- | --- |
@@ -47,7 +51,9 @@ Foram definidos critérios relacionados à navegação, compatibilidade com tecn
 
 ### Respostas da Análise Digital
 
-Preencher uma linha para cada critério apresentado acima, utilizando as opções de resposta descritas na seção de integração do instrumento.
+Registrar os resultados pelos códigos dos critérios, conforme as instruções gerais de preenchimento do instrumento integrado. Nas observações, identificar os conteúdos testados, as ferramentas utilizadas e as evidências que fundamentam a resposta.
+
+Os resultados se referem exclusivamente aos recursos e às funcionalidades examinados, nas condições registradas durante a aplicação.
 
 | Código | Sim | Não | Não se aplica | Observações / evidências |
 | --- | :---: | :---: | :---: | --- |
@@ -68,64 +74,46 @@ Preencher uma linha para cada critério apresentado acima, utilizando as opçõe
 | AD15 | | | | |
 | AD16 | | | | |
 
-Cada resposta deverá ser acompanhada, sempre que possível, de observações e evidências que justifiquem o resultado.
-
 ## Acessibilidade Pedagógica e Comunicacional
 
-### Objetivo
+### Objetivo e Abrangência
 
-Esta parte do instrumento busca compreender como a escola organiza o acesso dos estudantes aos conteúdos, às atividades de aprendizagem e às informações da rotina escolar. O foco está nas práticas, nos recursos e nas dificuldades da instituição. Não serão avaliados individualmente professores ou alunos, nem a qualidade do currículo ou dos métodos de ensino.
+Compreender como a instituição organiza o acesso aos conteúdos, às atividades de aprendizagem e às informações da rotina escolar, considerando suas práticas, os recursos disponíveis e as dificuldades relatadas.
 
-O levantamento será feito principalmente por meio de conversa com a responsável pela escola, complementada, quando autorizado, pela verificação de materiais e pela observação de alguns espaços. Por isso, esta parte é composta por:
+A dimensão pedagógica contempla materiais adaptados, formas de apresentação dos conteúdos, realização de atividades e avaliações, estratégias de apoio e recursos disponibilizados aos professores. A dimensão comunicacional abrange avisos, orientações, canais de comunicação com estudantes e famílias e condições de acesso às informações em reuniões, eventos e situações de emergência.
 
-- **Critérios de acessibilidade pedagógica e comunicacional (PC01 a PC20)**: itens fechados reunidos em uma única tabela, com indicação da dimensão e da forma de obtenção da informação, no mesmo padrão do checklist de acessibilidade física.
-- **Roteiro de perguntas abertas** para a responsável pela escola, relacionado aos códigos dos itens, para registrar como a instituição descreve suas práticas e dificuldades.
+A coleta será realizada por entrevista com a responsável pela escola, complementada, quando autorizado, pela consulta a documentos, verificação de materiais e observação dos espaços. Não serão avaliados individualmente professores ou estudantes, nem a qualidade do currículo ou dos métodos de ensino.
 
-### Delimitação das Dimensões
+### Organização da Coleta
 
-Conforme definido na Etapa 03:
+Esta parte compreende os itens fechados PC01 a PC20 e um roteiro de perguntas abertas. Os códigos permitem relacionar as respostas da entrevista aos critérios e às evidências correspondentes.
 
-- **Acessibilidade pedagógica:** condições de acesso aos conteúdos e de participação nas atividades de aprendizagem. Envolve materiais adaptados, formas de apresentação dos conteúdos, formas de realização das atividades e avaliações, apoio aos estudantes e recursos disponíveis aos professores.
-- **Acessibilidade comunicacional:** condições de acesso às informações necessárias para se orientar e participar da vida escolar. Envolve avisos, comunicados, canais com estudantes e famílias, reuniões e eventos e sinais e alertas da rotina.
+A aplicação seguirá a seguinte sequência:
 
-Como referência, a Lei Brasileira de Inclusão (Lei nº 13.146/2015) considera as barreiras nas comunicações e na informação como um dos tipos de barreira (art. 3º, IV). A lei define a comunicação de forma ampla, incluindo Libras, Braille, caracteres ampliados, linguagem simples, dispositivos multimídia e comunicação aumentativa e alternativa (art. 3º, V), e, no art. 28, define o que incumbe ao poder público assegurar para um sistema educacional inclusivo, como o atendimento educacional especializado e a participação dos estudantes e de suas famílias. O § 1º do mesmo artigo estende a maior parte dessas obrigações às instituições privadas, o que é relevante porque o diagnóstico inclui escolas das duas redes. No contexto local, o Requerimento nº 3249/2026 da Câmara Municipal de Poços de Caldas, de 31 de agosto de 2026, pede informações sobre as condições de acessibilidade nas escolas da rede municipal. Em sua justificativa, o requerimento considera a acessibilidade física, pedagógica e comunicacional essencial para a aprendizagem e a permanência dos alunos, e a pergunta 7 trata especificamente dos profissionais e recursos disponíveis para a acessibilidade pedagógica e comunicacional.
+- **Abertura:** apresentação do grupo, do objetivo do diagnóstico e da forma de registro das informações.
+- **Perguntas abertas:** realização do roteiro sobre acessibilidade pedagógica e comunicacional antes da apresentação dos itens fechados, reduzindo a influência desses itens sobre o relato inicial.
+- **Itens fechados:** preenchimento a partir das informações obtidas e esclarecimento dos pontos ainda não respondidos.
+- **Verificação complementar:** consulta a materiais, documentos e ambientes autorizados pela instituição.
+- **Encerramento:** oportunidade para informações adicionais e esclarecimento sobre a devolutiva dos resultados.
 
-### Cuidados na Aplicação
+A duração estimada da entrevista é de 40 a 50 minutos, além do período necessário à verificação dos materiais. Essa estimativa será examinada durante o teste preliminar.
 
-- Apresentar o objetivo do diagnóstico no início da conversa e perguntar se a responsável autoriza a gravação. Se ela não autorizar, as respostas serão registradas por escrito.
-- Não solicitar nomes, diagnósticos, laudos, relatórios individuais nem o conteúdo de planos individualizados de estudantes. Se a responsável mencionar um caso específico, registrar somente a prática ou o recurso descrito, sem informações que permitam identificar o estudante, o professor ou a família.
-- Formular as perguntas sobre a **escola**, e não sobre um professor ou turma em particular.
-- Não pressupor a existência ou a ausência de recursos. Sempre que possível, perguntar primeiro se a prática existe e, depois, como ela funciona.
-- A responsável pode deixar de responder qualquer pergunta. Nesse caso, registrar “não respondida” nas observações.
-- Para verificar materiais, solicitar exemplos sem dados pessoais (por exemplo, um comunicado já enviado sem nomes, um modelo de atividade ampliada ou parte do acervo da biblioteca). Fotografar somente com autorização, sem identificar estudantes.
+As formas de obtenção indicadas nas tabelas correspondem a:
 
-### Ordem de Aplicação
+- **Pergunta:** informação fornecida pela responsável pela escola.
+- **Material:** verificação de recurso ou material utilizado pela instituição.
+- **Documento:** consulta a documento institucional, como o projeto político-pedagógico.
+- **Observação:** verificação das condições encontradas no local.
 
-1. **Abertura:** apresentação do grupo e do objetivo, e autorização para gravar ou anotar.
-2. **Perguntas abertas** de acessibilidade pedagógica e, depois, de acessibilidade comunicacional. As perguntas abertas vêm antes dos itens fechados para não induzir as respostas.
-3. **Itens fechados:** marcar os itens já respondidos durante a conversa e confirmar os demais com perguntas diretas.
-4. **Verificação de materiais e observação:** conferir, quando autorizado, os itens marcados com essa forma de obtenção.
-5. **Encerramento:** perguntar se há algo mais a registrar e informar como os resultados serão devolvidos à escola.
+### Cuidados na Entrevista e no Registro
 
-Tempo estimado: de 40 a 50 minutos de conversa, mais o tempo de verificação dos materiais. Esse tempo será conferido no teste preliminar.
+A responsável poderá deixar de responder qualquer pergunta. A gravação dependerá de autorização; na ausência dela, as informações serão registradas por escrito.
 
-### Instruções de Preenchimento dos Itens Fechados
+As perguntas serão dirigidas às práticas da instituição, sem solicitar nomes de estudantes, diagnósticos, laudos, relatórios individuais ou conteúdo de planos individualizados. Caso sejam mencionadas situações específicas, o registro se limitará às práticas e aos recursos descritos, sem elementos que permitam identificar estudantes, professores ou familiares.
 
-Seguem as mesmas opções de resposta adotadas no instrumento integrado:
+A consulta e a reprodução de materiais dependerão de autorização. Os exemplos utilizados como evidência deverão estar livres de dados pessoais, e as fotografias não deverão identificar estudantes.
 
-- **Sim:** a condição descrita foi identificada.
-- **Não:** a condição descrita não foi identificada.
-- **Não se aplica:** o item não corresponde à situação da escola (por exemplo, PC11 em uma escola sem biblioteca ou sala de leitura).
-
-Orientações específicas desta parte:
-
-- **Informar a fonte nas observações:** escrever **[R]** quando a informação foi relatada pela responsável e **[V]** quando foi verificada em material, documento ou observação. Um “Sim” relatado não deve ser apresentado como recurso verificado.
-- **Demanda não é critério para “Não se aplica”:** se a escola informar que não há, no momento, estudantes que precisem de determinado recurso, responder com base na condição existente (Sim ou Não) e registrar nas observações que a escola não relata demanda atual.
-- **Itens com mais de um exemplo:** quando o item lista exemplos (como formatos de material ou tipos de adaptação), marcar “Sim” se ao menos um for identificado e indicar nas observações quais foram encontrados.
-- **Condições limitadas:** quando a condição existe apenas em parte (por exemplo, materiais ampliados só em algumas disciplinas), marcar “Sim” e descrever nas observações o alcance e as limitações.
-- **Impossibilidade de verificar:** deixar a resposta em branco e explicar o motivo nas observações. A falta de informação não deve ser registrada como ausência do recurso.
-
-Formas de obtenção da informação: **Pergunta** (à responsável pela escola), **Material** (verificação de recurso ou material), **Documento** (consulta a documento institucional, como o projeto político-pedagógico) e **Observação** (observação no local).
+Os resultados serão registrados conforme as instruções gerais do instrumento integrado, distinguindo informações relatadas de condições diretamente verificadas.
 
 ### Critérios de Acessibilidade Pedagógica e Comunicacional
 
@@ -197,7 +185,9 @@ Formas de obtenção da informação: **Pergunta** (à responsável pela escola)
 
 ### Relação com as Demais Dimensões
 
-Alguns itens se aproximam de itens das outras dimensões. Eles foram mantidos porque observam aspectos diferentes, mas devem ser conferidos na integração e no teste preliminar para evitar repetição:
+Os itens relacionados entre dimensões serão interpretados de acordo com seu objeto de análise. A disponibilidade institucional de um recurso, por exemplo, não equivale à verificação de seu funcionamento em um material ou equipamento específico.
+
+A tabela a seguir explicita essas relações e orienta o aproveitamento das informações coletadas, evitando perguntas repetidas durante a aplicação.
 
 | **Item** | **Item relacionado** | **Diferença** |
 | --- | --- | --- |
@@ -207,22 +197,15 @@ Alguns itens se aproximam de itens das outras dimensões. Eles foram mantidos po
 | PC18 | AF37, AF38 | AF trata da identificação dos ambientes e da orientação nos percursos; PC18 trata do conteúdo e da legibilidade dos avisos afixados. |
 | PC19 | AF42 e pergunta sobre saída em emergência | O instrumento físico trata das rotas e da mobilidade; PC19 trata de como os sinais e os alarmes são percebidos. |
 
-O site, o aplicativo e as redes sociais da escola são analisados nos critérios de acessibilidade digital (AD01 a AD16) e não foram repetidos aqui. Nesta parte, é registrado apenas se esses canais são usados para a comunicação com as famílias (PC12).
-
-### Registro da Elaboração
-
-- **Base utilizada:** as dimensões definidas na Etapa 03 e os tópicos indicados no planejamento desta etapa para as duas dimensões (materiais adaptados, formas de apresentação, estratégias de apoio, recursos dos professores, participação, comunicados, canais com estudantes e famílias e alternativas de comunicação).
-- **Padronização com o instrumento físico:** foram aplicadas as orientações recebidas da Profa. Juliana na revisão do instrumento de acessibilidade física. As respostas usam Sim, Não e Não se aplica, com campo de observações, os itens foram formulados de forma específica e há uma pergunta geral antes das perguntas específicas.
-- **Redução para 20 itens em tabela única:** a primeira versão tinha 33 itens em duas tabelas (19 pedagógicos e 14 comunicacionais). Para tornar a aplicação mais curta, os critérios foram reunidos em uma única tabela, com a coluna “Dimensão” mantendo a separação para a análise. Itens próximos foram agrupados: projeto político-pedagógico e identificação das necessidades (PC01); AEE e profissionais de apoio (PC02); texto ampliado, Braille, áudio e materiais táteis (PC03); atividades e avaliações (PC07); Libras com estudantes, famílias e em eventos (PC15); e sinais sonoros e alarmes de emergência (PC19). Alguns aspectos deixaram de ser itens fechados e passaram a ser tratados apenas no roteiro: articulação entre professores e profissionais de apoio (RP05), preparação dos materiais adaptados (RP02), preferência de formato das famílias (RC01), atendimento na secretaria e na recepção (RC02), procedimento individual de aviso em emergências (RC05) e retorno das famílias sobre dificuldades de acesso à informação (RC07).
-- **Formulação neutra:** as perguntas foram escritas para não pressupor a existência ou a ausência de recursos. Por exemplo, em vez de “Quais materiais adaptados a escola utiliza?”, a pergunta é “A escola utiliza materiais adaptados? Se sim, …”.
-- **Proteção de dados:** foram excluídas perguntas que exigiriam informações pessoais ou clínicas, como quantidade de estudantes por tipo de deficiência, laudos e conteúdo de planos individualizados.
-- **Pontos a observar no teste preliminar:** se os itens agrupados (PC02, PC03, PC07, PC15 e PC19) podem ser respondidos com um único Sim ou Não, ou se precisam ser separados novamente; se o tempo estimado de conversa é viável; se a regra de “Não se aplica” em situações sem demanda atual é compreendida da mesma forma por todos os aplicadores; e se a marcação [R]/[V] nas observações é suficiente para diferenciar informação relatada de informação verificada.
-
 ## Integração das Dimensões de Acessibilidade
 
-Organizar os itens de acessibilidade física, digital, pedagógica e comunicacional em um único instrumento de diagnóstico.
+### Organização do Instrumento
 
-O instrumento deverá começar com a identificação da escola, da data da aplicação, dos integrantes responsáveis pelo levantamento e da profissional consultada. Em seguida, os itens deverão ser separados por dimensão, facilitando sua aplicação.
+O instrumento integrado reunirá os itens de acessibilidade física, digital, pedagógica e comunicacional, preservando seus códigos e a separação por dimensão.
+
+A aplicação será identificada pela escola, rede de ensino, data, integrantes responsáveis e profissional consultada. Também serão registrados os ambientes e recursos examinados e as limitações de acesso às informações.
+
+Cada item será acompanhado de sua forma de obtenção da informação, campo de resposta e espaço para observações e evidências.
 
 ### Identificação da Aplicação
 
@@ -236,16 +219,7 @@ O instrumento deverá começar com a identificação da escola, da data da aplic
 | Ambientes e recursos analisados | |
 | Ambientes ou recursos não analisados e motivo | |
 
-### Organização do Instrumento
-
-Para cada item, apresentar:
-
-- O critério ou a pergunta.
-- A forma de obtenção da informação: observação, pergunta à responsável, verificação de recurso ou material, consulta a documento ou outra evidência.
-- As opções de resposta.
-- Um espaço para observações e evidências.
-
-### Opções de Resposta
+### Instruções Gerais de Preenchimento
 
 Nos itens fechados, utilizar somente:
 
@@ -253,30 +227,43 @@ Nos itens fechados, utilizar somente:
 - **Não:** a condição descrita não foi identificada.
 - **Não se aplica:** o item não corresponde à situação analisada.
 
-Cada questão terá um campo de **observações e evidências** para descrever as condições encontradas, explicar limitações e incluir imagens autorizadas ou referências aos registros.
+Quando não houver informações suficientes para responder, deixar as opções sem marcação e justificar nas observações. A impossibilidade de verificar uma condição não deverá ser interpretada como ausência do recurso.
 
-Quando houver diferenças entre ambientes, recursos ou materiais, identificar essas particularidades nas observações. Quando necessário, registrar separadamente cada situação analisada.
+As perguntas abertas terão registro descritivo. Quando uma pergunta não for respondida, indicar essa situação no campo correspondente.
 
-Quando não for possível verificar um item, deixar a resposta em branco e explicar o motivo nas observações. A impossibilidade de verificar não deverá ser registrada como ausência do recurso.
+### Observações e Evidências
 
-As perguntas abertas terão espaço para registrar a resposta da responsável pela escola.
+Cada registro deverá identificar o item, o ambiente, o recurso ou o material a que se refere. Utilizar as seguintes indicações para distinguir a origem da informação:
 
-**Resultado esperado:** um único instrumento, organizado pelas quatro dimensões, com instruções claras de preenchimento.
+- **[R] Relatada:** informação fornecida pela responsável pela escola.
+- **[V] Verificada:** condição examinada diretamente por observação, teste ou consulta a material ou documento.
+
+Uma informação poderá receber as duas indicações quando houver relato e verificação correspondentes. Divergências entre essas fontes deverão ser descritas.
+
+Quando houver diferenças entre ambientes, recursos ou materiais, registrar separadamente as situações analisadas, mantendo o código do item e identificando o local ou recurso correspondente.
+
+Nos itens pedagógicos e comunicacionais, observar também:
+
+- **Exemplos de recursos ou práticas:** quando o item apresentar uma lista de exemplos, marcar “Sim” se ao menos um for identificado e indicar quais foram encontrados. Essa resposta não representa a disponibilidade de todos os exemplos mencionados.
+- **Condições limitadas:** quando a condição existir apenas em parte, marcar “Sim” e descrever seu alcance e suas limitações nas observações.
+- **Ausência de demanda atual:** responder conforme a condição existente na instituição e registrar a ausência de demanda nas observações. A ausência de estudantes que necessitem de determinado recurso, isoladamente, não determinará a resposta “Não se aplica”.
+
+As evidências poderão incluir descrições, medidas, documentos e imagens autorizadas. Sua identificação deverá permitir localizar o registro e compreender sua relação com o item analisado.
+
+### Identificação dos Itens
+
+Os códigos AF01 a AF42 identificam os itens de acessibilidade física; AD01 a AD16, os de acessibilidade digital; e PC01 a PC20, os de acessibilidade pedagógica e comunicacional.
+
+Os identificadores permitem relacionar critérios, respostas e evidências ao longo da coleta e da análise, além de facilitar a comparação dos registros entre as instituições participantes. Não representam pontuação, nível de gravidade ou certificação de conformidade.
 
 ## Teste Preliminar do Instrumento
 
-Aplicar o instrumento entre os próprios integrantes do grupo ou em um ambiente escolhido para teste, antes de utilizá-lo nas escolas.
+O instrumento será submetido a uma aplicação piloto entre os integrantes do grupo ou em um ambiente escolhido para teste, antes do levantamento nas escolas.
 
-Durante o teste, verificar:
+O teste examinará a compreensão das perguntas, a sequência de aplicação, a disponibilidade dos recursos necessários às verificações e a adequação dos campos de resposta. Também serão observados o tempo de aplicação, as repetições entre dimensões e os itens que apresentem dificuldade de interpretação ou registro.
 
-- Se as perguntas e instruções são compreensíveis.
-- Se existem itens repetidos.
-- Se algum critério é difícil de observar ou responder.
-- Se a forma de obtenção da informação é adequada.
-- Se as opções de resposta atendem às situações encontradas.
-- Se há espaço suficiente para observações e evidências.
-- Se a sequência dos itens facilita a aplicação.
+Nos critérios que reúnem mais de uma condição, será verificado se uma única resposta permite representar a situação encontrada ou se há necessidade de registros separados. Será examinada, ainda, a consistência do preenchimento entre os aplicadores, especialmente quanto às condições limitadas, à opção “Não se aplica” e à distinção entre informação relatada e verificada.
 
-Identificar os problemas encontrados e ajustar o instrumento antes da aplicação nas escolas. Documentar as condições do teste e as principais alterações realizadas, sem apresentar os resultados da aplicação piloto como resultados das instituições investigadas.
+Os problemas identificados e as decisões decorrentes do teste serão documentados, com indicação da versão utilizada. Após os ajustes, será disponibilizada a versão do instrumento destinada à aplicação nas escolas.
 
-**Resultado esperado:** uma versão final do instrumento integrado, ajustada após o teste preliminar e pronta para aplicação nas escolas.
+Os registros da aplicação piloto serão mantidos separados dos dados das instituições investigadas.
