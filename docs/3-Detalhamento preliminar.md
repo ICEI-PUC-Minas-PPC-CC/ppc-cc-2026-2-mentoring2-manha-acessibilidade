@@ -122,9 +122,9 @@ Para preparar o diagnóstico, selecionamos aspectos que podemos observar durante
 
 Para definir os critérios, utilizamos o Manual de Acessibilidade Espacial para Escolas, publicado pelo Ministério da Educação em 2009. O material apresenta exemplos de dificuldades de acesso, circulação e uso dos ambientes escolares que ajudam a orientar nosso diagnóstico. Como algumas recomendações técnicas foram atualizadas desde sua publicação, as normas atuais serão utilizadas como referência para as medidas e os detalhes da avaliação.
 
-A tabela abaixo reúne os aspectos que pretendemos observar e as informações que precisamos registrar para discutir possíveis melhorias.
+A tabela abaixo reúne os aspectos que pretendemos observar e as informações que precisamos registrar para caracterizar as condições de acessibilidade existentes.
 
-| **Aspecto** | **O que podemos observar e analisar** | **O que registrar para apoiar melhorias** |
+| **Aspecto** | **O que podemos observar e analisar** | **O que registrar no diagnóstico** |
 | --- | --- | --- |
 | **Entrada da escola** | Se todas as entradas da edificação são acessíveis, considerando o percurso desde a calçada até o portão ou a porta de entrada. Verificar se existe caminho sem depender exclusivamente de escadas e se há obstáculos ou desníveis. | Condições de cada entrada, barreiras encontradas, localização e alternativas disponíveis. |
 | **Corredores e percursos** | Se os caminhos estão livres e permitem chegar aos ambientes sem desvios ou bloqueios. | Móveis, objetos e trechos que dificultem a passagem. |
@@ -163,6 +163,14 @@ Os mesmos critérios serão utilizados nas escolas públicas e privadas. A ident
 | Nome e função do profissional consultado | |
 | Ambientes não observados e motivo | |
 
+### Identificação e Rastreabilidade dos Itens
+
+Cada item do checklist recebeu um identificador composto pela sigla **AF**, correspondente à dimensão de **Acessibilidade Física**, seguida de uma sequência numérica de dois dígitos, de **AF01 a AF42**.
+
+Essa identificação permite relacionar cada item às respostas, observações, fotografias, medidas e documentos utilizados como evidência. Também facilita a organização e a consulta dos dados, a comparação dos registros entre as instituições participantes e a integração com as demais dimensões do diagnóstico.
+
+Os códigos identificam os itens do instrumento e não representam pontuação, classificação de gravidade ou certificação de conformidade técnica. Na aplicação em diferentes ambientes ou instituições, o mesmo código deverá ser mantido, acompanhado da identificação da escola e do local avaliado.
+
 ### Checklist de Acessibilidade Física
 
 Para preencher o checklist, utilizar somente as seguintes respostas:
@@ -173,7 +181,7 @@ Para preencher o checklist, utilizar somente as seguintes respostas:
 
 O campo **Observações / evidências** deverá ser utilizado para descrever as condições encontradas, registrar limitações e particularidades de cada ambiente e incluir fotografias autorizadas ou referências às imagens correspondentes.
 
-Quando houver diferenças entre os ambientes, identificar nas observações os locais que atendem ou não à condição descrita. Quando necessário, repetir o item para registrar separadamente cada entrada, banheiro ou ambiente avaliado.
+Quando houver diferenças entre os ambientes, identificar nas observações os locais que atendem ou não à condição descrita. Quando necessário, repetir o item para registrar separadamente cada entrada, banheiro ou ambiente avaliado, mantendo seu código de identificação.
 
 Se não houver informações suficientes para responder a um item, deixar as opções sem marcação e explicar nas observações o que não pôde ser verificado e o motivo. A ausência de verificação não deve ser registrada como ausência do recurso.
 
@@ -181,50 +189,50 @@ Durante a visita, o grupo registrará as condições que conseguir observar, com
 
 Nos itens sobre altura, alcance e espaço para circulação, registrar as características encontradas, as medidas realizadas e as dificuldades relatadas pelo responsável da escola. Na avaliação da porta do banheiro, registrar o vão livre disponível para passagem com a porta aberta. As verificações técnicas seguirão as orientações da especialista e o roteiro definido para a aplicação. O checklist não será utilizado como laudo de conformidade da escola.
 
-| **Aspecto** | **Item a verificar** | **Sim** | **Não** | **Não se aplica** | **Observações / evidências** |
-| --- | --- | :---: | :---: | :---: | --- |
-| Entrada | Todas as entradas da edificação são acessíveis, considerando o percurso desde a calçada até o portão ou a porta de entrada? | | | | |
-| Entrada | Existe caminho até a entrada que não dependa exclusivamente de escadas? | | | | |
-| Entrada | O caminho até a entrada está livre de obstáculos? | | | | |
-| Circulação | Os corredores e percursos entre os ambientes estão livres de obstáculos? | | | | |
-| Pisos | Os pisos têm superfície regular, firme, estável, antiderrapante e não trepidante para cadeira de rodas? | | | | |
-| Pisos | Os desníveis dos percursos possuem alternativas de passagem? | | | | |
-| Portas | Há espaço livre para aproximar-se das portas e abri-las? | | | | |
-| Portas | As passagens pelas portas estão livres de móveis ou objetos? | | | | |
-| Rampas | Existem rampas ou outras alternativas nos acessos com escadas? | | | | |
-| Rampas | As rampas estão desobstruídas e sem danos aparentes? | | | | |
-| Escadas e corrimãos | Existem corrimãos nas rampas e escadas observadas? | | | | |
-| Escadas e corrimãos | Os corrimãos estão sem danos aparentes ou relatos de instabilidade? | | | | |
-| Pavimentos | Existe alternativa às escadas para chegar aos ambientes dos outros pavimentos? | | | | |
-| Pavimentos | Os elevadores ou plataformas existentes estão disponíveis e funcionando? | | | | |
-| Salas | A disposição dos móveis deixa caminhos livres até as mesas e os espaços de atividade? | | | | |
-| Mobiliário | Há mesas com espaço inferior livre para aproximação de cadeira de rodas? | | | | |
-| Laboratórios | Há espaço para aproximar-se das bancadas e dos equipamentos? | | | | |
-| Biblioteca | Os caminhos entre as estantes estão livres para circulação? | | | | |
-| Recepção | Há espaço para aproximação ao balcão de atendimento? | | | | |
-| Refeitório | Há espaço para circulação e aproximação às mesas? | | | | |
-| Bebedouros | Há espaço livre para aproximar-se dos bebedouros? | | | | |
-| Bebedouros | A altura e a posição do ponto de água permitem seu alcance por crianças, pessoas de baixa estatura e pessoas em cadeira de rodas? | | | | |
-| Banheiros | Existe banheiro com recursos de acessibilidade disponível para uso? | | | | |
-| Banheiros | A porta tem vão livre mínimo de 80 cm? | | | | |
-| Banheiros | É possível chegar a esse banheiro sem depender exclusivamente de escadas? | | | | |
-| Banheiros | O banheiro está livre de materiais armazenados e objetos que bloqueiem o uso? | | | | |
-| Banheiros | Há espaço livre para entrar, fechar a porta e aproximar-se da pia e do vaso? | | | | |
-| Pia | Há espaço abaixo da pia, sem armário ou coluna que impeça a aproximação de cadeira de rodas? | | | | |
-| Pia | A altura da pia e a posição da torneira permitem seu alcance e utilização pelos usuários? | | | | |
-| Vaso e apoios | Existem barras de apoio próximas ao vaso sanitário? | | | | |
-| Vaso e apoios | As barras estão sem danos aparentes ou relatos de instabilidade? | | | | |
-| Vaso e apoios | Há espaço livre ao lado do vaso para transferência da cadeira de rodas? | | | | |
-| Acessórios | O papel, o sabonete, o espelho e os meios de secar as mãos estão posicionados ao alcance dos usuários? | | | | |
-| Áreas coletivas | Existem percursos sem obstáculos até pátios, quadras e auditório? | | | | |
-| Auditório | Existem espaços para cadeira de rodas integrados aos demais assentos? | | | | |
-| Auditório | Existe alternativa aos degraus para acesso ao palco? | | | | |
-| Sinalização | Os principais ambientes possuem identificação visível e legível? | | | | |
-| Sinalização | Existe sinalização visual e tátil orientando adequadamente o usuário? | | | | |
-| Sinalização | Os recursos táteis existentes estão conservados e desobstruídos? | | | | |
-| Iluminação | A iluminação dos percursos está funcionando? | | | | |
-| Iluminação | Os percursos estão livres de pontos escuros ou ofuscamento que dificultem perceber obstáculos e sinalizações? | | | | |
-| Segurança | As passagens de saída estão livres de obstáculos? | | | | |
+| **Código** | **Aspecto** | **Item a verificar** | **Sim** | **Não** | **Não se aplica** | **Observações / evidências** |
+| --- | --- | --- | :---: | :---: | :---: | --- |
+| AF01 | Entrada | Todas as entradas da edificação são acessíveis, considerando o percurso desde a calçada até o portão ou a porta de entrada? | | | | |
+| AF02 | Entrada | Existe caminho até a entrada que não dependa exclusivamente de escadas? | | | | |
+| AF03 | Entrada | O caminho até a entrada está livre de obstáculos? | | | | |
+| AF04 | Circulação | Os corredores e percursos entre os ambientes estão livres de obstáculos? | | | | |
+| AF05 | Pisos | Os pisos têm superfície regular, firme, estável, antiderrapante e não trepidante para cadeira de rodas? | | | | |
+| AF06 | Pisos | Os desníveis dos percursos possuem alternativas de passagem? | | | | |
+| AF07 | Portas | Há espaço livre para aproximar-se das portas e abri-las? | | | | |
+| AF08 | Portas | As passagens pelas portas estão livres de móveis ou objetos? | | | | |
+| AF09 | Rampas | Existem rampas ou outras alternativas nos acessos com escadas? | | | | |
+| AF10 | Rampas | As rampas estão desobstruídas e sem danos aparentes? | | | | |
+| AF11 | Escadas e corrimãos | Existem corrimãos nas rampas e escadas observadas? | | | | |
+| AF12 | Escadas e corrimãos | Os corrimãos estão sem danos aparentes ou relatos de instabilidade? | | | | |
+| AF13 | Pavimentos | Existe alternativa às escadas para chegar aos ambientes dos outros pavimentos? | | | | |
+| AF14 | Pavimentos | Os elevadores ou plataformas existentes estão disponíveis e funcionando? | | | | |
+| AF15 | Salas | A disposição dos móveis deixa caminhos livres até as mesas e os espaços de atividade? | | | | |
+| AF16 | Mobiliário | Há mesas com espaço inferior livre para aproximação de cadeira de rodas? | | | | |
+| AF17 | Laboratórios | Há espaço para aproximar-se das bancadas e dos equipamentos? | | | | |
+| AF18 | Biblioteca | Os caminhos entre as estantes estão livres para circulação? | | | | |
+| AF19 | Recepção | Há espaço para aproximação ao balcão de atendimento? | | | | |
+| AF20 | Refeitório | Há espaço para circulação e aproximação às mesas? | | | | |
+| AF21 | Bebedouros | Há espaço livre para aproximar-se dos bebedouros? | | | | |
+| AF22 | Bebedouros | A altura e a posição do ponto de água permitem seu alcance por crianças, pessoas de baixa estatura e pessoas em cadeira de rodas? | | | | |
+| AF23 | Banheiros | Existe banheiro com recursos de acessibilidade disponível para uso? | | | | |
+| AF24 | Banheiros | A porta tem vão livre mínimo de 80 cm? | | | | |
+| AF25 | Banheiros | É possível chegar a esse banheiro sem depender exclusivamente de escadas? | | | | |
+| AF26 | Banheiros | O banheiro está livre de materiais armazenados e objetos que bloqueiem o uso? | | | | |
+| AF27 | Banheiros | Há espaço livre para entrar, fechar a porta e aproximar-se da pia e do vaso? | | | | |
+| AF28 | Pia | Há espaço abaixo da pia, sem armário ou coluna que impeça a aproximação de cadeira de rodas? | | | | |
+| AF29 | Pia | A altura da pia e a posição da torneira permitem seu alcance e utilização pelos usuários? | | | | |
+| AF30 | Vaso e apoios | Existem barras de apoio próximas ao vaso sanitário? | | | | |
+| AF31 | Vaso e apoios | As barras estão sem danos aparentes ou relatos de instabilidade? | | | | |
+| AF32 | Vaso e apoios | Há espaço livre ao lado do vaso para transferência da cadeira de rodas? | | | | |
+| AF33 | Acessórios | O papel, o sabonete, o espelho e os meios de secar as mãos estão posicionados ao alcance dos usuários? | | | | |
+| AF34 | Áreas coletivas | Existem percursos sem obstáculos até pátios, quadras e auditório? | | | | |
+| AF35 | Auditório | Existem espaços para cadeira de rodas integrados aos demais assentos? | | | | |
+| AF36 | Auditório | Existe alternativa aos degraus para acesso ao palco? | | | | |
+| AF37 | Sinalização | Os principais ambientes possuem identificação visível e legível? | | | | |
+| AF38 | Sinalização | Existe sinalização visual e tátil orientando adequadamente o usuário? | | | | |
+| AF39 | Sinalização | Os recursos táteis existentes estão conservados e desobstruídos? | | | | |
+| AF40 | Iluminação | A iluminação dos percursos está funcionando? | | | | |
+| AF41 | Iluminação | Os percursos estão livres de pontos escuros ou ofuscamento que dificultem perceber obstáculos e sinalizações? | | | | |
+| AF42 | Segurança | As passagens de saída estão livres de obstáculos? | | | | |
 
 ### Roteiro de Observação
 
@@ -237,7 +245,7 @@ Nos itens sobre altura, alcance e espaço para circulação, registrar as caract
 7. **Pátios, quadras e auditório:** observar percursos, acessos e condições físicas para participação junto aos colegas.
 8. **Sinalização:** verificar se existe sinalização visual e tátil orientando adequadamente o usuário, considerando a identificação dos ambientes, os percursos, a conservação e a desobstrução dos recursos existentes.
 9. **Conversa com o responsável:** esclarecer dúvidas sobre uso, manutenção e dificuldades relatadas.
-10. **Conferência dos registros:** relacionar as evidências ao checklist e identificar ambientes não visitados e pontos que dependem de avaliação técnica.
+10. **Conferência dos registros:** relacionar as evidências aos códigos dos itens do checklist e identificar ambientes não visitados e pontos que dependem de avaliação técnica.
 
 ### Perguntas para Gestores/Professores
 
@@ -262,13 +270,13 @@ Nos itens sobre altura, alcance e espaço para circulação, registrar as caract
 
 ### Campos para Registro de Evidências
 
-Registrar recursos existentes e barreiras encontradas. Para relacionar uma evidência ao checklist, escrever o aspecto ou o texto do item correspondente. Identificar se a informação foi observada pelo grupo ou relatada por um profissional.
+Registrar recursos existentes e barreiras encontradas. Cada evidência deverá ser vinculada ao código do item correspondente no checklist, acompanhado da identificação da escola e do ambiente avaliado. Uma mesma evidência poderá estar relacionada a mais de um item, desde que todos os códigos correspondentes sejam indicados.
 
-O campo de observações de cada questão poderá conter descrições, medidas, fotografias autorizadas ou referências às imagens e aos documentos correspondentes. Identificar a entrada, o banheiro ou o ambiente específico a que cada registro se refere.
+Identificar se a informação foi observada pelo grupo ou relatada por um profissional. O campo de observações de cada questão poderá conter descrições, medidas, fotografias autorizadas ou referências às imagens e aos documentos correspondentes.
 
 Fotografias serão feitas somente com autorização, priorizando os espaços e evitando identificar estudantes. Medidas serão registradas conforme o roteiro definido para a aplicação, incluindo o vão livre das portas dos banheiros. Não serão realizados testes de resistência das barras e corrimãos nem testes de uso que exponham estudantes a dificuldades ou riscos.
 
-| **Local** | **Condição observada ou relatada** | **Possível dificuldade de uso** | **Fotografia / medida / documento** | **Item do checklist relacionado** |
+| **Código(s) do checklist** | **Local** | **Condição observada ou relatada** | **Possível dificuldade de uso** | **Fotografia / medida / documento** |
 | --- | --- | --- | --- | --- |
 | | | | | |
 | | | | | |
