@@ -12,7 +12,9 @@ UNICEF. Seen, Counted, Included: Using data to shed light on the well-being of c
 
 WORLD BANK GROUP. Disability Inclusion: Data and Global Trends. 2023. Disponível em: https://www.worldbank.org/ext/en/topic/social-development/disability-inclusion. Acesso em: 2 set. 2026.
 
-CÂMARA MUNICIPAL DE POÇOS DE CALDAS. Requerimento nº 3249/2026. Dispõe acerca das condições de acessibilidade física, pedagógica e comunicacional nas escolas da rede municipal de ensino. Poços de Caldas: Sistema SIAVE, 2026. Disponível em: https://siave.pocosdecaldas.mg.leg.br/. Acesso em: 2 set. 2026
+BRASIL. Lei nº 13.146, de 6 de julho de 2015. Institui a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência). Diário Oficial da União, Brasília, DF, 7 jul. 2015. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm. Acesso em: 8 nov. 2026.
+
+CÂMARA MUNICIPAL DE POÇOS DE CALDAS. Requerimento nº 3249/2026. Pedido de informações sobre as condições de acessibilidade nas escolas da rede municipal de ensino de Poços de Caldas. Autoria: Vereador Ricardo Sabino dos Santos. Poços de Caldas, 31 ago. 2026. Disponível em: https://siave.pocosdecaldas.mg.leg.br/. Acesso em: 2 set. 2026.
 
 ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT NBR 17225:2025 – Acessibilidade em conteúdo e aplicações web: requisitos. Rio de Janeiro: ABNT, 2025. Disponível em: https://www2.camara.leg.br/a-camara/estruturaadm/gestao-na-camara-dos-deputados/responsabilidade-social-e-ambiental/acessibilidade/pdfs/ABNTNBR17225AcessibilidadeDigitalparaWeb.pdf. Acesso em: 6 set. 2026.
 
