@@ -268,12 +268,12 @@ Foram selecionadas seis escolas, sendo três públicas e três privadas, para a 
 
 | Escola | Rede | Integrantes responsáveis |
 | --- | --- | --- |
-| Jesus Maria José | Privada | Luisa Leal e Júlia Corrêa |
-| Criativa | Privada | Luisa Leal e Júlia Corrêa |
+| Jesus Maria José (Nós vamos fazer contato) | Privada | Luisa Leal e Júlia Corrêa |
+| Criativa (Nós vamos fazer contato)| Privada | Luisa Leal e Júlia Corrêa |
 | Arlindo Pereira | Pública | Brenda Batagini, Rayane Dourado e Giovanna Zangiacomi |
 | Davi Campista | Pública | Brenda Batagini, Rayane Dourado e Giovanna Zangiacomi |
 | Pelicano | Privada | Daniel Ferreira e Mateus Henrique |
-| Escola Municipal Isaura Vilela Brasileiro — Botelhos | Pública | Daniel Ferreira e Mateus Henrique |
+| Escola Municipal Isaura Vilela Brasileiro — Botelhos (Nós vamos fazer contato) | Pública | Daniel Ferreira e Mateus Henrique |
 
 As visitas serão realizadas mediante autorização das instituições, utilizando o instrumento integrado de diagnóstico. A coleta contemplará a observação dos ambientes, a verificação de recursos e materiais e a conversa com os profissionais responsáveis, respeitando a disponibilidade de cada escola.
 
