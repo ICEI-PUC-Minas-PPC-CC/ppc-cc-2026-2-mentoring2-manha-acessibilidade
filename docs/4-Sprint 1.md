@@ -261,3 +261,22 @@ Nos itens que reúnem mais de uma condição, será examinado se uma única resp
 
 
 Os dados obtidos na aplicação piloto serão mantidos separados dos resultados das instituições investigadas.
+
+## Escolas Selecionadas para o Diagnóstico
+
+Foram selecionadas seis escolas, sendo três públicas e três privadas, para a realização do diagnóstico das condições de acessibilidade física, digital, pedagógica e comunicacional. A distribuição das visitas entre os integrantes busca organizar a coleta de dados e definir os responsáveis pelo levantamento em cada instituição.
+
+| Escola | Rede | Integrantes responsáveis |
+| --- | --- | --- |
+| Jesus Maria José | Privada | Luisa Leal e Júlia Corrêa |
+| Criativa | Privada | Luisa Leal e Júlia Corrêa |
+| Arlindo Pereira | Pública | Brenda Batagini, Rayane Dourado e Giovanna Zangiacomi |
+| Davi Campista | Pública | Brenda Batagini, Rayane Dourado e Giovanna Zangiacomi |
+| Pelicano | Privada | Daniel Ferreira e Mateus Henrique |
+| Escola Municipal Isaura Vilela Brasileiro — Botelhos | Pública | Daniel Ferreira e Mateus Henrique |
+
+As visitas serão realizadas mediante autorização das instituições, utilizando o instrumento integrado de diagnóstico. A coleta contemplará a observação dos ambientes, a verificação de recursos e materiais e a conversa com os profissionais responsáveis, respeitando a disponibilidade de cada escola.
+
+A aplicação do mesmo instrumento permitirá organizar as informações e comparar as condições identificadas, quando houver dados suficientes. As conclusões ficarão restritas às instituições investigadas, sem generalização para as redes pública e privada.
+
+A inclusão da Escola Municipal Isaura Vilela Brasileiro, localizada em Botelhos, amplia o recorte territorial inicialmente definido para Poços de Caldas.
